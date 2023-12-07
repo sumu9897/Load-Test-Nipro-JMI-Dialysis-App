@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701923422989,565,Appointment List,200,OK,Thread Group 1-23,text,true,,6671,419,134,134,https://app.niprojmidialysis.com,198,0,184
+1701923422989,202,Appointment List-0,301,Moved Permanently,Thread Group 1-23,text,true,,535,147,134,134,https://app.niprojmidialysis.com/appointment/dialysis/,198,0,184
+1701923423192,210,Appointment List-1,302,Found,Thread Group 1-23,text,true,,1576,146,134,134,https://app.niprojmidialysis.com/appointment/dialysis,206,0,0
+1701923423402,152,Appointment List-2,200,OK,Thread Group 1-23,text,true,,4560,126,134,134,https://app.niprojmidialysis.com,146,0,0
+1701923422941,619,Appointment List,200,OK,Thread Group 1-10,text,true,,6671,419,136,136,https://app.niprojmidialysis.com,247,0,232
+1701923423074,486,Appointment List,200,OK,Thread Group 1-39,text,true,,6671,419,136,136,https://app.niprojmidialysis.com,113,0,98
+1701923422941,251,Appointment List-0,301,Moved Permanently,Thread Group 1-10,text,true,,535,147,136,136,https://app.niprojmidialysis.com/appointment/dialysis/,247,0,232
+1701923423074,117,Appointment List-0,301,Moved Permanently,Thread Group 1-39,text,true,,535,147,136,136,https://app.niprojmidialysis.com/appointment/dialysis/,113,0,98
+1701923423192,194,Appointment List-1,302,Found,Thread Group 1-10,text,true,,1576,146,136,136,https://app.niprojmidialysis.com/appointment/dialysis,190,0,0
+1701923423192,210,Appointment List-1,302,Found,Thread Group 1-39,text,true,,1576,146,136,136,https://app.niprojmidialysis.com/appointment/dialysis,206,0,0
+1701923423386,174,Appointment List-2,200,OK,Thread Group 1-10,text,true,,4560,126,136,136,https://app.niprojmidialysis.com,166,0,0
+1701923423402,158,Appointment List-2,200,OK,Thread Group 1-39,text,true,,4560,126,136,136,https://app.niprojmidialysis.com,150,0,0
+1701923423030,551,Appointment List,200,OK,Thread Group 1-30,text,true,,6671,419,137,137,https://app.niprojmidialysis.com,157,0,141
+1701923423030,161,Appointment List-0,301,Moved Permanently,Thread Group 1-30,text,true,,535,147,137,137,https://app.niprojmidialysis.com/appointment/dialysis/,157,0,141
+1701923423192,194,Appointment List-1,302,Found,Thread Group 1-30,text,true,,1576,146,137,137,https://app.niprojmidialysis.com/appointment/dialysis,190,0,0
+1701923423386,195,Appointment List-2,200,OK,Thread Group 1-30,text,true,,4560,126,137,137,https://app.niprojmidialysis.com,191,0,0
+1701923423004,584,Appointment List,200,OK,Thread Group 1-25,text,true,,6671,419,138,138,https://app.niprojmidialysis.com,183,0,169
+1701923423004,187,Appointment List-0,301,Moved Permanently,Thread Group 1-25,text,true,,535,147,138,138,https://app.niprojmidialysis.com/appointment/dialysis/,183,0,169
+1701923423192,178,Appointment List-1,302,Found,Thread Group 1-25,text,true,,1576,146,138,138,https://app.niprojmidialysis.com/appointment/dialysis,177,0,0
+1701923423370,218,Appointment List-2,200,OK,Thread Group 1-25,text,true,,4560,126,138,138,https://app.niprojmidialysis.com,213,0,0
+1701923423019,584,Appointment List,200,OK,Thread Group 1-28,text,true,,6671,419,140,140,https://app.niprojmidialysis.com,168,0,153
+1701923423019,172,Appointment List-0,301,Moved Permanently,Thread Group 1-28,text,true,,535,147,140,140,https://app.niprojmidialysis.com/appointment/dialysis/,168,0,153
+1701923423192,237,Appointment List-1,302,Found,Thread Group 1-28,text,true,,1576,146,140,140,https://app.niprojmidialysis.com/appointment/dialysis,228,0,0
+1701923423429,174,Appointment List-2,200,OK,Thread Group 1-28,text,true,,4560,126,140,140,https://app.niprojmidialysis.com,174,0,0
+1701923422958,646,Appointment List,200,OK,Thread Group 1-16,text,true,,6671,419,139,139,https://app.niprojmidialysis.com,229,0,214
+1701923422958,233,Appointment List-0,301,Moved Permanently,Thread Group 1-16,text,true,,535,147,139,139,https://app.niprojmidialysis.com/appointment/dialysis/,229,0,214
+1701923423192,237,Appointment List-1,302,Found,Thread Group 1-16,text,true,,1576,146,139,139,https://app.niprojmidialysis.com/appointment/dialysis,228,0,0
+1701923423429,175,Appointment List-2,200,OK,Thread Group 1-16,text,true,,4560,126,139,139,https://app.niprojmidialysis.com,174,0,0
+1701923422948,679,Appointment List,200,OK,Thread Group 1-14,text,true,,6671,419,143,143,https://app.niprojmidialysis.com,239,0,224
+1701923422948,243,Appointment List-0,301,Moved Permanently,Thread Group 1-14,text,true,,535,147,143,143,https://app.niprojmidialysis.com/appointment/dialysis/,239,0,224
+1701923423192,237,Appointment List-1,302,Found,Thread Group 1-14,text,true,,1576,146,143,143,https://app.niprojmidialysis.com/appointment/dialysis,228,0,0
+1701923423429,198,Appointment List-2,200,OK,Thread Group 1-14,text,true,,4560,126,143,143,https://app.niprojmidialysis.com,188,0,0
+1701923422977,654,Appointment List,200,OK,Thread Group 1-20,text,true,,6671,419,142,142,https://app.niprojmidialysis.com,210,0,195
+1701923422977,214,Appointment List-0,301,Moved Permanently,Thread Group 1-20,text,true,,535,147,142,142,https://app.niprojmidialysis.com/appointment/dialysis/,210,0,195
+1701923423192,273,Appointment List-1,302,Found,Thread Group 1-20,text,true,,1576,146,142,142,https://app.niprojmidialysis.com/appointment/dialysis,260,0,0
+1701923423466,165,Appointment List-2,200,OK,Thread Group 1-20,text,true,,4560,126,142,142,https://app.niprojmidialysis.com,163,0,0
+1701923423094,579,Appointment List,200,OK,Thread Group 1-43,text,true,,6671,419,149,149,https://app.niprojmidialysis.com,237,0,227
+1701923423094,237,Appointment List-0,301,Moved Permanently,Thread Group 1-43,text,true,,535,147,149,149,https://app.niprojmidialysis.com/appointment/dialysis/,237,0,227
+1701923423331,169,Appointment List-1,302,Found,Thread Group 1-43,text,true,,1576,146,149,149,https://app.niprojmidialysis.com/appointment/dialysis,164,0,0
+1701923423500,173,Appointment List-2,200,OK,Thread Group 1-43,text,true,,4560,126,149,149,https://app.niprojmidialysis.com,173,0,0
+1701923422940,802,Appointment List,200,OK,Thread Group 1-11,text,true,,6671,419,163,163,https://app.niprojmidialysis.com,430,0,423
+1701923422940,430,Appointment List-0,301,Moved Permanently,Thread Group 1-11,text,true,,535,147,163,163,https://app.niprojmidialysis.com/appointment/dialysis/,430,0,423
+1701923423370,207,Appointment List-1,302,Found,Thread Group 1-11,text,true,,1576,146,163,163,https://app.niprojmidialysis.com/appointment/dialysis,195,0,0
+1701923423577,165,Appointment List-2,200,OK,Thread Group 1-11,text,true,,4560,126,163,163,https://app.niprojmidialysis.com,155,0,0
+1701923423094,852,Appointment List,200,OK,Thread Group 1-42,text,true,,6671,419,189,189,https://app.niprojmidialysis.com,500,0,485
+1701923422969,977,Appointment List,200,OK,Thread Group 1-18,text,true,,6671,419,189,189,https://app.niprojmidialysis.com,625,0,610
+1701923423094,500,Appointment List-0,301,Moved Permanently,Thread Group 1-42,text,true,,535,147,189,189,https://app.niprojmidialysis.com/appointment/dialysis/,500,0,485
+1701923423594,167,Appointment List-1,302,Found,Thread Group 1-42,text,true,,1576,146,189,189,https://app.niprojmidialysis.com/appointment/dialysis,163,0,0
+1701923422969,625,Appointment List-0,301,Moved Permanently,Thread Group 1-18,text,true,,535,147,189,189,https://app.niprojmidialysis.com/appointment/dialysis/,625,0,610
+1701923423761,185,Appointment List-2,200,OK,Thread Group 1-42,text,true,,4560,126,189,189,https://app.niprojmidialysis.com,176,0,0
+1701923423594,182,Appointment List-1,302,Found,Thread Group 1-18,text,true,,1576,146,189,189,https://app.niprojmidialysis.com/appointment/dialysis,179,0,0
+1701923423776,170,Appointment List-2,200,OK,Thread Group 1-18,text,true,,4560,126,189,189,https://app.niprojmidialysis.com,167,0,0
+1701923423084,880,Appointment List,200,OK,Thread Group 1-41,text,true,,6671,419,187,187,https://app.niprojmidialysis.com,510,0,495
+1701923423084,510,Appointment List-0,301,Moved Permanently,Thread Group 1-41,text,true,,535,147,187,187,https://app.niprojmidialysis.com/appointment/dialysis/,510,0,495
+1701923423594,179,Appointment List-1,302,Found,Thread Group 1-41,text,true,,1576,146,187,187,https://app.niprojmidialysis.com/appointment/dialysis,167,0,0
+1701923423773,191,Appointment List-2,200,OK,Thread Group 1-41,text,true,,4560,126,187,187,https://app.niprojmidialysis.com,178,0,0
+1701923423079,891,Appointment List,200,OK,Thread Group 1-40,text,true,,6671,419,186,186,https://app.niprojmidialysis.com,515,0,500
+1701923423079,515,Appointment List-0,301,Moved Permanently,Thread Group 1-40,text,true,,535,147,186,186,https://app.niprojmidialysis.com/appointment/dialysis/,515,0,500
+1701923423594,179,Appointment List-1,302,Found,Thread Group 1-40,text,true,,1576,146,186,186,https://app.niprojmidialysis.com/appointment/dialysis,166,0,0
+1701923423773,197,Appointment List-2,200,OK,Thread Group 1-40,text,true,,4560,126,186,186,https://app.niprojmidialysis.com,193,0,0
+1701923423105,885,Appointment List,200,OK,Thread Group 1-46,text,true,,6671,419,185,185,https://app.niprojmidialysis.com,522,0,500
+1701923423105,522,Appointment List-0,301,Moved Permanently,Thread Group 1-46,text,true,,535,147,185,185,https://app.niprojmidialysis.com/appointment/dialysis/,522,0,500
+1701923423627,185,Appointment List-1,302,Found,Thread Group 1-46,text,true,,1576,146,185,185,https://app.niprojmidialysis.com/appointment/dialysis,179,0,0
+1701923423812,178,Appointment List-2,200,OK,Thread Group 1-46,text,true,,4560,126,185,185,https://app.niprojmidialysis.com,173,0,0
+1701923423099,906,Appointment List,200,OK,Thread Group 1-44,text,true,,6671,419,184,184,https://app.niprojmidialysis.com,540,0,530
+1701923423099,540,Appointment List-0,301,Moved Permanently,Thread Group 1-44,text,true,,535,147,184,184,https://app.niprojmidialysis.com/appointment/dialysis/,540,0,530
+1701923423639,182,Appointment List-1,302,Found,Thread Group 1-44,text,true,,1576,146,184,184,https://app.niprojmidialysis.com/appointment/dialysis,173,0,0
+1701923423821,184,Appointment List-2,200,OK,Thread Group 1-44,text,true,,4560,126,184,184,https://app.niprojmidialysis.com,184,0,0
+1701923423125,897,Appointment List,200,OK,Thread Group 1-49,text,true,,6671,419,183,183,https://app.niprojmidialysis.com,531,0,517
+1701923423125,531,Appointment List-0,301,Moved Permanently,Thread Group 1-49,text,true,,535,147,183,183,https://app.niprojmidialysis.com/appointment/dialysis/,531,0,517
+1701923423656,203,Appointment List-1,302,Found,Thread Group 1-49,text,true,,1576,146,183,183,https://app.niprojmidialysis.com/appointment/dialysis,195,0,0
+1701923423859,163,Appointment List-2,200,OK,Thread Group 1-49,text,true,,4560,126,183,183,https://app.niprojmidialysis.com,158,0,0
+1701923422970,1057,Appointment List,200,OK,Thread Group 1-19,text,true,,6671,419,182,182,https://app.niprojmidialysis.com,634,0,626
+1701923422970,634,Appointment List-0,301,Moved Permanently,Thread Group 1-19,text,true,,535,147,182,182,https://app.niprojmidialysis.com/appointment/dialysis/,634,0,626
+1701923423604,232,Appointment List-1,302,Found,Thread Group 1-19,text,true,,1576,146,182,182,https://app.niprojmidialysis.com/appointment/dialysis,217,0,0
+1701923423836,191,Appointment List-2,200,OK,Thread Group 1-19,text,true,,4560,126,182,182,https://app.niprojmidialysis.com,184,0,0
+1701923423114,921,Appointment List,200,OK,Thread Group 1-47,text,true,,6671,419,181,181,https://app.niprojmidialysis.com,541,0,526
+1701923423114,541,Appointment List-0,301,Moved Permanently,Thread Group 1-47,text,true,,535,147,181,181,https://app.niprojmidialysis.com/appointment/dialysis/,541,0,526
+1701923423655,186,Appointment List-1,302,Found,Thread Group 1-47,text,true,,1576,146,181,181,https://app.niprojmidialysis.com/appointment/dialysis,181,0,0
+1701923423841,194,Appointment List-2,200,OK,Thread Group 1-47,text,true,,4560,126,181,181,https://app.niprojmidialysis.com,187,0,0
+1701923423119,932,Appointment List,200,OK,Thread Group 1-48,text,true,,6671,419,180,180,https://app.niprojmidialysis.com,520,0,510
+1701923423119,520,Appointment List-0,301,Moved Permanently,Thread Group 1-48,text,true,,535,147,180,180,https://app.niprojmidialysis.com/appointment/dialysis/,520,0,510
+1701923423639,197,Appointment List-1,302,Found,Thread Group 1-48,text,true,,1576,146,180,180,https://app.niprojmidialysis.com/appointment/dialysis,197,0,0
+1701923423836,215,Appointment List-2,200,OK,Thread Group 1-48,text,true,,4560,126,180,180,https://app.niprojmidialysis.com,206,0,0
+1701923423125,947,Appointment List,200,OK,Thread Group 1-50,text,true,,6671,419,179,179,https://app.niprojmidialysis.com,570,0,559
+1701923423125,570,Appointment List-0,301,Moved Permanently,Thread Group 1-50,text,true,,535,147,179,179,https://app.niprojmidialysis.com/appointment/dialysis/,570,0,559
+1701923423696,170,Appointment List-1,302,Found,Thread Group 1-50,text,true,,1576,146,179,179,https://app.niprojmidialysis.com/appointment/dialysis,166,0,0
+1701923423866,206,Appointment List-2,200,OK,Thread Group 1-50,text,true,,4560,126,179,179,https://app.niprojmidialysis.com,196,0,0
+1701923422941,1418,Appointment List,200,OK,Thread Group 1-1,text,true,,6671,419,178,178,https://app.niprojmidialysis.com,1057,0,1045
+1701923422941,1057,Appointment List-0,301,Moved Permanently,Thread Group 1-1,text,true,,535,147,178,178,https://app.niprojmidialysis.com/appointment/dialysis/,1057,0,1045
+1701923423997,172,Appointment List-1,302,Found,Thread Group 1-1,text,true,,1576,146,178,178,https://app.niprojmidialysis.com/appointment/dialysis,162,0,0
+1701923424169,190,Appointment List-2,200,OK,Thread Group 1-1,text,true,,4560,126,178,178,https://app.niprojmidialysis.com,190,0,0
+1701923423104,1262,Appointment List,200,OK,Thread Group 1-45,text,true,,6671,419,177,177,https://app.niprojmidialysis.com,886,0,877
+1701923423104,886,Appointment List-0,301,Moved Permanently,Thread Group 1-45,text,true,,535,147,177,177,https://app.niprojmidialysis.com/appointment/dialysis/,886,0,877
+1701923423990,172,Appointment List-1,302,Found,Thread Group 1-45,text,true,,1576,146,177,177,https://app.niprojmidialysis.com/appointment/dialysis,166,0,0
+1701923424162,204,Appointment List-2,200,OK,Thread Group 1-45,text,true,,4560,126,177,177,https://app.niprojmidialysis.com,197,0,0
+1701923422989,1401,Appointment List,200,OK,Thread Group 1-22,text,true,,6671,419,176,176,https://app.niprojmidialysis.com,1008,0,1002
+1701923422989,1008,Appointment List-0,301,Moved Permanently,Thread Group 1-22,text,true,,535,147,176,176,https://app.niprojmidialysis.com/appointment/dialysis/,1008,0,1002
+1701923423997,178,Appointment List-1,302,Found,Thread Group 1-22,text,true,,1576,146,176,176,https://app.niprojmidialysis.com/appointment/dialysis,172,0,0
+1701923424175,215,Appointment List-2,200,OK,Thread Group 1-22,text,true,,4560,126,176,176,https://app.niprojmidialysis.com,205,0,0
+1701923422941,1450,Appointment List,200,OK,Thread Group 1-3,text,true,,6671,419,176,176,https://app.niprojmidialysis.com,1039,0,1026
+1701923422941,1039,Appointment List-0,301,Moved Permanently,Thread Group 1-3,text,true,,535,147,176,176,https://app.niprojmidialysis.com/appointment/dialysis/,1039,0,1026
+1701923423979,206,Appointment List-1,302,Found,Thread Group 1-3,text,true,,1576,146,176,176,https://app.niprojmidialysis.com/appointment/dialysis,196,0,0
+1701923424185,206,Appointment List-2,200,OK,Thread Group 1-3,text,true,,4560,126,176,176,https://app.niprojmidialysis.com,205,0,0
+1701923422941,1468,Appointment List,200,OK,Thread Group 1-4,text,true,,6671,419,174,174,https://app.niprojmidialysis.com,1074,0,1066
+1701923422941,1074,Appointment List-0,301,Moved Permanently,Thread Group 1-4,text,true,,535,147,174,174,https://app.niprojmidialysis.com/appointment/dialysis/,1074,0,1066
+1701923424014,173,Appointment List-1,302,Found,Thread Group 1-4,text,true,,1576,146,174,174,https://app.niprojmidialysis.com/appointment/dialysis,172,0,0
+1701923424187,222,Appointment List-2,200,OK,Thread Group 1-4,text,true,,4560,126,174,174,https://app.niprojmidialysis.com,217,0,0
+1701923423009,1418,Appointment List,200,OK,Thread Group 1-26,text,true,,6671,419,173,173,https://app.niprojmidialysis.com,1042,0,1031
+1701923423009,1042,Appointment List-0,301,Moved Permanently,Thread Group 1-26,text,true,,535,147,173,173,https://app.niprojmidialysis.com/appointment/dialysis/,1042,0,1031
+1701923424051,167,Appointment List-1,302,Found,Thread Group 1-26,text,true,,1576,146,173,173,https://app.niprojmidialysis.com/appointment/dialysis,167,0,0
+1701923424218,209,Appointment List-2,200,OK,Thread Group 1-26,text,true,,4560,126,173,173,https://app.niprojmidialysis.com,199,0,0
+1701923422941,1486,Appointment List,200,OK,Thread Group 1-7,text,true,,6671,419,173,173,https://app.niprojmidialysis.com,1117,0,1107
+1701923422941,1117,Appointment List-0,301,Moved Permanently,Thread Group 1-7,text,true,,535,147,173,173,https://app.niprojmidialysis.com/appointment/dialysis/,1117,0,1107
+1701923424057,183,Appointment List-1,302,Found,Thread Group 1-7,text,true,,1576,146,173,173,https://app.niprojmidialysis.com/appointment/dialysis,178,0,0
+1701923424240,187,Appointment List-2,200,OK,Thread Group 1-7,text,true,,4560,126,173,173,https://app.niprojmidialysis.com,183,0,0
+1701923423024,1416,Appointment List,200,OK,Thread Group 1-29,text,true,,6671,419,171,171,https://app.niprojmidialysis.com,998,0,991
+1701923423024,998,Appointment List-0,301,Moved Permanently,Thread Group 1-29,text,true,,535,147,171,171,https://app.niprojmidialysis.com/appointment/dialysis/,998,0,991
+1701923424022,213,Appointment List-1,302,Found,Thread Group 1-29,text,true,,1576,146,171,171,https://app.niprojmidialysis.com/appointment/dialysis,209,0,0
+1701923424235,205,Appointment List-2,200,OK,Thread Group 1-29,text,true,,4560,126,171,171,https://app.niprojmidialysis.com,193,0,0
+1701923422961,1484,Appointment List,200,OK,Thread Group 1-17,text,true,,6671,419,170,170,https://app.niprojmidialysis.com,1139,0,1124
+1701923422961,1139,Appointment List-0,301,Moved Permanently,Thread Group 1-17,text,true,,535,147,170,170,https://app.niprojmidialysis.com/appointment/dialysis/,1139,0,1124
+1701923424100,184,Appointment List-1,302,Found,Thread Group 1-17,text,true,,1576,146,170,170,https://app.niprojmidialysis.com/appointment/dialysis,170,0,0
+1701923424284,161,Appointment List-2,200,OK,Thread Group 1-17,text,true,,4560,126,170,170,https://app.niprojmidialysis.com,160,0,0
+1701923422941,1505,Appointment List,200,OK,Thread Group 1-8,text,true,,6671,419,170,170,https://app.niprojmidialysis.com,1132,0,1125
+1701923422941,1132,Appointment List-0,301,Moved Permanently,Thread Group 1-8,text,true,,535,147,170,170,https://app.niprojmidialysis.com/appointment/dialysis/,1132,0,1125
+1701923424073,215,Appointment List-1,302,Found,Thread Group 1-8,text,true,,1576,146,170,170,https://app.niprojmidialysis.com/appointment/dialysis,211,0,0
+1701923424288,158,Appointment List-2,200,OK,Thread Group 1-8,text,true,,4560,126,170,170,https://app.niprojmidialysis.com,158,0,0
+1701923423071,1387,Appointment List,200,OK,Thread Group 1-37,text,true,,6671,419,168,168,https://app.niprojmidialysis.com,980,0,966
+1701923423071,980,Appointment List-0,301,Moved Permanently,Thread Group 1-37,text,true,,535,147,168,168,https://app.niprojmidialysis.com/appointment/dialysis/,980,0,966
+1701923424051,187,Appointment List-1,302,Found,Thread Group 1-37,text,true,,1576,146,168,168,https://app.niprojmidialysis.com/appointment/dialysis,180,0,0
+1701923424238,220,Appointment List-2,200,OK,Thread Group 1-37,text,true,,4560,126,168,168,https://app.niprojmidialysis.com,208,0,0
+1701923423134,1630,Appointment List,200,OK,Thread Group 1-51,text,true,,6671,419,167,167,https://app.niprojmidialysis.com,1257,0,1244
+1701923423134,1257,Appointment List-0,301,Moved Permanently,Thread Group 1-51,text,true,,535,147,167,167,https://app.niprojmidialysis.com/appointment/dialysis/,1257,0,1244
+1701923424391,161,Appointment List-1,302,Found,Thread Group 1-51,text,true,,1576,146,167,167,https://app.niprojmidialysis.com/appointment/dialysis,157,0,0
+1701923424552,212,Appointment List-2,200,OK,Thread Group 1-51,text,true,,4560,126,167,167,https://app.niprojmidialysis.com,206,0,0
+1701923423049,1751,Appointment List,200,OK,Thread Group 1-34,text,true,,6671,419,166,166,https://app.niprojmidialysis.com,1364,0,1353
+1701923423049,1364,Appointment List-0,301,Moved Permanently,Thread Group 1-34,text,true,,535,147,166,166,https://app.niprojmidialysis.com/appointment/dialysis/,1364,0,1353
+1701923424413,199,Appointment List-1,302,Found,Thread Group 1-34,text,true,,1576,146,166,166,https://app.niprojmidialysis.com/appointment/dialysis,186,0,0
+1701923424613,187,Appointment List-2,200,OK,Thread Group 1-34,text,true,,4560,126,166,166,https://app.niprojmidialysis.com,185,0,0
+1701923423014,1795,Appointment List,200,OK,Thread Group 1-27,text,true,,6671,419,165,165,https://app.niprojmidialysis.com,1394,0,1388
+1701923423014,1394,Appointment List-0,301,Moved Permanently,Thread Group 1-27,text,true,,535,147,165,165,https://app.niprojmidialysis.com/appointment/dialysis/,1394,0,1388
+1701923424408,170,Appointment List-1,302,Found,Thread Group 1-27,text,true,,1576,146,165,165,https://app.niprojmidialysis.com/appointment/dialysis,165,0,0
+1701923424578,231,Appointment List-2,200,OK,Thread Group 1-27,text,true,,4560,126,165,165,https://app.niprojmidialysis.com,227,0,0
+1701923423059,1803,Appointment List,200,OK,Thread Group 1-36,text,true,,6671,419,164,164,https://app.niprojmidialysis.com,1332,0,1322
+1701923423059,1332,Appointment List-0,301,Moved Permanently,Thread Group 1-36,text,true,,535,147,164,164,https://app.niprojmidialysis.com/appointment/dialysis/,1332,0,1322
+1701923424391,242,Appointment List-1,302,Found,Thread Group 1-36,text,true,,1576,146,164,164,https://app.niprojmidialysis.com/appointment/dialysis,235,0,0
+1701923424633,229,Appointment List-2,200,OK,Thread Group 1-36,text,true,,4560,126,164,164,https://app.niprojmidialysis.com,223,0,0
+1701923422940,1928,Appointment List,200,OK,Thread Group 1-12,text,true,,6671,419,163,163,https://app.niprojmidialysis.com,1518,0,1503
+1701923422940,1518,Appointment List-0,301,Moved Permanently,Thread Group 1-12,text,true,,535,147,163,163,https://app.niprojmidialysis.com/appointment/dialysis/,1518,0,1503
+1701923424458,208,Appointment List-1,302,Found,Thread Group 1-12,text,true,,1576,146,163,163,https://app.niprojmidialysis.com/appointment/dialysis,205,0,0
+1701923424667,201,Appointment List-2,200,OK,Thread Group 1-12,text,true,,4560,126,163,163,https://app.niprojmidialysis.com,195,0,0
+1701923422941,1936,Appointment List,200,OK,Thread Group 1-13,text,true,,6671,419,162,162,https://app.niprojmidialysis.com,1500,0,1483
+1701923422941,1500,Appointment List-0,301,Moved Permanently,Thread Group 1-13,text,true,,535,147,162,162,https://app.niprojmidialysis.com/appointment/dialysis/,1500,0,1483
+1701923424441,221,Appointment List-1,302,Found,Thread Group 1-13,text,true,,1576,146,162,162,https://app.niprojmidialysis.com/appointment/dialysis,209,0,0
+1701923424662,215,Appointment List-2,200,OK,Thread Group 1-13,text,true,,4560,126,162,162,https://app.niprojmidialysis.com,212,0,0
+1701923422941,1937,Appointment List,200,OK,Thread Group 1-9,text,true,,6671,419,161,161,https://app.niprojmidialysis.com,1527,0,1515
+1701923422941,1527,Appointment List-0,301,Moved Permanently,Thread Group 1-9,text,true,,535,147,161,161,https://app.niprojmidialysis.com/appointment/dialysis/,1527,0,1515
+1701923424467,213,Appointment List-1,302,Found,Thread Group 1-9,text,true,,1576,146,161,161,https://app.niprojmidialysis.com/appointment/dialysis,203,0,0
+1701923424680,198,Appointment List-2,200,OK,Thread Group 1-9,text,true,,4560,126,161,161,https://app.niprojmidialysis.com,196,0,0
+1701923422941,1949,Appointment List,200,OK,Thread Group 1-2,text,true,,6671,419,160,160,https://app.niprojmidialysis.com,1532,0,1521
+1701923422941,1532,Appointment List-0,301,Moved Permanently,Thread Group 1-2,text,true,,535,147,160,160,https://app.niprojmidialysis.com/appointment/dialysis/,1532,0,1521
+1701923423034,1856,Appointment List,200,OK,Thread Group 1-31,text,true,,6671,419,160,160,https://app.niprojmidialysis.com,1424,0,1409
+1701923424472,208,Appointment List-1,302,Found,Thread Group 1-2,text,true,,1576,146,160,160,https://app.niprojmidialysis.com/appointment/dialysis,198,0,0
+1701923423034,1424,Appointment List-0,301,Moved Permanently,Thread Group 1-31,text,true,,535,147,160,160,https://app.niprojmidialysis.com/appointment/dialysis/,1424,0,1409
+1701923424680,210,Appointment List-2,200,OK,Thread Group 1-2,text,true,,4560,126,160,160,https://app.niprojmidialysis.com,203,0,0
+1701923424458,222,Appointment List-1,302,Found,Thread Group 1-31,text,true,,1576,146,160,160,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923424680,210,Appointment List-2,200,OK,Thread Group 1-31,text,true,,4560,126,160,160,https://app.niprojmidialysis.com,203,0,0
+1701923422984,1918,Appointment List,200,OK,Thread Group 1-21,text,true,,6671,419,158,158,https://app.niprojmidialysis.com,1497,0,1489
+1701923422984,1497,Appointment List-0,301,Moved Permanently,Thread Group 1-21,text,true,,535,147,158,158,https://app.niprojmidialysis.com/appointment/dialysis/,1497,0,1489
+1701923424481,236,Appointment List-1,302,Found,Thread Group 1-21,text,true,,1576,146,158,158,https://app.niprojmidialysis.com/appointment/dialysis,234,0,0
+1701923424718,184,Appointment List-2,200,OK,Thread Group 1-21,text,true,,4560,126,158,158,https://app.niprojmidialysis.com,181,0,0
+1701923422941,1969,Appointment List,200,OK,Thread Group 1-6,text,true,,6671,419,157,157,https://app.niprojmidialysis.com,1536,0,1528
+1701923422941,1536,Appointment List-0,301,Moved Permanently,Thread Group 1-6,text,true,,535,147,157,157,https://app.niprojmidialysis.com/appointment/dialysis/,1536,0,1528
+1701923424476,215,Appointment List-1,302,Found,Thread Group 1-6,text,true,,1576,146,157,157,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923424691,219,Appointment List-2,200,OK,Thread Group 1-6,text,true,,4560,126,157,157,https://app.niprojmidialysis.com,211,0,0
+1701923423038,1934,Appointment List,200,OK,Thread Group 1-32,text,true,,6671,419,156,156,https://app.niprojmidialysis.com,1501,0,1485
+1701923423038,1501,Appointment List-0,301,Moved Permanently,Thread Group 1-32,text,true,,535,147,156,156,https://app.niprojmidialysis.com/appointment/dialysis/,1501,0,1485
+1701923424539,213,Appointment List-1,302,Found,Thread Group 1-32,text,true,,1576,146,156,156,https://app.niprojmidialysis.com/appointment/dialysis,205,0,0
+1701923424753,219,Appointment List-2,200,OK,Thread Group 1-32,text,true,,4560,126,156,156,https://app.niprojmidialysis.com,214,0,0
+1701923423054,1955,Appointment List,200,OK,Thread Group 1-35,text,true,,6671,419,155,155,https://app.niprojmidialysis.com,1561,0,1547
+1701923423054,1561,Appointment List-0,301,Moved Permanently,Thread Group 1-35,text,true,,535,147,155,155,https://app.niprojmidialysis.com/appointment/dialysis/,1561,0,1547
+1701923424615,201,Appointment List-1,302,Found,Thread Group 1-35,text,true,,1576,146,155,155,https://app.niprojmidialysis.com/appointment/dialysis,200,0,0
+1701923424816,193,Appointment List-2,200,OK,Thread Group 1-35,text,true,,4560,126,155,155,https://app.niprojmidialysis.com,183,0,0
+1701923422941,2093,Appointment List,200,OK,Thread Group 1-5,text,true,,6671,419,154,154,https://app.niprojmidialysis.com,1675,0,1659
+1701923422941,1675,Appointment List-0,301,Moved Permanently,Thread Group 1-5,text,true,,535,147,154,154,https://app.niprojmidialysis.com/appointment/dialysis/,1675,0,1659
+1701923424615,219,Appointment List-1,302,Found,Thread Group 1-5,text,true,,1576,146,154,154,https://app.niprojmidialysis.com/appointment/dialysis,213,0,0
+1701923424834,200,Appointment List-2,200,OK,Thread Group 1-5,text,true,,4560,126,154,154,https://app.niprojmidialysis.com,196,0,0
+1701923422999,2257,Appointment List,200,OK,Thread Group 1-24,text,true,,6671,419,153,153,https://app.niprojmidialysis.com,1817,0,1811
+1701923422999,1817,Appointment List-0,301,Moved Permanently,Thread Group 1-24,text,true,,535,147,153,153,https://app.niprojmidialysis.com/appointment/dialysis/,1817,0,1811
+1701923424816,218,Appointment List-1,302,Found,Thread Group 1-24,text,true,,1576,146,153,153,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923425034,222,Appointment List-2,200,OK,Thread Group 1-24,text,true,,4560,126,153,153,https://app.niprojmidialysis.com,222,0,0
+1701923422955,2301,Appointment List,200,OK,Thread Group 1-15,text,true,,6671,419,153,153,https://app.niprojmidialysis.com,1843,0,1833
+1701923422955,1843,Appointment List-0,301,Moved Permanently,Thread Group 1-15,text,true,,535,147,153,153,https://app.niprojmidialysis.com/appointment/dialysis/,1843,0,1833
+1701923424798,222,Appointment List-1,302,Found,Thread Group 1-15,text,true,,1576,146,153,153,https://app.niprojmidialysis.com/appointment/dialysis,216,0,0
+1701923425020,236,Appointment List-2,200,OK,Thread Group 1-15,text,true,,4560,126,153,153,https://app.niprojmidialysis.com,216,0,0
+1701923423065,2205,Appointment List,200,OK,Thread Group 1-38,text,true,,6671,419,151,151,https://app.niprojmidialysis.com,1759,0,1752
+1701923423065,1759,Appointment List-0,301,Moved Permanently,Thread Group 1-38,text,true,,535,147,151,151,https://app.niprojmidialysis.com/appointment/dialysis/,1759,0,1752
+1701923424824,236,Appointment List-1,302,Found,Thread Group 1-38,text,true,,1576,146,151,151,https://app.niprojmidialysis.com/appointment/dialysis,228,0,0
+1701923425060,210,Appointment List-2,200,OK,Thread Group 1-38,text,true,,4560,126,151,151,https://app.niprojmidialysis.com,203,0,0
+1701923423044,2237,Appointment List,200,OK,Thread Group 1-33,text,true,,6671,419,150,150,https://app.niprojmidialysis.com,1839,0,1831
+1701923423044,1839,Appointment List-0,301,Moved Permanently,Thread Group 1-33,text,true,,535,147,150,150,https://app.niprojmidialysis.com/appointment/dialysis/,1839,0,1831
+1701923424883,180,Appointment List-1,302,Found,Thread Group 1-33,text,true,,1576,146,150,150,https://app.niprojmidialysis.com/appointment/dialysis,175,0,0
+1701923425063,218,Appointment List-2,200,OK,Thread Group 1-33,text,true,,4560,126,150,150,https://app.niprojmidialysis.com,216,0,0
+1701923423149,2144,Appointment List,200,OK,Thread Group 1-54,text,true,,6671,419,149,149,https://app.niprojmidialysis.com,1753,0,1742
+1701923423149,1753,Appointment List-0,301,Moved Permanently,Thread Group 1-54,text,true,,535,147,149,149,https://app.niprojmidialysis.com/appointment/dialysis/,1753,0,1742
+1701923424902,197,Appointment List-1,302,Found,Thread Group 1-54,text,true,,1576,146,149,149,https://app.niprojmidialysis.com/appointment/dialysis,188,0,0
+1701923425099,194,Appointment List-2,200,OK,Thread Group 1-54,text,true,,4560,126,149,149,https://app.niprojmidialysis.com,187,0,0
+1701923423142,2165,Appointment List,200,OK,Thread Group 1-52,text,true,,6671,419,148,148,https://app.niprojmidialysis.com,1745,0,1736
+1701923423142,1745,Appointment List-0,301,Moved Permanently,Thread Group 1-52,text,true,,535,147,148,148,https://app.niprojmidialysis.com/appointment/dialysis/,1745,0,1736
+1701923424887,212,Appointment List-1,302,Found,Thread Group 1-52,text,true,,1576,146,148,148,https://app.niprojmidialysis.com/appointment/dialysis,207,0,0
+1701923425099,208,Appointment List-2,200,OK,Thread Group 1-52,text,true,,4560,126,148,148,https://app.niprojmidialysis.com,189,0,0
+1701923423168,2147,Appointment List,200,OK,Thread Group 1-58,text,true,,6671,419,147,147,https://app.niprojmidialysis.com,1761,0,1754
+1701923423168,1761,Appointment List-0,301,Moved Permanently,Thread Group 1-58,text,true,,535,147,147,147,https://app.niprojmidialysis.com/appointment/dialysis/,1761,0,1754
+1701923423144,2171,Appointment List,200,OK,Thread Group 1-53,text,true,,6671,419,147,147,https://app.niprojmidialysis.com,1755,0,1745
+1701923424929,184,Appointment List-1,302,Found,Thread Group 1-58,text,true,,1576,146,147,147,https://app.niprojmidialysis.com/appointment/dialysis,178,0,0
+1701923425113,202,Appointment List-2,200,OK,Thread Group 1-58,text,true,,4560,126,147,147,https://app.niprojmidialysis.com,199,0,0
+1701923423144,1755,Appointment List-0,301,Moved Permanently,Thread Group 1-53,text,true,,535,147,147,147,https://app.niprojmidialysis.com/appointment/dialysis/,1755,0,1745
+1701923424899,209,Appointment List-1,302,Found,Thread Group 1-53,text,true,,1576,146,147,147,https://app.niprojmidialysis.com/appointment/dialysis,208,0,0
+1701923425108,207,Appointment List-2,200,OK,Thread Group 1-53,text,true,,4560,126,147,147,https://app.niprojmidialysis.com,204,0,0
+1701923423164,2164,Appointment List,200,OK,Thread Group 1-57,text,true,,6671,419,145,145,https://app.niprojmidialysis.com,1761,0,1752
+1701923423164,1761,Appointment List-0,301,Moved Permanently,Thread Group 1-57,text,true,,535,147,145,145,https://app.niprojmidialysis.com/appointment/dialysis/,1761,0,1752
+1701923424925,201,Appointment List-1,302,Found,Thread Group 1-57,text,true,,1576,146,145,145,https://app.niprojmidialysis.com/appointment/dialysis,199,0,0
+1701923425127,201,Appointment List-2,200,OK,Thread Group 1-57,text,true,,4560,126,145,145,https://app.niprojmidialysis.com,194,0,0
+1701923423150,2217,Appointment List,200,OK,Thread Group 1-55,text,true,,6671,419,144,144,https://app.niprojmidialysis.com,1764,0,1753
+1701923423150,1764,Appointment List-0,301,Moved Permanently,Thread Group 1-55,text,true,,535,147,144,144,https://app.niprojmidialysis.com/appointment/dialysis/,1764,0,1753
+1701923424914,212,Appointment List-1,302,Found,Thread Group 1-55,text,true,,1576,146,144,144,https://app.niprojmidialysis.com/appointment/dialysis,210,0,0
+1701923425127,240,Appointment List-2,200,OK,Thread Group 1-55,text,true,,4560,126,144,144,https://app.niprojmidialysis.com,230,0,0
+1701923423174,2292,Appointment List,200,OK,Thread Group 1-59,text,true,,6671,419,143,143,https://app.niprojmidialysis.com,1854,0,1846
+1701923423174,1854,Appointment List-0,301,Moved Permanently,Thread Group 1-59,text,true,,535,147,143,143,https://app.niprojmidialysis.com/appointment/dialysis/,1854,0,1846
+1701923425028,208,Appointment List-1,302,Found,Thread Group 1-59,text,true,,1576,146,143,143,https://app.niprojmidialysis.com/appointment/dialysis,199,0,0
+1701923425236,230,Appointment List-2,200,OK,Thread Group 1-59,text,true,,4560,126,143,143,https://app.niprojmidialysis.com,230,0,0
+1701923423179,2313,Appointment List,200,OK,Thread Group 1-60,text,true,,6671,419,142,142,https://app.niprojmidialysis.com,1873,0,1865
+1701923423179,1873,Appointment List-0,301,Moved Permanently,Thread Group 1-60,text,true,,535,147,142,142,https://app.niprojmidialysis.com/appointment/dialysis/,1873,0,1865
+1701923425052,203,Appointment List-1,302,Found,Thread Group 1-60,text,true,,1576,146,142,142,https://app.niprojmidialysis.com/appointment/dialysis,200,0,0
+1701923425256,236,Appointment List-2,200,OK,Thread Group 1-60,text,true,,4560,126,142,142,https://app.niprojmidialysis.com,229,0,0
+1701923423184,2504,Appointment List,200,OK,Thread Group 1-61,text,true,,6671,419,141,141,https://app.niprojmidialysis.com,2095,0,2088
+1701923423184,2095,Appointment List-0,301,Moved Permanently,Thread Group 1-61,text,true,,535,147,141,141,https://app.niprojmidialysis.com/appointment/dialysis/,2095,0,2088
+1701923425280,202,Appointment List-1,302,Found,Thread Group 1-61,text,true,,1576,146,141,141,https://app.niprojmidialysis.com/appointment/dialysis,201,0,0
+1701923425482,206,Appointment List-2,200,OK,Thread Group 1-61,text,true,,4560,126,141,141,https://app.niprojmidialysis.com,199,0,0
+1701923423209,2493,Appointment List,200,OK,Thread Group 1-66,text,true,,6671,419,140,140,https://app.niprojmidialysis.com,2119,0,2108
+1701923423204,2497,Appointment List,200,OK,Thread Group 1-65,text,true,,6671,419,140,140,https://app.niprojmidialysis.com,2112,0,2105
+1701923423209,2119,Appointment List-0,301,Moved Permanently,Thread Group 1-66,text,true,,535,147,140,140,https://app.niprojmidialysis.com/appointment/dialysis/,2119,0,2108
+1701923423204,2112,Appointment List-0,301,Moved Permanently,Thread Group 1-65,text,true,,535,147,140,140,https://app.niprojmidialysis.com/appointment/dialysis/,2112,0,2105
+1701923425328,168,Appointment List-1,302,Found,Thread Group 1-66,text,true,,1576,146,140,140,https://app.niprojmidialysis.com/appointment/dialysis,164,0,0
+1701923425316,180,Appointment List-1,302,Found,Thread Group 1-65,text,true,,1576,146,140,140,https://app.niprojmidialysis.com/appointment/dialysis,176,0,0
+1701923425496,206,Appointment List-2,200,OK,Thread Group 1-66,text,true,,4560,126,140,140,https://app.niprojmidialysis.com,196,0,0
+1701923425497,204,Appointment List-2,200,OK,Thread Group 1-65,text,true,,4560,126,140,140,https://app.niprojmidialysis.com,196,0,0
+1701923423189,2523,Appointment List,200,OK,Thread Group 1-62,text,true,,6671,419,138,138,https://app.niprojmidialysis.com,2091,0,2083
+1701923423189,2091,Appointment List-0,301,Moved Permanently,Thread Group 1-62,text,true,,535,147,138,138,https://app.niprojmidialysis.com/appointment/dialysis/,2091,0,2083
+1701923425280,216,Appointment List-1,302,Found,Thread Group 1-62,text,true,,1576,146,138,138,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923425496,216,Appointment List-2,200,OK,Thread Group 1-62,text,true,,4560,126,138,138,https://app.niprojmidialysis.com,211,0,0
+1701923423192,2524,Appointment List,200,OK,Thread Group 1-63,text,true,,6671,419,137,137,https://app.niprojmidialysis.com,2096,0,2090
+1701923423192,2096,Appointment List-0,301,Moved Permanently,Thread Group 1-63,text,true,,535,147,137,137,https://app.niprojmidialysis.com/appointment/dialysis/,2096,0,2090
+1701923425288,229,Appointment List-1,302,Found,Thread Group 1-63,text,true,,1576,146,137,137,https://app.niprojmidialysis.com/appointment/dialysis,225,0,0
+1701923425517,199,Appointment List-2,200,OK,Thread Group 1-63,text,true,,4560,126,137,137,https://app.niprojmidialysis.com,199,0,0
+1701923423215,2540,Appointment List,200,OK,Thread Group 1-67,text,true,,6671,419,136,136,https://app.niprojmidialysis.com,2122,0,2114
+1701923423215,2122,Appointment List-0,301,Moved Permanently,Thread Group 1-67,text,true,,535,147,136,136,https://app.niprojmidialysis.com/appointment/dialysis/,2122,0,2114
+1701923425337,199,Appointment List-1,302,Found,Thread Group 1-67,text,true,,1576,146,136,136,https://app.niprojmidialysis.com/appointment/dialysis,192,0,0
+1701923425536,219,Appointment List-2,200,OK,Thread Group 1-67,text,true,,4560,126,136,136,https://app.niprojmidialysis.com,219,0,0
+1701923423229,2546,Appointment List,200,OK,Thread Group 1-70,text,true,,6671,419,135,135,https://app.niprojmidialysis.com,2146,0,2139
+1701923423229,2146,Appointment List-0,301,Moved Permanently,Thread Group 1-70,text,true,,535,147,135,135,https://app.niprojmidialysis.com/appointment/dialysis/,2146,0,2139
+1701923425375,181,Appointment List-1,302,Found,Thread Group 1-70,text,true,,1576,146,135,135,https://app.niprojmidialysis.com/appointment/dialysis,181,0,0
+1701923425557,218,Appointment List-2,200,OK,Thread Group 1-70,text,true,,4560,126,135,135,https://app.niprojmidialysis.com,218,0,0
+1701923423215,2576,Appointment List,200,OK,Thread Group 1-68,text,true,,6671,419,134,134,https://app.niprojmidialysis.com,2122,0,2114
+1701923423234,2557,Appointment List,200,OK,Thread Group 1-71,text,true,,6671,419,134,134,https://app.niprojmidialysis.com,2151,0,2145
+1701923423215,2122,Appointment List-0,301,Moved Permanently,Thread Group 1-68,text,true,,535,147,134,134,https://app.niprojmidialysis.com/appointment/dialysis/,2122,0,2114
+1701923423234,2151,Appointment List-0,301,Moved Permanently,Thread Group 1-71,text,true,,535,147,134,134,https://app.niprojmidialysis.com/appointment/dialysis/,2151,0,2145
+1701923425385,205,Appointment List-1,302,Found,Thread Group 1-71,text,true,,1576,146,134,134,https://app.niprojmidialysis.com/appointment/dialysis,201,0,0
+1701923425590,201,Appointment List-2,200,OK,Thread Group 1-71,text,true,,4560,126,134,134,https://app.niprojmidialysis.com,195,0,0
+1701923425337,218,Appointment List-1,302,Found,Thread Group 1-68,text,true,,1576,146,134,134,https://app.niprojmidialysis.com/appointment/dialysis,199,0,0
+1701923425555,236,Appointment List-2,200,OK,Thread Group 1-68,text,true,,4560,126,134,134,https://app.niprojmidialysis.com,230,0,0
+1701923423224,2599,Appointment List,200,OK,Thread Group 1-69,text,true,,6671,419,132,132,https://app.niprojmidialysis.com,2125,0,2114
+1701923423224,2125,Appointment List-0,301,Moved Permanently,Thread Group 1-69,text,true,,535,147,132,132,https://app.niprojmidialysis.com/appointment/dialysis/,2125,0,2114
+1701923425349,208,Appointment List-1,302,Found,Thread Group 1-69,text,true,,1576,146,132,132,https://app.niprojmidialysis.com/appointment/dialysis,206,0,0
+1701923425558,265,Appointment List-2,200,OK,Thread Group 1-69,text,true,,4560,126,132,132,https://app.niprojmidialysis.com,261,0,0
+1701923423155,2682,Appointment List,200,OK,Thread Group 1-56,text,true,,6671,419,131,131,https://app.niprojmidialysis.com,1759,0,1748
+1701923423155,1759,Appointment List-0,301,Moved Permanently,Thread Group 1-56,text,true,,535,147,131,131,https://app.niprojmidialysis.com/appointment/dialysis/,1759,0,1748
+1701923424914,706,Appointment List-1,302,Found,Thread Group 1-56,text,true,,1576,146,131,131,https://app.niprojmidialysis.com/appointment/dialysis,699,0,0
+1701923425621,216,Appointment List-2,200,OK,Thread Group 1-56,text,true,,4560,126,131,131,https://app.niprojmidialysis.com,205,0,0
+1701923423244,2729,Appointment List,200,OK,Thread Group 1-73,text,true,,6671,419,130,130,https://app.niprojmidialysis.com,2270,0,2258
+1701923423244,2270,Appointment List-0,301,Moved Permanently,Thread Group 1-73,text,true,,535,147,130,130,https://app.niprojmidialysis.com/appointment/dialysis/,2270,0,2258
+1701923423239,2734,Appointment List,200,OK,Thread Group 1-72,text,true,,6671,419,130,130,https://app.niprojmidialysis.com,2253,0,2245
+1701923425514,205,Appointment List-1,302,Found,Thread Group 1-73,text,true,,1576,146,130,130,https://app.niprojmidialysis.com/appointment/dialysis,198,0,0
+1701923423239,2253,Appointment List-0,301,Moved Permanently,Thread Group 1-72,text,true,,535,147,130,130,https://app.niprojmidialysis.com/appointment/dialysis/,2253,0,2245
+1701923425719,254,Appointment List-2,200,OK,Thread Group 1-73,text,true,,4560,126,130,130,https://app.niprojmidialysis.com,240,0,0
+1701923425492,210,Appointment List-1,302,Found,Thread Group 1-72,text,true,,1576,146,130,130,https://app.niprojmidialysis.com/appointment/dialysis,204,0,0
+1701923425702,271,Appointment List-2,200,OK,Thread Group 1-72,text,true,,4560,126,130,130,https://app.niprojmidialysis.com,271,0,0
+1701923423199,2843,Appointment List,200,OK,Thread Group 1-64,text,true,,6671,419,128,128,https://app.niprojmidialysis.com,2109,0,2095
+1701923423199,2109,Appointment List-0,301,Moved Permanently,Thread Group 1-64,text,true,,535,147,128,128,https://app.niprojmidialysis.com/appointment/dialysis/,2109,0,2095
+1701923425308,204,Appointment List-1,302,Found,Thread Group 1-64,text,true,,1576,146,128,128,https://app.niprojmidialysis.com/appointment/dialysis,191,0,0
+1701923425512,530,Appointment List-2,200,OK,Thread Group 1-64,text,true,,4560,126,128,128,https://app.niprojmidialysis.com,522,0,0
+1701923423251,2858,Appointment List,200,OK,Thread Group 1-75,text,true,,6671,419,127,127,https://app.niprojmidialysis.com,2415,0,2397
+1701923423251,2415,Appointment List-0,301,Moved Permanently,Thread Group 1-75,text,true,,535,147,127,127,https://app.niprojmidialysis.com/appointment/dialysis/,2415,0,2397
+1701923425666,232,Appointment List-1,302,Found,Thread Group 1-75,text,true,,1576,146,127,127,https://app.niprojmidialysis.com/appointment/dialysis,226,0,0
+1701923425898,211,Appointment List-2,200,OK,Thread Group 1-75,text,true,,4560,126,127,127,https://app.niprojmidialysis.com,203,0,0
+1701923423259,2867,Appointment List,200,OK,Thread Group 1-76,text,true,,6671,419,126,126,https://app.niprojmidialysis.com,2410,0,2392
+1701923423259,2410,Appointment List-0,301,Moved Permanently,Thread Group 1-76,text,true,,535,147,126,126,https://app.niprojmidialysis.com/appointment/dialysis/,2410,0,2392
+1701923425669,229,Appointment List-1,302,Found,Thread Group 1-76,text,true,,1576,146,126,126,https://app.niprojmidialysis.com/appointment/dialysis,223,0,0
+1701923425898,228,Appointment List-2,200,OK,Thread Group 1-76,text,true,,4560,126,126,126,https://app.niprojmidialysis.com,211,0,0
+1701923423264,2862,Appointment List,200,OK,Thread Group 1-77,text,true,,6671,419,126,126,https://app.niprojmidialysis.com,2405,0,2391
+1701923423264,2405,Appointment List-0,301,Moved Permanently,Thread Group 1-77,text,true,,535,147,126,126,https://app.niprojmidialysis.com/appointment/dialysis/,2405,0,2391
+1701923425669,232,Appointment List-1,302,Found,Thread Group 1-77,text,true,,1576,146,126,126,https://app.niprojmidialysis.com/appointment/dialysis,223,0,0
+1701923425901,225,Appointment List-2,200,OK,Thread Group 1-77,text,true,,4560,126,126,126,https://app.niprojmidialysis.com,225,0,0
+1701923423249,2878,Appointment List,200,OK,Thread Group 1-74,text,true,,6671,419,124,124,https://app.niprojmidialysis.com,2417,0,2399
+1701923423249,2417,Appointment List-0,301,Moved Permanently,Thread Group 1-74,text,true,,535,147,124,124,https://app.niprojmidialysis.com/appointment/dialysis/,2417,0,2399
+1701923425666,235,Appointment List-1,302,Found,Thread Group 1-74,text,true,,1576,146,124,124,https://app.niprojmidialysis.com/appointment/dialysis,232,0,0
+1701923425901,226,Appointment List-2,200,OK,Thread Group 1-74,text,true,,4560,126,124,124,https://app.niprojmidialysis.com,226,0,0
+1701923423269,2876,Appointment List,200,OK,Thread Group 1-78,text,true,,6671,419,123,123,https://app.niprojmidialysis.com,2438,0,2430
+1701923423269,2438,Appointment List-0,301,Moved Permanently,Thread Group 1-78,text,true,,535,147,123,123,https://app.niprojmidialysis.com/appointment/dialysis/,2438,0,2430
+1701923425707,220,Appointment List-1,302,Found,Thread Group 1-78,text,true,,1576,146,123,123,https://app.niprojmidialysis.com/appointment/dialysis,220,0,0
+1701923425927,218,Appointment List-2,200,OK,Thread Group 1-78,text,true,,4560,126,123,123,https://app.niprojmidialysis.com,208,0,0
+1701923423279,2898,Appointment List,200,OK,Thread Group 1-80,text,true,,6671,419,122,122,https://app.niprojmidialysis.com,2444,0,2435
+1701923423279,2444,Appointment List-0,301,Moved Permanently,Thread Group 1-80,text,true,,535,147,122,122,https://app.niprojmidialysis.com/appointment/dialysis/,2444,0,2435
+1701923425724,237,Appointment List-1,302,Found,Thread Group 1-80,text,true,,1576,146,122,122,https://app.niprojmidialysis.com/appointment/dialysis,230,0,0
+1701923423274,2904,Appointment List,200,OK,Thread Group 1-79,text,true,,6671,419,122,122,https://app.niprojmidialysis.com,2449,0,2440
+1701923425961,216,Appointment List-2,200,OK,Thread Group 1-80,text,true,,4560,126,122,122,https://app.niprojmidialysis.com,205,0,0
+1701923423274,2449,Appointment List-0,301,Moved Permanently,Thread Group 1-79,text,true,,535,147,122,122,https://app.niprojmidialysis.com/appointment/dialysis/,2449,0,2440
+1701923425724,237,Appointment List-1,302,Found,Thread Group 1-79,text,true,,1576,146,122,122,https://app.niprojmidialysis.com/appointment/dialysis,229,0,0
+1701923425961,217,Appointment List-2,200,OK,Thread Group 1-79,text,true,,4560,126,122,122,https://app.niprojmidialysis.com,217,0,0
+1701923423284,2908,Appointment List,200,OK,Thread Group 1-81,text,true,,6671,419,120,120,https://app.niprojmidialysis.com,2455,0,2437
+1701923423284,2456,Appointment List-0,301,Moved Permanently,Thread Group 1-81,text,true,,535,147,120,120,https://app.niprojmidialysis.com/appointment/dialysis/,2455,0,2437
+1701923425740,255,Appointment List-1,302,Found,Thread Group 1-81,text,true,,1576,146,120,120,https://app.niprojmidialysis.com/appointment/dialysis,249,0,0
+1701923425995,197,Appointment List-2,200,OK,Thread Group 1-81,text,true,,4560,126,120,120,https://app.niprojmidialysis.com,187,0,0
+1701923423285,2923,Appointment List,200,OK,Thread Group 1-82,text,true,,6671,419,119,119,https://app.niprojmidialysis.com,2455,0,2441
+1701923423285,2455,Appointment List-0,301,Moved Permanently,Thread Group 1-82,text,true,,535,147,119,119,https://app.niprojmidialysis.com/appointment/dialysis/,2455,0,2441
+1701923425740,256,Appointment List-1,302,Found,Thread Group 1-82,text,true,,1576,146,119,119,https://app.niprojmidialysis.com/appointment/dialysis,249,0,0
+1701923425996,212,Appointment List-2,200,OK,Thread Group 1-82,text,true,,4560,126,119,119,https://app.niprojmidialysis.com,203,0,0
+1701923423294,2950,Appointment List,200,OK,Thread Group 1-83,text,true,,6671,419,118,118,https://app.niprojmidialysis.com,2491,0,2480
+1701923423294,2491,Appointment List-0,301,Moved Permanently,Thread Group 1-83,text,true,,535,147,118,118,https://app.niprojmidialysis.com/appointment/dialysis/,2491,0,2480
+1701923425785,216,Appointment List-1,302,Found,Thread Group 1-83,text,true,,1576,146,118,118,https://app.niprojmidialysis.com/appointment/dialysis,210,0,0
+1701923426002,242,Appointment List-2,200,OK,Thread Group 1-83,text,true,,4560,126,118,118,https://app.niprojmidialysis.com,242,0,0
+1701923423309,2936,Appointment List,200,OK,Thread Group 1-86,text,true,,6671,419,117,117,https://app.niprojmidialysis.com,2501,0,2494
+1701923423309,2501,Appointment List-0,301,Moved Permanently,Thread Group 1-86,text,true,,535,147,117,117,https://app.niprojmidialysis.com/appointment/dialysis/,2501,0,2494
+1701923425810,215,Appointment List-1,302,Found,Thread Group 1-86,text,true,,1576,146,117,117,https://app.niprojmidialysis.com/appointment/dialysis,204,0,0
+1701923426025,220,Appointment List-2,200,OK,Thread Group 1-86,text,true,,4560,126,117,117,https://app.niprojmidialysis.com,220,0,0
+1701923423299,2950,Appointment List,200,OK,Thread Group 1-85,text,true,,6671,419,116,116,https://app.niprojmidialysis.com,2511,0,2503
+1701923423299,2511,Appointment List-0,301,Moved Permanently,Thread Group 1-85,text,true,,535,147,116,116,https://app.niprojmidialysis.com/appointment/dialysis/,2511,0,2503
+1701923425810,221,Appointment List-1,302,Found,Thread Group 1-85,text,true,,1576,146,116,116,https://app.niprojmidialysis.com/appointment/dialysis,215,0,0
+1701923426031,218,Appointment List-2,200,OK,Thread Group 1-85,text,true,,4560,126,116,116,https://app.niprojmidialysis.com,214,0,0
+1701923423299,2968,Appointment List,200,OK,Thread Group 1-84,text,true,,6671,419,115,115,https://app.niprojmidialysis.com,2500,0,2488
+1701923423299,2500,Appointment List-0,301,Moved Permanently,Thread Group 1-84,text,true,,535,147,115,115,https://app.niprojmidialysis.com/appointment/dialysis/,2500,0,2488
+1701923425799,226,Appointment List-1,302,Found,Thread Group 1-84,text,true,,1576,146,115,115,https://app.niprojmidialysis.com/appointment/dialysis,216,0,0
+1701923426025,242,Appointment List-2,200,OK,Thread Group 1-84,text,true,,4560,126,115,115,https://app.niprojmidialysis.com,224,0,0
+1701923423319,2997,Appointment List,200,OK,Thread Group 1-88,text,true,,6671,419,114,114,https://app.niprojmidialysis.com,2540,0,2530
+1701923423319,2540,Appointment List-0,301,Moved Permanently,Thread Group 1-88,text,true,,535,147,114,114,https://app.niprojmidialysis.com/appointment/dialysis/,2540,0,2530
+1701923425859,250,Appointment List-1,302,Found,Thread Group 1-88,text,true,,1576,146,114,114,https://app.niprojmidialysis.com/appointment/dialysis,236,0,0
+1701923426109,207,Appointment List-2,200,OK,Thread Group 1-88,text,true,,4560,126,114,114,https://app.niprojmidialysis.com,194,0,0
+1701923423314,3003,Appointment List,200,OK,Thread Group 1-87,text,true,,6671,419,113,113,https://app.niprojmidialysis.com,2535,0,2524
+1701923423314,2535,Appointment List-0,301,Moved Permanently,Thread Group 1-87,text,true,,535,147,113,113,https://app.niprojmidialysis.com/appointment/dialysis/,2535,0,2524
+1701923425849,244,Appointment List-1,302,Found,Thread Group 1-87,text,true,,1576,146,113,113,https://app.niprojmidialysis.com/appointment/dialysis,243,0,0
+1701923426093,224,Appointment List-2,200,OK,Thread Group 1-87,text,true,,4560,126,113,113,https://app.niprojmidialysis.com,223,0,0
+1701923423324,3109,Appointment List,200,OK,Thread Group 1-89,text,true,,6671,419,112,112,https://app.niprojmidialysis.com,2677,0,2664
+1701923423324,2677,Appointment List-0,301,Moved Permanently,Thread Group 1-89,text,true,,535,147,112,112,https://app.niprojmidialysis.com/appointment/dialysis/,2677,0,2664
+1701923426002,215,Appointment List-1,302,Found,Thread Group 1-89,text,true,,1576,146,112,112,https://app.niprojmidialysis.com/appointment/dialysis,206,0,0
+1701923426217,216,Appointment List-2,200,OK,Thread Group 1-89,text,true,,4560,126,112,112,https://app.niprojmidialysis.com,211,0,0
+1701923423325,3142,Appointment List,200,OK,Thread Group 1-90,text,true,,6671,419,111,111,https://app.niprojmidialysis.com,2676,0,2663
+1701923423325,2676,Appointment List-0,301,Moved Permanently,Thread Group 1-90,text,true,,535,147,111,111,https://app.niprojmidialysis.com/appointment/dialysis/,2676,0,2663
+1701923426002,221,Appointment List-1,302,Found,Thread Group 1-90,text,true,,1576,146,111,111,https://app.niprojmidialysis.com/appointment/dialysis,215,0,0
+1701923426224,243,Appointment List-2,200,OK,Thread Group 1-90,text,true,,4560,126,111,111,https://app.niprojmidialysis.com,220,0,0
+1701923423333,3167,Appointment List,200,OK,Thread Group 1-91,text,true,,6671,419,110,110,https://app.niprojmidialysis.com,2729,0,2721
+1701923423333,2729,Appointment List-0,301,Moved Permanently,Thread Group 1-91,text,true,,535,147,110,110,https://app.niprojmidialysis.com/appointment/dialysis/,2729,0,2721
+1701923426062,227,Appointment List-1,302,Found,Thread Group 1-91,text,true,,1576,146,110,110,https://app.niprojmidialysis.com/appointment/dialysis,222,0,0
+1701923426289,211,Appointment List-2,200,OK,Thread Group 1-91,text,true,,4560,126,110,110,https://app.niprojmidialysis.com,200,0,0
+1701923423342,3218,Appointment List,200,OK,Thread Group 1-93,text,true,,6671,419,109,109,https://app.niprojmidialysis.com,2803,0,2795
+1701923423342,2803,Appointment List-0,301,Moved Permanently,Thread Group 1-93,text,true,,535,147,109,109,https://app.niprojmidialysis.com/appointment/dialysis/,2803,0,2795
+1701923426145,213,Appointment List-1,302,Found,Thread Group 1-93,text,true,,1576,146,109,109,https://app.niprojmidialysis.com/appointment/dialysis,207,0,0
+1701923426358,202,Appointment List-2,200,OK,Thread Group 1-93,text,true,,4560,126,109,109,https://app.niprojmidialysis.com,195,0,0
+1701923423350,3220,Appointment List,200,OK,Thread Group 1-95,text,true,,6671,419,108,108,https://app.niprojmidialysis.com,2795,0,2787
+1701923423350,2795,Appointment List-0,301,Moved Permanently,Thread Group 1-95,text,true,,535,147,108,108,https://app.niprojmidialysis.com/appointment/dialysis/,2795,0,2787
+1701923426145,197,Appointment List-1,302,Found,Thread Group 1-95,text,true,,1576,146,108,108,https://app.niprojmidialysis.com/appointment/dialysis,189,0,0
+1701923426342,228,Appointment List-2,200,OK,Thread Group 1-95,text,true,,4560,126,108,108,https://app.niprojmidialysis.com,218,0,0
+1701923423349,3250,Appointment List,200,OK,Thread Group 1-94,text,true,,6671,419,107,107,https://app.niprojmidialysis.com,2796,0,2788
+1701923423349,2796,Appointment List-0,301,Moved Permanently,Thread Group 1-94,text,true,,535,147,107,107,https://app.niprojmidialysis.com/appointment/dialysis/,2796,0,2788
+1701923426145,213,Appointment List-1,302,Found,Thread Group 1-94,text,true,,1576,146,107,107,https://app.niprojmidialysis.com/appointment/dialysis,207,0,0
+1701923426358,241,Appointment List-2,200,OK,Thread Group 1-94,text,true,,4560,126,107,107,https://app.niprojmidialysis.com,234,0,0
+1701923423364,3281,Appointment List,200,OK,Thread Group 1-98,text,true,,6671,419,106,106,https://app.niprojmidialysis.com,2836,0,2829
+1701923423359,3286,Appointment List,200,OK,Thread Group 1-96,text,true,,6671,419,106,106,https://app.niprojmidialysis.com,2817,0,2800
+1701923423364,2836,Appointment List-0,301,Moved Permanently,Thread Group 1-98,text,true,,535,147,106,106,https://app.niprojmidialysis.com/appointment/dialysis/,2836,0,2829
+1701923423359,2817,Appointment List-0,301,Moved Permanently,Thread Group 1-96,text,true,,535,147,106,106,https://app.niprojmidialysis.com/appointment/dialysis/,2817,0,2800
+1701923426200,233,Appointment List-1,302,Found,Thread Group 1-98,text,true,,1576,146,106,106,https://app.niprojmidialysis.com/appointment/dialysis,225,0,0
+1701923426176,231,Appointment List-1,302,Found,Thread Group 1-96,text,true,,1576,146,106,106,https://app.niprojmidialysis.com/appointment/dialysis,231,0,0
+1701923426433,212,Appointment List-2,200,OK,Thread Group 1-98,text,true,,4560,126,106,106,https://app.niprojmidialysis.com,206,0,0
+1701923426407,238,Appointment List-2,200,OK,Thread Group 1-96,text,true,,4560,126,106,106,https://app.niprojmidialysis.com,232,0,0
+1701923423363,3327,Appointment List,200,OK,Thread Group 1-97,text,true,,6671,419,104,104,https://app.niprojmidialysis.com,2845,0,2838
+1701923423363,2845,Appointment List-0,301,Moved Permanently,Thread Group 1-97,text,true,,535,147,104,104,https://app.niprojmidialysis.com/appointment/dialysis/,2845,0,2838
+1701923426208,211,Appointment List-1,302,Found,Thread Group 1-97,text,true,,1576,146,104,104,https://app.niprojmidialysis.com/appointment/dialysis,203,0,0
+1701923426419,271,Appointment List-2,200,OK,Thread Group 1-97,text,true,,4560,126,104,104,https://app.niprojmidialysis.com,271,0,0
+1701923423374,3322,Appointment List,200,OK,Thread Group 1-99,text,true,,6671,419,103,103,https://app.niprojmidialysis.com,2852,0,2844
+1701923423374,2852,Appointment List-0,301,Moved Permanently,Thread Group 1-99,text,true,,535,147,103,103,https://app.niprojmidialysis.com/appointment/dialysis/,2852,0,2844
+1701923426226,241,Appointment List-1,302,Found,Thread Group 1-99,text,true,,1576,146,103,103,https://app.niprojmidialysis.com/appointment/dialysis,217,0,0
+1701923426467,229,Appointment List-2,200,OK,Thread Group 1-99,text,true,,4560,126,103,103,https://app.niprojmidialysis.com,229,0,0
+1701923423395,3318,Appointment List,200,OK,Thread Group 1-103,text,true,,6671,419,102,102,https://app.niprojmidialysis.com,2872,0,2863
+1701923423395,2872,Appointment List-0,301,Moved Permanently,Thread Group 1-103,text,true,,535,147,102,102,https://app.niprojmidialysis.com/appointment/dialysis/,2872,0,2863
+1701923426267,225,Appointment List-1,302,Found,Thread Group 1-103,text,true,,1576,146,102,102,https://app.niprojmidialysis.com/appointment/dialysis,220,0,0
+1701923426492,221,Appointment List-2,200,OK,Thread Group 1-103,text,true,,4560,126,102,102,https://app.niprojmidialysis.com,215,0,0
+1701923423384,3332,Appointment List,200,OK,Thread Group 1-101,text,true,,6671,419,101,101,https://app.niprojmidialysis.com,2883,0,2872
+1701923423384,2883,Appointment List-0,301,Moved Permanently,Thread Group 1-101,text,true,,535,147,101,101,https://app.niprojmidialysis.com/appointment/dialysis/,2883,0,2872
+1701923426267,217,Appointment List-1,302,Found,Thread Group 1-101,text,true,,1576,146,101,101,https://app.niprojmidialysis.com/appointment/dialysis,213,0,0
+1701923426484,232,Appointment List-2,200,OK,Thread Group 1-101,text,true,,4560,126,101,101,https://app.niprojmidialysis.com,229,0,0
+1701923423389,3356,Appointment List,200,OK,Thread Group 1-102,text,true,,6671,419,100,100,https://app.niprojmidialysis.com,2878,0,2867
+1701923423379,3366,Appointment List,200,OK,Thread Group 1-100,text,true,,6671,419,100,100,https://app.niprojmidialysis.com,2866,0,2853
+1701923423389,2878,Appointment List-0,301,Moved Permanently,Thread Group 1-102,text,true,,535,147,100,100,https://app.niprojmidialysis.com/appointment/dialysis/,2878,0,2867
+1701923423379,2866,Appointment List-0,301,Moved Permanently,Thread Group 1-100,text,true,,535,147,100,100,https://app.niprojmidialysis.com/appointment/dialysis/,2866,0,2853
+1701923426267,234,Appointment List-1,302,Found,Thread Group 1-102,text,true,,1576,146,100,100,https://app.niprojmidialysis.com/appointment/dialysis,225,0,0
+1701923426245,222,Appointment List-1,302,Found,Thread Group 1-100,text,true,,1576,146,100,100,https://app.niprojmidialysis.com/appointment/dialysis,201,0,0
+1701923426501,244,Appointment List-2,200,OK,Thread Group 1-102,text,true,,4560,126,100,100,https://app.niprojmidialysis.com,239,0,0
+1701923426467,278,Appointment List-2,200,OK,Thread Group 1-100,text,true,,4560,126,100,100,https://app.niprojmidialysis.com,269,0,0
+1701923423395,3369,Appointment List,200,OK,Thread Group 1-104,text,true,,6671,419,98,98,https://app.niprojmidialysis.com,2898,0,2889
+1701923423395,2898,Appointment List-0,301,Moved Permanently,Thread Group 1-104,text,true,,535,147,98,98,https://app.niprojmidialysis.com/appointment/dialysis/,2898,0,2889
+1701923426293,220,Appointment List-1,302,Found,Thread Group 1-104,text,true,,1576,146,98,98,https://app.niprojmidialysis.com/appointment/dialysis,215,0,0
+1701923426513,251,Appointment List-2,200,OK,Thread Group 1-104,text,true,,4560,126,98,98,https://app.niprojmidialysis.com,245,0,0
+1701923423409,3384,Appointment List,200,OK,Thread Group 1-106,text,true,,6671,419,97,97,https://app.niprojmidialysis.com,2933,0,2924
+1701923423409,2933,Appointment List-0,301,Moved Permanently,Thread Group 1-106,text,true,,535,147,97,97,https://app.niprojmidialysis.com/appointment/dialysis/,2933,0,2924
+1701923426342,228,Appointment List-1,302,Found,Thread Group 1-106,text,true,,1576,146,97,97,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923426570,223,Appointment List-2,200,OK,Thread Group 1-106,text,true,,4560,126,97,97,https://app.niprojmidialysis.com,214,0,0
+1701923423404,3422,Appointment List,200,OK,Thread Group 1-105,text,true,,6671,419,96,96,https://app.niprojmidialysis.com,2938,0,2929
+1701923423404,2938,Appointment List-0,301,Moved Permanently,Thread Group 1-105,text,true,,535,147,96,96,https://app.niprojmidialysis.com/appointment/dialysis/,2938,0,2929
+1701923426342,257,Appointment List-1,302,Found,Thread Group 1-105,text,true,,1576,146,96,96,https://app.niprojmidialysis.com/appointment/dialysis,246,0,0
+1701923426599,227,Appointment List-2,200,OK,Thread Group 1-105,text,true,,4560,126,96,96,https://app.niprojmidialysis.com,216,0,0
+1701923423339,3576,Appointment List,200,OK,Thread Group 1-92,text,true,,6671,419,95,95,https://app.niprojmidialysis.com,2797,0,2790
+1701923423339,2797,Appointment List-0,301,Moved Permanently,Thread Group 1-92,text,true,,535,147,95,95,https://app.niprojmidialysis.com/appointment/dialysis/,2797,0,2790
+1701923426136,509,Appointment List-1,302,Found,Thread Group 1-92,text,true,,1576,146,95,95,https://app.niprojmidialysis.com/appointment/dialysis,503,0,0
+1701923426645,270,Appointment List-2,200,OK,Thread Group 1-92,text,true,,4560,126,95,95,https://app.niprojmidialysis.com,268,0,0
+1701923423424,3515,Appointment List,200,OK,Thread Group 1-109,text,true,,6671,419,94,94,https://app.niprojmidialysis.com,3060,0,3053
+1701923423424,3060,Appointment List-0,301,Moved Permanently,Thread Group 1-109,text,true,,535,147,94,94,https://app.niprojmidialysis.com/appointment/dialysis/,3060,0,3053
+1701923426484,222,Appointment List-1,302,Found,Thread Group 1-109,text,true,,1576,146,94,94,https://app.niprojmidialysis.com/appointment/dialysis,212,0,0
+1701923426706,233,Appointment List-2,200,OK,Thread Group 1-109,text,true,,4560,126,94,94,https://app.niprojmidialysis.com,227,0,0
+1701923423414,3531,Appointment List,200,OK,Thread Group 1-107,text,true,,6671,419,93,93,https://app.niprojmidialysis.com,3053,0,3030
+1701923423414,3053,Appointment List-0,301,Moved Permanently,Thread Group 1-107,text,true,,535,147,93,93,https://app.niprojmidialysis.com/appointment/dialysis/,3053,0,3030
+1701923426467,228,Appointment List-1,302,Found,Thread Group 1-107,text,true,,1576,146,93,93,https://app.niprojmidialysis.com/appointment/dialysis,223,0,0
+1701923426695,250,Appointment List-2,200,OK,Thread Group 1-107,text,true,,4560,126,93,93,https://app.niprojmidialysis.com,243,0,0
+1701923423414,3587,Appointment List,200,OK,Thread Group 1-108,text,true,,6671,419,92,92,https://app.niprojmidialysis.com,3066,0,3054
+1701923423414,3066,Appointment List-0,301,Moved Permanently,Thread Group 1-108,text,true,,535,147,92,92,https://app.niprojmidialysis.com/appointment/dialysis/,3066,0,3054
+1701923426480,248,Appointment List-1,302,Found,Thread Group 1-108,text,true,,1576,146,92,92,https://app.niprojmidialysis.com/appointment/dialysis,236,0,0
+1701923426728,273,Appointment List-2,200,OK,Thread Group 1-108,text,true,,4560,126,92,92,https://app.niprojmidialysis.com,269,0,0
+1701923423434,3637,Appointment List,200,OK,Thread Group 1-111,text,true,,6671,419,91,91,https://app.niprojmidialysis.com,3147,0,3137
+1701923423434,3147,Appointment List-0,301,Moved Permanently,Thread Group 1-111,text,true,,535,147,91,91,https://app.niprojmidialysis.com/appointment/dialysis/,3147,0,3137
+1701923426581,226,Appointment List-1,302,Found,Thread Group 1-111,text,true,,1576,146,91,91,https://app.niprojmidialysis.com/appointment/dialysis,222,0,0
+1701923426807,264,Appointment List-2,200,OK,Thread Group 1-111,text,true,,4560,126,91,91,https://app.niprojmidialysis.com,261,0,0
+1701923423425,3674,Appointment List,200,OK,Thread Group 1-110,text,true,,6671,419,90,90,https://app.niprojmidialysis.com,3093,0,3086
+1701923423425,3093,Appointment List-0,301,Moved Permanently,Thread Group 1-110,text,true,,535,147,90,90,https://app.niprojmidialysis.com/appointment/dialysis/,3093,0,3086
+1701923426518,245,Appointment List-1,302,Found,Thread Group 1-110,text,true,,1576,146,90,90,https://app.niprojmidialysis.com/appointment/dialysis,236,0,0
+1701923426763,336,Appointment List-2,200,OK,Thread Group 1-110,text,true,,4560,126,90,90,https://app.niprojmidialysis.com,322,0,0
+1701923423440,3702,Appointment List,200,OK,Thread Group 1-112,text,true,,6671,419,89,89,https://app.niprojmidialysis.com,3152,0,3141
+1701923423440,3152,Appointment List-0,301,Moved Permanently,Thread Group 1-112,text,true,,535,147,89,89,https://app.niprojmidialysis.com/appointment/dialysis/,3152,0,3141
+1701923426592,301,Appointment List-1,302,Found,Thread Group 1-112,text,true,,1576,146,89,89,https://app.niprojmidialysis.com/appointment/dialysis,296,0,0
+1701923426893,249,Appointment List-2,200,OK,Thread Group 1-112,text,true,,4560,126,89,89,https://app.niprojmidialysis.com,239,0,0
+1701923423454,3725,Appointment List,200,OK,Thread Group 1-116,text,true,,6671,419,88,88,https://app.niprojmidialysis.com,3236,0,3203
+1701923423454,3236,Appointment List-0,301,Moved Permanently,Thread Group 1-116,text,true,,535,147,88,88,https://app.niprojmidialysis.com/appointment/dialysis/,3236,0,3203
+1701923426690,233,Appointment List-1,302,Found,Thread Group 1-116,text,true,,1576,146,88,88,https://app.niprojmidialysis.com/appointment/dialysis,224,0,0
+1701923426923,256,Appointment List-2,200,OK,Thread Group 1-116,text,true,,4560,126,88,88,https://app.niprojmidialysis.com,250,0,0
+1701923423440,3762,Appointment List,200,OK,Thread Group 1-113,text,true,,6671,419,87,87,https://app.niprojmidialysis.com,3175,0,3168
+1701923423440,3175,Appointment List-0,301,Moved Permanently,Thread Group 1-113,text,true,,535,147,87,87,https://app.niprojmidialysis.com/appointment/dialysis/,3175,0,3168
+1701923426615,266,Appointment List-1,302,Found,Thread Group 1-113,text,true,,1576,146,87,87,https://app.niprojmidialysis.com/appointment/dialysis,266,0,0
+1701923426881,321,Appointment List-2,200,OK,Thread Group 1-113,text,true,,4560,126,87,87,https://app.niprojmidialysis.com,314,0,0
+1701923423464,3761,Appointment List,200,OK,Thread Group 1-117,text,true,,6671,419,86,86,https://app.niprojmidialysis.com,3252,0,3243
+1701923423464,3252,Appointment List-0,301,Moved Permanently,Thread Group 1-117,text,true,,535,147,86,86,https://app.niprojmidialysis.com/appointment/dialysis/,3252,0,3243
+1701923426716,222,Appointment List-1,302,Found,Thread Group 1-117,text,true,,1576,146,86,86,https://app.niprojmidialysis.com/appointment/dialysis,215,0,0
+1701923426938,287,Appointment List-2,200,OK,Thread Group 1-117,text,true,,4560,126,86,86,https://app.niprojmidialysis.com,287,0,0
+1701923423454,3812,Appointment List,200,OK,Thread Group 1-115,text,true,,6671,419,85,85,https://app.niprojmidialysis.com,3262,0,3253
+1701923423454,3262,Appointment List-0,301,Moved Permanently,Thread Group 1-115,text,true,,535,147,85,85,https://app.niprojmidialysis.com/appointment/dialysis/,3262,0,3253
+1701923426716,239,Appointment List-1,302,Found,Thread Group 1-115,text,true,,1576,146,85,85,https://app.niprojmidialysis.com/appointment/dialysis,236,0,0
+1701923426955,311,Appointment List-2,200,OK,Thread Group 1-115,text,true,,4560,126,85,85,https://app.niprojmidialysis.com,303,0,0
+1701923423449,3819,Appointment List,200,OK,Thread Group 1-114,text,true,,6671,419,84,84,https://app.niprojmidialysis.com,3241,0,3208
+1701923423449,3241,Appointment List-0,301,Moved Permanently,Thread Group 1-114,text,true,,535,147,84,84,https://app.niprojmidialysis.com/appointment/dialysis/,3241,0,3208
+1701923426690,279,Appointment List-1,302,Found,Thread Group 1-114,text,true,,1576,146,84,84,https://app.niprojmidialysis.com/appointment/dialysis,255,0,0
+1701923426969,299,Appointment List-2,200,OK,Thread Group 1-114,text,true,,4560,126,84,84,https://app.niprojmidialysis.com,293,0,0
+1701923423469,3838,Appointment List,200,OK,Thread Group 1-118,text,true,,6671,419,83,83,https://app.niprojmidialysis.com,3267,0,3259
+1701923423469,3267,Appointment List-0,301,Moved Permanently,Thread Group 1-118,text,true,,535,147,83,83,https://app.niprojmidialysis.com/appointment/dialysis/,3267,0,3259
+1701923426736,250,Appointment List-1,302,Found,Thread Group 1-118,text,true,,1576,146,83,83,https://app.niprojmidialysis.com/appointment/dialysis,246,0,0
+1701923426987,320,Appointment List-2,200,OK,Thread Group 1-118,text,true,,4560,126,83,83,https://app.niprojmidialysis.com,290,0,0
+1701923423489,3819,Appointment List,200,OK,Thread Group 1-122,text,true,,6671,419,82,82,https://app.niprojmidialysis.com,3279,0,3270
+1701923423489,3279,Appointment List-0,301,Moved Permanently,Thread Group 1-122,text,true,,535,147,82,82,https://app.niprojmidialysis.com/appointment/dialysis/,3279,0,3270
+1701923426768,272,Appointment List-1,302,Found,Thread Group 1-122,text,true,,1576,146,82,82,https://app.niprojmidialysis.com/appointment/dialysis,265,0,0
+1701923427040,268,Appointment List-2,200,OK,Thread Group 1-122,text,true,,4560,126,82,82,https://app.niprojmidialysis.com,267,0,0
+1701923423479,3842,Appointment List,200,OK,Thread Group 1-120,text,true,,6671,419,81,81,https://app.niprojmidialysis.com,3261,0,3253
+1701923423479,3261,Appointment List-0,301,Moved Permanently,Thread Group 1-120,text,true,,535,147,81,81,https://app.niprojmidialysis.com/appointment/dialysis/,3261,0,3253
+1701923426740,275,Appointment List-1,302,Found,Thread Group 1-120,text,true,,1576,146,81,81,https://app.niprojmidialysis.com/appointment/dialysis,268,0,0
+1701923427015,306,Appointment List-2,200,OK,Thread Group 1-120,text,true,,4560,126,81,81,https://app.niprojmidialysis.com,305,0,0
+1701923423470,3854,Appointment List,200,OK,Thread Group 1-119,text,true,,6671,419,80,80,https://app.niprojmidialysis.com,3258,0,3244
+1701923423470,3258,Appointment List-0,301,Moved Permanently,Thread Group 1-119,text,true,,535,147,80,80,https://app.niprojmidialysis.com/appointment/dialysis/,3258,0,3244
+1701923426728,271,Appointment List-1,302,Found,Thread Group 1-119,text,true,,1576,146,80,80,https://app.niprojmidialysis.com/appointment/dialysis,263,0,0
+1701923426999,325,Appointment List-2,200,OK,Thread Group 1-119,text,true,,4560,126,80,80,https://app.niprojmidialysis.com,309,0,0
+1701923423520,3815,Appointment List,200,OK,Thread Group 1-128,text,true,,6671,419,79,79,https://app.niprojmidialysis.com,3296,0,3287
+1701923423520,3296,Appointment List-0,301,Moved Permanently,Thread Group 1-128,text,true,,535,147,79,79,https://app.niprojmidialysis.com/appointment/dialysis/,3296,0,3287
+1701923426816,258,Appointment List-1,302,Found,Thread Group 1-128,text,true,,1576,146,79,79,https://app.niprojmidialysis.com/appointment/dialysis,237,0,0
+1701923427074,261,Appointment List-2,200,OK,Thread Group 1-128,text,true,,4560,126,79,79,https://app.niprojmidialysis.com,254,0,0
+1701923423516,3832,Appointment List,200,OK,Thread Group 1-127,text,true,,6671,419,78,78,https://app.niprojmidialysis.com,3299,0,3288
+1701923423516,3299,Appointment List-0,301,Moved Permanently,Thread Group 1-127,text,true,,535,147,78,78,https://app.niprojmidialysis.com/appointment/dialysis/,3299,0,3288
+1701923426815,267,Appointment List-1,302,Found,Thread Group 1-127,text,true,,1576,146,78,78,https://app.niprojmidialysis.com/appointment/dialysis,256,0,0
+1701923427082,266,Appointment List-2,200,OK,Thread Group 1-127,text,true,,4560,126,78,78,https://app.niprojmidialysis.com,262,0,0
+1701923423484,3879,Appointment List,200,OK,Thread Group 1-121,text,true,,6671,419,77,77,https://app.niprojmidialysis.com,3279,0,3271
+1701923423484,3279,Appointment List-0,301,Moved Permanently,Thread Group 1-121,text,true,,535,147,77,77,https://app.niprojmidialysis.com/appointment/dialysis/,3279,0,3271
+1701923426763,336,Appointment List-1,302,Found,Thread Group 1-121,text,true,,1576,146,77,77,https://app.niprojmidialysis.com/appointment/dialysis,330,0,0
+1701923427099,264,Appointment List-2,200,OK,Thread Group 1-121,text,true,,4560,126,77,77,https://app.niprojmidialysis.com,245,0,0
+1701923423520,3873,Appointment List,200,OK,Thread Group 1-129,text,true,,6671,419,76,76,https://app.niprojmidialysis.com,3309,0,3299
+1701923423520,3309,Appointment List-0,301,Moved Permanently,Thread Group 1-129,text,true,,535,147,76,76,https://app.niprojmidialysis.com/appointment/dialysis/,3309,0,3299
+1701923426829,288,Appointment List-1,302,Found,Thread Group 1-129,text,true,,1576,146,76,76,https://app.niprojmidialysis.com/appointment/dialysis,284,0,0
+1701923427117,276,Appointment List-2,200,OK,Thread Group 1-129,text,true,,4560,126,76,76,https://app.niprojmidialysis.com,267,0,0
+1701923423502,3894,Appointment List,200,OK,Thread Group 1-125,text,true,,6671,419,75,75,https://app.niprojmidialysis.com,3314,0,3302
+1701923423502,3314,Appointment List-0,301,Moved Permanently,Thread Group 1-125,text,true,,535,147,75,75,https://app.niprojmidialysis.com/appointment/dialysis/,3314,0,3302
+1701923426816,306,Appointment List-1,302,Found,Thread Group 1-125,text,true,,1576,146,75,75,https://app.niprojmidialysis.com/appointment/dialysis,298,0,0
+1701923427122,274,Appointment List-2,200,OK,Thread Group 1-125,text,true,,4560,126,75,75,https://app.niprojmidialysis.com,270,0,0
+1701923423534,3881,Appointment List,200,OK,Thread Group 1-131,text,true,,6671,419,74,74,https://app.niprojmidialysis.com,3294,0,3285
+1701923423534,3294,Appointment List-0,301,Moved Permanently,Thread Group 1-131,text,true,,535,147,74,74,https://app.niprojmidialysis.com/appointment/dialysis/,3294,0,3285
+1701923426828,286,Appointment List-1,302,Found,Thread Group 1-131,text,true,,1576,146,74,74,https://app.niprojmidialysis.com/appointment/dialysis,284,0,0
+1701923427115,300,Appointment List-2,200,OK,Thread Group 1-131,text,true,,4560,126,74,74,https://app.niprojmidialysis.com,295,0,0
+1701923423509,3914,Appointment List,200,OK,Thread Group 1-126,text,true,,6671,419,73,73,https://app.niprojmidialysis.com,3306,0,3295
+1701923423509,3306,Appointment List-0,301,Moved Permanently,Thread Group 1-126,text,true,,535,147,73,73,https://app.niprojmidialysis.com/appointment/dialysis/,3306,0,3295
+1701923426815,333,Appointment List-1,302,Found,Thread Group 1-126,text,true,,1576,146,73,73,https://app.niprojmidialysis.com/appointment/dialysis,317,0,0
+1701923427148,275,Appointment List-2,200,OK,Thread Group 1-126,text,true,,4560,126,73,73,https://app.niprojmidialysis.com,262,0,0
+1701923423500,3923,Appointment List,200,OK,Thread Group 1-124,text,true,,6671,419,73,73,https://app.niprojmidialysis.com,3315,0,3303
+1701923423500,3315,Appointment List-0,301,Moved Permanently,Thread Group 1-124,text,true,,535,147,73,73,https://app.niprojmidialysis.com/appointment/dialysis/,3315,0,3303
+1701923426815,342,Appointment List-1,302,Found,Thread Group 1-124,text,true,,1576,146,73,73,https://app.niprojmidialysis.com/appointment/dialysis,336,0,0
+1701923427157,266,Appointment List-2,200,OK,Thread Group 1-124,text,true,,4560,126,73,73,https://app.niprojmidialysis.com,258,0,0
+1701923423494,3933,Appointment List,200,OK,Thread Group 1-123,text,true,,6671,419,71,71,https://app.niprojmidialysis.com,3299,0,3286
+1701923423494,3299,Appointment List-0,301,Moved Permanently,Thread Group 1-123,text,true,,535,147,71,71,https://app.niprojmidialysis.com/appointment/dialysis/,3299,0,3286
+1701923426793,329,Appointment List-1,302,Found,Thread Group 1-123,text,true,,1576,146,71,71,https://app.niprojmidialysis.com/appointment/dialysis,320,0,0
+1701923427122,305,Appointment List-2,200,OK,Thread Group 1-123,text,true,,4560,126,71,71,https://app.niprojmidialysis.com,301,0,0
+1701923423529,3926,Appointment List,200,OK,Thread Group 1-130,text,true,,6671,419,70,70,https://app.niprojmidialysis.com,3299,0,3290
+1701923423529,3299,Appointment List-0,301,Moved Permanently,Thread Group 1-130,text,true,,535,147,70,70,https://app.niprojmidialysis.com/appointment/dialysis/,3299,0,3290
+1701923426828,320,Appointment List-1,302,Found,Thread Group 1-130,text,true,,1576,146,70,70,https://app.niprojmidialysis.com/appointment/dialysis,314,0,0
+1701923427148,307,Appointment List-2,200,OK,Thread Group 1-130,text,true,,4560,126,70,70,https://app.niprojmidialysis.com,298,0,0
+1701923423539,3942,Appointment List,200,OK,Thread Group 1-132,text,true,,6671,419,69,69,https://app.niprojmidialysis.com,3305,0,3298
+1701923423539,3305,Appointment List-0,301,Moved Permanently,Thread Group 1-132,text,true,,535,147,69,69,https://app.niprojmidialysis.com/appointment/dialysis/,3305,0,3298
+1701923426844,319,Appointment List-1,302,Found,Thread Group 1-132,text,true,,1576,146,69,69,https://app.niprojmidialysis.com/appointment/dialysis,311,0,0
+1701923427163,318,Appointment List-2,200,OK,Thread Group 1-132,text,true,,4560,126,69,69,https://app.niprojmidialysis.com,312,0,0
+1701923423559,4017,Appointment List,200,OK,Thread Group 1-135,text,true,,6671,419,68,68,https://app.niprojmidialysis.com,3410,0,3396
+1701923423559,3410,Appointment List-0,301,Moved Permanently,Thread Group 1-135,text,true,,535,147,68,68,https://app.niprojmidialysis.com/appointment/dialysis/,3410,0,3396
+1701923426969,255,Appointment List-1,302,Found,Thread Group 1-135,text,true,,1576,146,68,68,https://app.niprojmidialysis.com/appointment/dialysis,237,0,0
+1701923427224,352,Appointment List-2,200,OK,Thread Group 1-135,text,true,,4560,126,68,68,https://app.niprojmidialysis.com,352,0,0
+1701923423549,4065,Appointment List,200,OK,Thread Group 1-134,text,true,,6671,419,67,67,https://app.niprojmidialysis.com,3413,0,3403
+1701923423549,3413,Appointment List-0,301,Moved Permanently,Thread Group 1-134,text,true,,535,147,67,67,https://app.niprojmidialysis.com/appointment/dialysis/,3413,0,3403
+1701923426962,290,Appointment List-1,302,Found,Thread Group 1-134,text,true,,1576,146,67,67,https://app.niprojmidialysis.com/appointment/dialysis,271,0,0
+1701923427252,362,Appointment List-2,200,OK,Thread Group 1-134,text,true,,4560,126,67,67,https://app.niprojmidialysis.com,345,0,0
+1701923423544,4130,Appointment List,200,OK,Thread Group 1-133,text,true,,6671,419,66,66,https://app.niprojmidialysis.com,3395,0,3388
+1701923423544,3395,Appointment List-0,301,Moved Permanently,Thread Group 1-133,text,true,,535,147,66,66,https://app.niprojmidialysis.com/appointment/dialysis/,3395,0,3388
+1701923426939,319,Appointment List-1,302,Found,Thread Group 1-133,text,true,,1576,146,66,66,https://app.niprojmidialysis.com/appointment/dialysis,313,0,0
+1701923427258,416,Appointment List-2,200,OK,Thread Group 1-133,text,true,,4560,126,66,66,https://app.niprojmidialysis.com,407,0,0
+1701923423564,4125,Appointment List,200,OK,Thread Group 1-137,text,true,,6671,419,65,65,https://app.niprojmidialysis.com,3558,0,3548
+1701923423564,3558,Appointment List-0,301,Moved Permanently,Thread Group 1-137,text,true,,535,147,65,65,https://app.niprojmidialysis.com/appointment/dialysis/,3558,0,3548
+1701923427122,301,Appointment List-1,302,Found,Thread Group 1-137,text,true,,1576,146,65,65,https://app.niprojmidialysis.com/appointment/dialysis,293,0,0
+1701923427424,265,Appointment List-2,200,OK,Thread Group 1-137,text,true,,4560,126,65,65,https://app.niprojmidialysis.com,249,0,0
+1701923423560,4139,Appointment List,200,OK,Thread Group 1-136,text,true,,6671,419,64,64,https://app.niprojmidialysis.com,3467,0,3451
+1701923423560,3467,Appointment List-0,301,Moved Permanently,Thread Group 1-136,text,true,,535,147,64,64,https://app.niprojmidialysis.com/appointment/dialysis/,3467,0,3451
+1701923427027,317,Appointment List-1,302,Found,Thread Group 1-136,text,true,,1576,146,64,64,https://app.niprojmidialysis.com/appointment/dialysis,308,0,0
+1701923427344,355,Appointment List-2,200,OK,Thread Group 1-136,text,true,,4560,126,64,64,https://app.niprojmidialysis.com,349,0,0
+1701923423565,4166,Appointment List,200,OK,Thread Group 1-138,text,true,,6671,419,63,63,https://app.niprojmidialysis.com,3593,0,3587
+1701923423565,3593,Appointment List-0,301,Moved Permanently,Thread Group 1-138,text,true,,535,147,63,63,https://app.niprojmidialysis.com/appointment/dialysis/,3593,0,3587
+1701923427158,265,Appointment List-1,302,Found,Thread Group 1-138,text,true,,1576,146,63,63,https://app.niprojmidialysis.com/appointment/dialysis,242,0,0
+1701923427423,308,Appointment List-2,200,OK,Thread Group 1-138,text,true,,4560,126,63,63,https://app.niprojmidialysis.com,303,0,0
+1701923423575,4194,Appointment List,200,OK,Thread Group 1-140,text,true,,6671,419,62,62,https://app.niprojmidialysis.com,3650,0,3637
+1701923423575,3650,Appointment List-0,301,Moved Permanently,Thread Group 1-140,text,true,,535,147,62,62,https://app.niprojmidialysis.com/appointment/dialysis/,3650,0,3637
+1701923427225,254,Appointment List-1,302,Found,Thread Group 1-140,text,true,,1576,146,62,62,https://app.niprojmidialysis.com/appointment/dialysis,250,0,0
+1701923427479,290,Appointment List-2,200,OK,Thread Group 1-140,text,true,,4560,126,62,62,https://app.niprojmidialysis.com,280,0,0
+1701923423572,4274,Appointment List,200,OK,Thread Group 1-139,text,true,,6671,419,61,61,https://app.niprojmidialysis.com,3624,0,3617
+1701923423572,3624,Appointment List-0,301,Moved Permanently,Thread Group 1-139,text,true,,535,147,61,61,https://app.niprojmidialysis.com/appointment/dialysis/,3624,0,3617
+1701923427196,279,Appointment List-1,302,Found,Thread Group 1-139,text,true,,1576,146,61,61,https://app.niprojmidialysis.com/appointment/dialysis,270,0,0
+1701923427475,371,Appointment List-2,200,OK,Thread Group 1-139,text,true,,4560,126,61,61,https://app.niprojmidialysis.com,371,0,0
+1701923423599,4294,Appointment List,200,OK,Thread Group 1-145,text,true,,6671,419,60,60,https://app.niprojmidialysis.com,3731,0,3722
+1701923423599,3731,Appointment List-0,301,Moved Permanently,Thread Group 1-145,text,true,,535,147,60,60,https://app.niprojmidialysis.com/appointment/dialysis/,3731,0,3722
+1701923427330,244,Appointment List-1,302,Found,Thread Group 1-145,text,true,,1576,146,60,60,https://app.niprojmidialysis.com/appointment/dialysis,229,0,0
+1701923427574,319,Appointment List-2,200,OK,Thread Group 1-145,text,true,,4560,126,60,60,https://app.niprojmidialysis.com,295,0,0
+1701923423599,4306,Appointment List,200,OK,Thread Group 1-144,text,true,,6671,419,59,59,https://app.niprojmidialysis.com,3736,0,3723
+1701923423599,3736,Appointment List-0,301,Moved Permanently,Thread Group 1-144,text,true,,535,147,59,59,https://app.niprojmidialysis.com/appointment/dialysis/,3736,0,3723
+1701923427335,279,Appointment List-1,302,Found,Thread Group 1-144,text,true,,1576,146,59,59,https://app.niprojmidialysis.com/appointment/dialysis,269,0,0
+1701923427614,291,Appointment List-2,200,OK,Thread Group 1-144,text,true,,4560,126,59,59,https://app.niprojmidialysis.com,285,0,0
+1701923423585,4356,Appointment List,200,OK,Thread Group 1-142,text,true,,6671,419,58,58,https://app.niprojmidialysis.com,3698,0,3692
+1701923423585,3698,Appointment List-0,301,Moved Permanently,Thread Group 1-142,text,true,,535,147,58,58,https://app.niprojmidialysis.com/appointment/dialysis/,3698,0,3692
+1701923427283,333,Appointment List-1,302,Found,Thread Group 1-142,text,true,,1576,146,58,58,https://app.niprojmidialysis.com/appointment/dialysis,331,0,0
+1701923427617,324,Appointment List-2,200,OK,Thread Group 1-142,text,true,,4560,126,58,58,https://app.niprojmidialysis.com,293,0,0
+1701923423680,4265,Appointment List,200,OK,Thread Group 1-161,text,true,,6671,419,57,57,https://app.niprojmidialysis.com,3760,0,3753
+1701923423680,3760,Appointment List-0,301,Moved Permanently,Thread Group 1-161,text,true,,535,147,57,57,https://app.niprojmidialysis.com/appointment/dialysis/,3760,0,3753
+1701923427440,255,Appointment List-1,302,Found,Thread Group 1-161,text,true,,1576,146,57,57,https://app.niprojmidialysis.com/appointment/dialysis,249,0,0
+1701923427695,250,Appointment List-2,200,OK,Thread Group 1-161,text,true,,4560,126,57,57,https://app.niprojmidialysis.com,250,0,0
+1701923423679,4280,Appointment List,200,OK,Thread Group 1-160,text,true,,6671,419,56,56,https://app.niprojmidialysis.com,3713,0,3699
+1701923423679,3713,Appointment List-0,301,Moved Permanently,Thread Group 1-160,text,true,,535,147,56,56,https://app.niprojmidialysis.com/appointment/dialysis/,3713,0,3699
+1701923427392,259,Appointment List-1,302,Found,Thread Group 1-160,text,true,,1576,146,56,56,https://app.niprojmidialysis.com/appointment/dialysis,257,0,0
+1701923427651,308,Appointment List-2,200,OK,Thread Group 1-160,text,true,,4560,126,56,56,https://app.niprojmidialysis.com,306,0,0
+1701923423584,4379,Appointment List,200,OK,Thread Group 1-141,text,true,,6671,419,55,55,https://app.niprojmidialysis.com,3668,0,3650
+1701923423584,3668,Appointment List-0,301,Moved Permanently,Thread Group 1-141,text,true,,535,147,55,55,https://app.niprojmidialysis.com/appointment/dialysis/,3668,0,3650
+1701923427252,239,Appointment List-1,302,Found,Thread Group 1-141,text,true,,1576,146,55,55,https://app.niprojmidialysis.com/appointment/dialysis,233,0,0
+1701923427491,472,Appointment List-2,200,OK,Thread Group 1-141,text,true,,4560,126,55,55,https://app.niprojmidialysis.com,454,0,0
+1701923423619,4364,Appointment List,200,OK,Thread Group 1-148,text,true,,6671,419,54,54,https://app.niprojmidialysis.com,3744,0,3729
+1701923423619,3744,Appointment List-0,301,Moved Permanently,Thread Group 1-148,text,true,,535,147,54,54,https://app.niprojmidialysis.com/appointment/dialysis/,3744,0,3729
+1701923427363,304,Appointment List-1,302,Found,Thread Group 1-148,text,true,,1576,146,54,54,https://app.niprojmidialysis.com/appointment/dialysis,286,0,0
+1701923427667,316,Appointment List-2,200,OK,Thread Group 1-148,text,true,,4560,126,54,54,https://app.niprojmidialysis.com,307,0,0
+1701923423639,4373,Appointment List,200,OK,Thread Group 1-152,text,true,,6671,419,53,53,https://app.niprojmidialysis.com,3793,0,3785
+1701923423634,4378,Appointment List,200,OK,Thread Group 1-151,text,true,,6671,419,53,53,https://app.niprojmidialysis.com,3744,0,3729
+1701923423639,3793,Appointment List-0,301,Moved Permanently,Thread Group 1-152,text,true,,535,147,53,53,https://app.niprojmidialysis.com/appointment/dialysis/,3793,0,3785
+1701923423634,3744,Appointment List-0,301,Moved Permanently,Thread Group 1-151,text,true,,535,147,53,53,https://app.niprojmidialysis.com/appointment/dialysis/,3744,0,3729
+1701923427432,257,Appointment List-1,302,Found,Thread Group 1-152,text,true,,1576,146,53,53,https://app.niprojmidialysis.com/appointment/dialysis,245,0,0
+1701923427378,317,Appointment List-1,302,Found,Thread Group 1-151,text,true,,1576,146,53,53,https://app.niprojmidialysis.com/appointment/dialysis,311,0,0
+1701923427689,323,Appointment List-2,200,OK,Thread Group 1-152,text,true,,4560,126,53,53,https://app.niprojmidialysis.com,305,0,0
+1701923427695,317,Appointment List-2,200,OK,Thread Group 1-151,text,true,,4560,126,53,53,https://app.niprojmidialysis.com,304,0,0
+1701923423594,4451,Appointment List,200,OK,Thread Group 1-143,text,true,,6671,419,51,51,https://app.niprojmidialysis.com,3690,0,3683
+1701923423594,3690,Appointment List-0,301,Moved Permanently,Thread Group 1-143,text,true,,535,147,51,51,https://app.niprojmidialysis.com/appointment/dialysis/,3690,0,3683
+1701923427284,330,Appointment List-1,302,Found,Thread Group 1-143,text,true,,1576,146,51,51,https://app.niprojmidialysis.com/appointment/dialysis,318,0,0
+1701923427614,431,Appointment List-2,200,OK,Thread Group 1-143,text,true,,4560,126,51,51,https://app.niprojmidialysis.com,398,0,0
+1701923423624,4436,Appointment List,200,OK,Thread Group 1-150,text,true,,6671,419,50,50,https://app.niprojmidialysis.com,3791,0,3783
+1701923423624,3791,Appointment List-0,301,Moved Permanently,Thread Group 1-150,text,true,,535,147,50,50,https://app.niprojmidialysis.com/appointment/dialysis/,3791,0,3783
+1701923427415,275,Appointment List-1,302,Found,Thread Group 1-150,text,true,,1576,146,50,50,https://app.niprojmidialysis.com/appointment/dialysis,269,0,0
+1701923427690,370,Appointment List-2,200,OK,Thread Group 1-150,text,true,,4560,126,50,50,https://app.niprojmidialysis.com,362,0,0
+1701923423609,4459,Appointment List,200,OK,Thread Group 1-146,text,true,,6671,419,49,49,https://app.niprojmidialysis.com,3735,0,3726
+1701923423609,3735,Appointment List-0,301,Moved Permanently,Thread Group 1-146,text,true,,535,147,49,49,https://app.niprojmidialysis.com/appointment/dialysis/,3735,0,3726
+1701923427344,428,Appointment List-1,302,Found,Thread Group 1-146,text,true,,1576,146,49,49,https://app.niprojmidialysis.com/appointment/dialysis,425,0,0
+1701923427772,296,Appointment List-2,200,OK,Thread Group 1-146,text,true,,4560,126,49,49,https://app.niprojmidialysis.com,288,0,0
+1701923423654,4456,Appointment List,200,OK,Thread Group 1-155,text,true,,6671,419,48,48,https://app.niprojmidialysis.com,3861,0,3842
+1701923423649,4461,Appointment List,200,OK,Thread Group 1-154,text,true,,6671,419,48,48,https://app.niprojmidialysis.com,3800,0,3791
+1701923423655,4455,Appointment List,200,OK,Thread Group 1-156,text,true,,6671,419,48,48,https://app.niprojmidialysis.com,3820,0,3809
+1701923423649,3800,Appointment List-0,301,Moved Permanently,Thread Group 1-154,text,true,,535,147,48,48,https://app.niprojmidialysis.com/appointment/dialysis/,3800,0,3791
+1701923423655,3820,Appointment List-0,301,Moved Permanently,Thread Group 1-156,text,true,,535,147,48,48,https://app.niprojmidialysis.com/appointment/dialysis/,3820,0,3809
+1701923427475,313,Appointment List-1,302,Found,Thread Group 1-156,text,true,,1576,146,48,48,https://app.niprojmidialysis.com/appointment/dialysis,284,0,0
+1701923427450,365,Appointment List-1,302,Found,Thread Group 1-154,text,true,,1576,146,48,48,https://app.niprojmidialysis.com/appointment/dialysis,358,0,0
+1701923427788,322,Appointment List-2,200,OK,Thread Group 1-156,text,true,,4560,126,48,48,https://app.niprojmidialysis.com,321,0,0
+1701923427815,295,Appointment List-2,200,OK,Thread Group 1-154,text,true,,4560,126,48,48,https://app.niprojmidialysis.com,292,0,0
+1701923423654,3861,Appointment List-0,301,Moved Permanently,Thread Group 1-155,text,true,,535,147,48,48,https://app.niprojmidialysis.com/appointment/dialysis/,3861,0,3842
+1701923427515,293,Appointment List-1,302,Found,Thread Group 1-155,text,true,,1576,146,48,48,https://app.niprojmidialysis.com/appointment/dialysis,273,0,0
+1701923427808,302,Appointment List-2,200,OK,Thread Group 1-155,text,true,,4560,126,48,48,https://app.niprojmidialysis.com,299,0,0
+1701923423624,4517,Appointment List,200,OK,Thread Group 1-149,text,true,,6671,419,45,45,https://app.niprojmidialysis.com,3790,0,3784
+1701923423624,3790,Appointment List-0,301,Moved Permanently,Thread Group 1-149,text,true,,535,147,45,45,https://app.niprojmidialysis.com/appointment/dialysis/,3790,0,3784
+1701923427414,432,Appointment List-1,302,Found,Thread Group 1-149,text,true,,1576,146,45,45,https://app.niprojmidialysis.com/appointment/dialysis,432,0,0
+1701923427846,295,Appointment List-2,200,OK,Thread Group 1-149,text,true,,4560,126,45,45,https://app.niprojmidialysis.com,295,0,0
+1701923423642,4522,Appointment List,200,OK,Thread Group 1-153,text,true,,6671,419,44,44,https://app.niprojmidialysis.com,3798,0,3791
+1701923423642,3798,Appointment List-0,301,Moved Permanently,Thread Group 1-153,text,true,,535,147,44,44,https://app.niprojmidialysis.com/appointment/dialysis/,3798,0,3791
+1701923427440,409,Appointment List-1,302,Found,Thread Group 1-153,text,true,,1576,146,44,44,https://app.niprojmidialysis.com/appointment/dialysis,406,0,0
+1701923427849,315,Appointment List-2,200,OK,Thread Group 1-153,text,true,,4560,126,44,44,https://app.niprojmidialysis.com,300,0,0
+1701923423664,4510,Appointment List,200,OK,Thread Group 1-157,text,true,,6671,419,43,43,https://app.niprojmidialysis.com,3887,0,3881
+1701923423664,3887,Appointment List-0,301,Moved Permanently,Thread Group 1-157,text,true,,535,147,43,43,https://app.niprojmidialysis.com/appointment/dialysis/,3887,0,3881
+1701923427551,359,Appointment List-1,302,Found,Thread Group 1-157,text,true,,1576,146,43,43,https://app.niprojmidialysis.com/appointment/dialysis,354,0,0
+1701923427910,264,Appointment List-2,200,OK,Thread Group 1-157,text,true,,4560,126,43,43,https://app.niprojmidialysis.com,252,0,0
+1701923423610,4608,Appointment List,200,OK,Thread Group 1-147,text,true,,6671,419,42,42,https://app.niprojmidialysis.com,3729,0,3720
+1701923423610,3729,Appointment List-0,301,Moved Permanently,Thread Group 1-147,text,true,,535,147,42,42,https://app.niprojmidialysis.com/appointment/dialysis/,3729,0,3720
+1701923427339,466,Appointment List-1,302,Found,Thread Group 1-147,text,true,,1576,146,42,42,https://app.niprojmidialysis.com/appointment/dialysis,455,0,0
+1701923427806,412,Appointment List-2,200,OK,Thread Group 1-147,text,true,,4560,126,42,42,https://app.niprojmidialysis.com,410,0,0
+1701923423699,4566,Appointment List,200,OK,Thread Group 1-164,text,true,,6671,419,41,41,https://app.niprojmidialysis.com,4027,0,4019
+1701923423699,4027,Appointment List-0,301,Moved Permanently,Thread Group 1-164,text,true,,535,147,41,41,https://app.niprojmidialysis.com/appointment/dialysis/,4027,0,4019
+1701923427726,286,Appointment List-1,302,Found,Thread Group 1-164,text,true,,1576,146,41,41,https://app.niprojmidialysis.com/appointment/dialysis,274,0,0
+1701923428013,253,Appointment List-2,200,OK,Thread Group 1-164,text,true,,4560,126,41,41,https://app.niprojmidialysis.com,242,0,0
+1701923423684,4590,Appointment List,200,OK,Thread Group 1-162,text,true,,6671,419,40,40,https://app.niprojmidialysis.com,4015,0,4006
+1701923423684,4016,Appointment List-0,301,Moved Permanently,Thread Group 1-162,text,true,,535,147,40,40,https://app.niprojmidialysis.com/appointment/dialysis/,4015,0,4006
+1701923427700,283,Appointment List-1,302,Found,Thread Group 1-162,text,true,,1576,146,40,40,https://app.niprojmidialysis.com/appointment/dialysis,274,0,0
+1701923427984,291,Appointment List-2,200,OK,Thread Group 1-162,text,true,,4560,126,40,40,https://app.niprojmidialysis.com,282,0,0
+1701923423709,4785,Appointment List,200,OK,Thread Group 1-166,text,true,,6671,419,39,39,https://app.niprojmidialysis.com,4037,0,4031
+1701923423709,4037,Appointment List-0,301,Moved Permanently,Thread Group 1-166,text,true,,535,147,39,39,https://app.niprojmidialysis.com/appointment/dialysis/,4037,0,4031
+1701923427747,331,Appointment List-1,302,Found,Thread Group 1-166,text,true,,1576,146,39,39,https://app.niprojmidialysis.com/appointment/dialysis,319,0,0
+1701923428079,416,Appointment List-2,200,OK,Thread Group 1-166,text,true,,4560,126,39,39,https://app.niprojmidialysis.com,406,0,0
+1701923423691,4822,Appointment List,200,OK,Thread Group 1-163,text,true,,6671,419,38,38,https://app.niprojmidialysis.com,4026,0,4012
+1701923423691,4026,Appointment List-0,301,Moved Permanently,Thread Group 1-163,text,true,,535,147,38,38,https://app.niprojmidialysis.com/appointment/dialysis/,4026,0,4012
+1701923427718,334,Appointment List-1,302,Found,Thread Group 1-163,text,true,,1576,146,38,38,https://app.niprojmidialysis.com/appointment/dialysis,327,0,0
+1701923428053,461,Appointment List-2,200,OK,Thread Group 1-163,text,true,,4560,126,38,38,https://app.niprojmidialysis.com,450,0,0
+1701923423674,4896,Appointment List,200,OK,Thread Group 1-159,text,true,,6671,419,37,37,https://app.niprojmidialysis.com,3961,0,3955
+1701923423669,4901,Appointment List,200,OK,Thread Group 1-158,text,true,,6671,419,37,37,https://app.niprojmidialysis.com,3924,0,3915
+1701923423674,3961,Appointment List-0,301,Moved Permanently,Thread Group 1-159,text,true,,535,147,37,37,https://app.niprojmidialysis.com/appointment/dialysis/,3961,0,3955
+1701923423669,3924,Appointment List-0,301,Moved Permanently,Thread Group 1-158,text,true,,535,147,37,37,https://app.niprojmidialysis.com/appointment/dialysis/,3924,0,3915
+1701923427635,446,Appointment List-1,302,Found,Thread Group 1-159,text,true,,1576,146,37,37,https://app.niprojmidialysis.com/appointment/dialysis,443,0,0
+1701923427593,392,Appointment List-1,302,Found,Thread Group 1-158,text,true,,1576,146,37,37,https://app.niprojmidialysis.com/appointment/dialysis,390,0,0
+1701923428082,489,Appointment List-2,200,OK,Thread Group 1-159,text,true,,4560,126,37,37,https://app.niprojmidialysis.com,474,0,0
+1701923427986,585,Appointment List-2,200,OK,Thread Group 1-158,text,true,,4560,126,37,37,https://app.niprojmidialysis.com,560,0,0
+1701923423815,4827,Appointment List,200,OK,Thread Group 1-187,text,true,,6671,419,35,35,https://app.niprojmidialysis.com,4266,0,4231
+1701923423815,4266,Appointment List-0,301,Moved Permanently,Thread Group 1-187,text,true,,535,147,35,35,https://app.niprojmidialysis.com/appointment/dialysis/,4266,0,4231
+1701923428082,279,Appointment List-1,302,Found,Thread Group 1-187,text,true,,1576,146,35,35,https://app.niprojmidialysis.com/appointment/dialysis,278,0,0
+1701923428361,281,Appointment List-2,200,OK,Thread Group 1-187,text,true,,4560,126,35,35,https://app.niprojmidialysis.com,281,0,0
+1701923423704,4966,Appointment List,200,OK,Thread Group 1-165,text,true,,6671,419,34,34,https://app.niprojmidialysis.com,4101,0,4085
+1701923423704,4101,Appointment List-0,301,Moved Permanently,Thread Group 1-165,text,true,,535,147,34,34,https://app.niprojmidialysis.com/appointment/dialysis/,4101,0,4085
+1701923427806,301,Appointment List-1,302,Found,Thread Group 1-165,text,true,,1576,146,34,34,https://app.niprojmidialysis.com/appointment/dialysis,298,0,0
+1701923428108,563,Appointment List-2,200,OK,Thread Group 1-165,text,true,,4560,126,34,34,https://app.niprojmidialysis.com,551,0,0
+1701923423729,4954,Appointment List,200,OK,Thread Group 1-170,text,true,,6671,419,33,33,https://app.niprojmidialysis.com,4236,0,4229
+1701923423729,4236,Appointment List-0,301,Moved Permanently,Thread Group 1-170,text,true,,535,147,33,33,https://app.niprojmidialysis.com/appointment/dialysis/,4236,0,4229
+1701923427966,428,Appointment List-1,302,Found,Thread Group 1-170,text,true,,1576,146,33,33,https://app.niprojmidialysis.com/appointment/dialysis,407,0,0
+1701923428394,289,Appointment List-2,200,OK,Thread Group 1-170,text,true,,4560,126,33,33,https://app.niprojmidialysis.com,289,0,0
+1701923423724,4971,Appointment List,200,OK,Thread Group 1-169,text,true,,6671,419,32,32,https://app.niprojmidialysis.com,4233,0,4217
+1701923423724,4233,Appointment List-0,301,Moved Permanently,Thread Group 1-169,text,true,,535,147,32,32,https://app.niprojmidialysis.com/appointment/dialysis/,4233,0,4217
+1701923427958,436,Appointment List-1,302,Found,Thread Group 1-169,text,true,,1576,146,32,32,https://app.niprojmidialysis.com/appointment/dialysis,415,0,0
+1701923428394,301,Appointment List-2,200,OK,Thread Group 1-169,text,true,,4560,126,32,32,https://app.niprojmidialysis.com,293,0,0
+1701923423739,4982,Appointment List,200,OK,Thread Group 1-172,text,true,,6671,419,31,31,https://app.niprojmidialysis.com,4246,0,4237
+1701923423739,4246,Appointment List-0,301,Moved Permanently,Thread Group 1-172,text,true,,535,147,31,31,https://app.niprojmidialysis.com/appointment/dialysis/,4246,0,4237
+1701923427986,429,Appointment List-1,302,Found,Thread Group 1-172,text,true,,1576,146,31,31,https://app.niprojmidialysis.com/appointment/dialysis,409,0,0
+1701923428415,306,Appointment List-2,200,OK,Thread Group 1-172,text,true,,4560,126,31,31,https://app.niprojmidialysis.com,303,0,0
+1701923423719,5019,Appointment List,200,OK,Thread Group 1-168,text,true,,6671,419,30,30,https://app.niprojmidialysis.com,4146,0,4138
+1701923423719,4146,Appointment List-0,301,Moved Permanently,Thread Group 1-168,text,true,,535,147,30,30,https://app.niprojmidialysis.com/appointment/dialysis/,4146,0,4138
+1701923427865,321,Appointment List-1,302,Found,Thread Group 1-168,text,true,,1576,146,30,30,https://app.niprojmidialysis.com/appointment/dialysis,315,0,0
+1701923428187,552,Appointment List-2,200,OK,Thread Group 1-168,text,true,,4560,126,30,30,https://app.niprojmidialysis.com,552,0,0
+1701923423764,5000,Appointment List,200,OK,Thread Group 1-177,text,true,,6671,419,29,29,https://app.niprojmidialysis.com,4343,0,4297
+1701923423764,4343,Appointment List-0,301,Moved Permanently,Thread Group 1-177,text,true,,535,147,29,29,https://app.niprojmidialysis.com/appointment/dialysis/,4343,0,4297
+1701923428108,307,Appointment List-1,302,Found,Thread Group 1-177,text,true,,1576,146,29,29,https://app.niprojmidialysis.com/appointment/dialysis,286,0,0
+1701923428415,349,Appointment List-2,200,OK,Thread Group 1-177,text,true,,4560,126,29,29,https://app.niprojmidialysis.com,337,0,0
+1701923423774,4991,Appointment List,200,OK,Thread Group 1-179,text,true,,6671,419,28,28,https://app.niprojmidialysis.com,4336,0,4304
+1701923423774,4336,Appointment List-0,301,Moved Permanently,Thread Group 1-179,text,true,,535,147,28,28,https://app.niprojmidialysis.com/appointment/dialysis/,4336,0,4304
+1701923428111,262,Appointment List-1,302,Found,Thread Group 1-179,text,true,,1576,146,28,28,https://app.niprojmidialysis.com/appointment/dialysis,250,0,0
+1701923428373,392,Appointment List-2,200,OK,Thread Group 1-179,text,true,,4560,126,28,28,https://app.niprojmidialysis.com,392,0,0
+1701923423739,5054,Appointment List,200,OK,Thread Group 1-173,text,true,,6671,419,27,27,https://app.niprojmidialysis.com,4273,0,4261
+1701923423739,4273,Appointment List-0,301,Moved Permanently,Thread Group 1-173,text,true,,535,147,27,27,https://app.niprojmidialysis.com/appointment/dialysis/,4273,0,4261
+1701923428013,348,Appointment List-1,302,Found,Thread Group 1-173,text,true,,1576,146,27,27,https://app.niprojmidialysis.com/appointment/dialysis,348,0,0
+1701923428361,432,Appointment List-2,200,OK,Thread Group 1-173,text,true,,4560,126,27,27,https://app.niprojmidialysis.com,421,0,0
+1701923423714,5127,Appointment List,200,OK,Thread Group 1-167,text,true,,6671,419,26,26,https://app.niprojmidialysis.com,4227,0,4192
+1701923423714,4227,Appointment List-0,301,Moved Permanently,Thread Group 1-167,text,true,,535,147,26,26,https://app.niprojmidialysis.com/appointment/dialysis/,4227,0,4192
+1701923427942,417,Appointment List-1,302,Found,Thread Group 1-167,text,true,,1576,146,26,26,https://app.niprojmidialysis.com/appointment/dialysis,371,0,0
+1701923428360,481,Appointment List-2,200,OK,Thread Group 1-167,text,true,,4560,126,26,26,https://app.niprojmidialysis.com,481,0,0
+1701923423730,5111,Appointment List,200,OK,Thread Group 1-171,text,true,,6671,419,26,26,https://app.niprojmidialysis.com,4244,0,4229
+1701923423730,4244,Appointment List-0,301,Moved Permanently,Thread Group 1-171,text,true,,535,147,26,26,https://app.niprojmidialysis.com/appointment/dialysis/,4244,0,4229
+1701923427975,419,Appointment List-1,302,Found,Thread Group 1-171,text,true,,1576,146,26,26,https://app.niprojmidialysis.com/appointment/dialysis,419,0,0
+1701923428394,447,Appointment List-2,200,OK,Thread Group 1-171,text,true,,4560,126,26,26,https://app.niprojmidialysis.com,447,0,0
+1701923423769,5135,Appointment List,200,OK,Thread Group 1-178,text,true,,6671,419,24,24,https://app.niprojmidialysis.com,4334,0,4298
+1701923423769,4334,Appointment List-0,301,Moved Permanently,Thread Group 1-178,text,true,,535,147,24,24,https://app.niprojmidialysis.com/appointment/dialysis/,4334,0,4298
+1701923428104,406,Appointment List-1,302,Found,Thread Group 1-178,text,true,,1576,146,24,24,https://app.niprojmidialysis.com/appointment/dialysis,372,0,0
+1701923428510,394,Appointment List-2,200,OK,Thread Group 1-178,text,true,,4560,126,24,24,https://app.niprojmidialysis.com,381,0,0
+1701923423839,5068,Appointment List,200,OK,Thread Group 1-192,text,true,,6671,419,23,23,https://app.niprojmidialysis.com,4319,0,4302
+1701923423839,4319,Appointment List-0,301,Moved Permanently,Thread Group 1-192,text,true,,535,147,23,23,https://app.niprojmidialysis.com/appointment/dialysis/,4319,0,4302
+1701923428159,336,Appointment List-1,302,Found,Thread Group 1-192,text,true,,1576,146,23,23,https://app.niprojmidialysis.com/appointment/dialysis,312,0,0
+1701923428495,412,Appointment List-2,200,OK,Thread Group 1-192,text,true,,4560,126,23,23,https://app.niprojmidialysis.com,401,0,0
+1701923423798,5115,Appointment List,200,OK,Thread Group 1-184,text,true,,6671,419,22,22,https://app.niprojmidialysis.com,4320,0,4306
+1701923423798,4320,Appointment List-0,301,Moved Permanently,Thread Group 1-184,text,true,,535,147,22,22,https://app.niprojmidialysis.com/appointment/dialysis/,4320,0,4306
+1701923428119,525,Appointment List-1,302,Found,Thread Group 1-184,text,true,,1576,146,22,22,https://app.niprojmidialysis.com/appointment/dialysis,491,0,0
+1701923428644,269,Appointment List-2,200,OK,Thread Group 1-184,text,true,,4560,126,22,22,https://app.niprojmidialysis.com,262,0,0
+1701923423849,5078,Appointment List,200,OK,Thread Group 1-195,text,true,,6671,419,21,21,https://app.niprojmidialysis.com,4317,0,4310
+1701923423849,4317,Appointment List-0,301,Moved Permanently,Thread Group 1-195,text,true,,535,147,21,21,https://app.niprojmidialysis.com/appointment/dialysis/,4317,0,4310
+1701923428167,475,Appointment List-1,302,Found,Thread Group 1-195,text,true,,1576,146,21,21,https://app.niprojmidialysis.com/appointment/dialysis,475,0,0
+1701923428643,284,Appointment List-2,200,OK,Thread Group 1-195,text,true,,4560,126,21,21,https://app.niprojmidialysis.com,278,0,0
+1701923423749,5182,Appointment List,200,OK,Thread Group 1-175,text,true,,6671,419,20,20,https://app.niprojmidialysis.com,4348,0,4292
+1701923423749,4348,Appointment List-0,301,Moved Permanently,Thread Group 1-175,text,true,,535,147,20,20,https://app.niprojmidialysis.com/appointment/dialysis/,4348,0,4292
+1701923428098,491,Appointment List-1,302,Found,Thread Group 1-175,text,true,,1576,146,20,20,https://app.niprojmidialysis.com/appointment/dialysis,487,0,0
+1701923428590,341,Appointment List-2,200,OK,Thread Group 1-175,text,true,,4560,126,20,20,https://app.niprojmidialysis.com,337,0,0
+1701923423809,5137,Appointment List,200,OK,Thread Group 1-186,text,true,,6671,419,19,19,https://app.niprojmidialysis.com,4269,0,4237
+1701923423809,4269,Appointment List-0,301,Moved Permanently,Thread Group 1-186,text,true,,535,147,19,19,https://app.niprojmidialysis.com/appointment/dialysis/,4269,0,4237
+1701923428079,510,Appointment List-1,302,Found,Thread Group 1-186,text,true,,1576,146,19,19,https://app.niprojmidialysis.com/appointment/dialysis,506,0,0
+1701923428590,356,Appointment List-2,200,OK,Thread Group 1-186,text,true,,4560,126,19,19,https://app.niprojmidialysis.com,356,0,0
+1701923423879,5085,Appointment List,200,OK,Thread Group 1-200,text,true,,6671,419,18,18,https://app.niprojmidialysis.com,4222,0,4181
+1701923423879,4222,Appointment List-0,301,Moved Permanently,Thread Group 1-200,text,true,,535,147,18,18,https://app.niprojmidialysis.com/appointment/dialysis/,4222,0,4181
+1701923428102,494,Appointment List-1,302,Found,Thread Group 1-200,text,true,,1576,146,18,18,https://app.niprojmidialysis.com/appointment/dialysis,487,0,0
+1701923428597,367,Appointment List-2,200,OK,Thread Group 1-200,text,true,,4560,126,18,18,https://app.niprojmidialysis.com,362,0,0
+1701923423859,5108,Appointment List,200,OK,Thread Group 1-196,text,true,,6671,419,17,17,https://app.niprojmidialysis.com,4322,0,4315
+1701923423749,5218,Appointment List,200,OK,Thread Group 1-174,text,true,,6671,419,17,17,https://app.niprojmidialysis.com,4332,0,4297
+1701923423749,4332,Appointment List-0,301,Moved Permanently,Thread Group 1-174,text,true,,535,147,17,17,https://app.niprojmidialysis.com/appointment/dialysis/,4332,0,4297
+1701923428082,562,Appointment List-1,302,Found,Thread Group 1-174,text,true,,1576,146,17,17,https://app.niprojmidialysis.com/appointment/dialysis,533,0,0
+1701923428644,323,Appointment List-2,200,OK,Thread Group 1-174,text,true,,4560,126,17,17,https://app.niprojmidialysis.com,315,0,0
+1701923423859,4322,Appointment List-0,301,Moved Permanently,Thread Group 1-196,text,true,,535,147,17,17,https://app.niprojmidialysis.com/appointment/dialysis/,4322,0,4315
+1701923428182,413,Appointment List-1,302,Found,Thread Group 1-196,text,true,,1576,146,17,17,https://app.niprojmidialysis.com/appointment/dialysis,403,0,0
+1701923428595,372,Appointment List-2,200,OK,Thread Group 1-196,text,true,,4560,126,17,17,https://app.niprojmidialysis.com,364,0,0
+1701923423824,5185,Appointment List,200,OK,Thread Group 1-189,text,true,,6671,419,15,15,https://app.niprojmidialysis.com,4295,0,4284
+1701923423824,4295,Appointment List-0,301,Moved Permanently,Thread Group 1-189,text,true,,535,147,15,15,https://app.niprojmidialysis.com/appointment/dialysis/,4295,0,4284
+1701923428120,524,Appointment List-1,302,Found,Thread Group 1-189,text,true,,1576,146,15,15,https://app.niprojmidialysis.com/appointment/dialysis,499,0,0
+1701923428645,364,Appointment List-2,200,OK,Thread Group 1-189,text,true,,4560,126,15,15,https://app.niprojmidialysis.com,357,0,0
+1701923423828,5181,Appointment List,200,OK,Thread Group 1-190,text,true,,6671,419,15,15,https://app.niprojmidialysis.com,4313,0,4279
+1701923423828,4313,Appointment List-0,301,Moved Permanently,Thread Group 1-190,text,true,,535,147,15,15,https://app.niprojmidialysis.com/appointment/dialysis/,4313,0,4279
+1701923428142,517,Appointment List-1,302,Found,Thread Group 1-190,text,true,,1576,146,15,15,https://app.niprojmidialysis.com/appointment/dialysis,511,0,0
+1701923428659,350,Appointment List-2,200,OK,Thread Group 1-190,text,true,,4560,126,15,15,https://app.niprojmidialysis.com,341,0,0
+1701923423841,5175,Appointment List,200,OK,Thread Group 1-193,text,true,,6671,419,13,13,https://app.niprojmidialysis.com,4317,0,4300
+1701923423841,4317,Appointment List-0,301,Moved Permanently,Thread Group 1-193,text,true,,535,147,13,13,https://app.niprojmidialysis.com/appointment/dialysis/,4317,0,4300
+1701923428159,580,Appointment List-1,302,Found,Thread Group 1-193,text,true,,1576,146,13,13,https://app.niprojmidialysis.com/appointment/dialysis,562,0,0
+1701923428739,277,Appointment List-2,200,OK,Thread Group 1-193,text,true,,4560,126,13,13,https://app.niprojmidialysis.com,273,0,0
+1701923423784,5232,Appointment List,200,OK,Thread Group 1-181,text,true,,6671,419,13,13,https://app.niprojmidialysis.com,4335,0,4295
+1701923423784,4335,Appointment List-0,301,Moved Permanently,Thread Group 1-181,text,true,,535,147,13,13,https://app.niprojmidialysis.com/appointment/dialysis/,4335,0,4295
+1701923428120,575,Appointment List-1,302,Found,Thread Group 1-181,text,true,,1576,146,13,13,https://app.niprojmidialysis.com/appointment/dialysis,575,0,0
+1701923428695,321,Appointment List-2,200,OK,Thread Group 1-181,text,true,,4560,126,13,13,https://app.niprojmidialysis.com,321,0,0
+1701923423864,5161,Appointment List,200,OK,Thread Group 1-197,text,true,,6671,419,11,11,https://app.niprojmidialysis.com,4330,0,4322
+1701923423799,5226,Appointment List,200,OK,Thread Group 1-185,text,true,,6671,419,11,11,https://app.niprojmidialysis.com,4319,0,4305
+1701923423799,4319,Appointment List-0,301,Moved Permanently,Thread Group 1-185,text,true,,535,147,11,11,https://app.niprojmidialysis.com/appointment/dialysis/,4319,0,4305
+1701923423864,4330,Appointment List-0,301,Moved Permanently,Thread Group 1-197,text,true,,535,147,11,11,https://app.niprojmidialysis.com/appointment/dialysis/,4330,0,4322
+1701923428119,620,Appointment List-1,302,Found,Thread Group 1-185,text,true,,1576,146,11,11,https://app.niprojmidialysis.com/appointment/dialysis,603,0,0
+1701923428739,286,Appointment List-2,200,OK,Thread Group 1-185,text,true,,4560,126,11,11,https://app.niprojmidialysis.com,281,0,0
+1701923428195,523,Appointment List-1,302,Found,Thread Group 1-197,text,true,,1576,146,11,11,https://app.niprojmidialysis.com/appointment/dialysis,515,0,0
+1701923428718,307,Appointment List-2,200,OK,Thread Group 1-197,text,true,,4560,126,11,11,https://app.niprojmidialysis.com,300,0,0
+1701923423849,5178,Appointment List,200,OK,Thread Group 1-194,text,true,,6671,419,9,9,https://app.niprojmidialysis.com,4309,0,4292
+1701923423849,4309,Appointment List-0,301,Moved Permanently,Thread Group 1-194,text,true,,535,147,9,9,https://app.niprojmidialysis.com/appointment/dialysis/,4309,0,4292
+1701923428159,559,Appointment List-1,302,Found,Thread Group 1-194,text,true,,1576,146,9,9,https://app.niprojmidialysis.com/appointment/dialysis,551,0,0
+1701923428718,309,Appointment List-2,200,OK,Thread Group 1-194,text,true,,4560,126,9,9,https://app.niprojmidialysis.com,303,0,0
+1701923423875,5156,Appointment List,200,OK,Thread Group 1-199,text,true,,6671,419,8,8,https://app.niprojmidialysis.com,4221,0,4177
+1701923423875,4221,Appointment List-0,301,Moved Permanently,Thread Group 1-199,text,true,,535,147,8,8,https://app.niprojmidialysis.com/appointment/dialysis/,4221,0,4177
+1701923428098,597,Appointment List-1,302,Found,Thread Group 1-199,text,true,,1576,146,8,8,https://app.niprojmidialysis.com/appointment/dialysis,585,0,0
+1701923428695,336,Appointment List-2,200,OK,Thread Group 1-199,text,true,,4560,126,8,8,https://app.niprojmidialysis.com,329,0,0
+1701923423789,5247,Appointment List,200,OK,Thread Group 1-182,text,true,,6671,419,7,7,https://app.niprojmidialysis.com,4323,0,4309
+1701923423789,4323,Appointment List-0,301,Moved Permanently,Thread Group 1-182,text,true,,535,147,7,7,https://app.niprojmidialysis.com/appointment/dialysis/,4323,0,4309
+1701923428113,605,Appointment List-1,302,Found,Thread Group 1-182,text,true,,1576,146,7,7,https://app.niprojmidialysis.com/appointment/dialysis,582,0,0
+1701923428718,318,Appointment List-2,200,OK,Thread Group 1-182,text,true,,4560,126,7,7,https://app.niprojmidialysis.com,318,0,0
+1701923423834,5214,Appointment List,200,OK,Thread Group 1-191,text,true,,6671,419,6,6,https://app.niprojmidialysis.com,4307,0,4277
+1701923423834,4307,Appointment List-0,301,Moved Permanently,Thread Group 1-191,text,true,,535,147,6,6,https://app.niprojmidialysis.com/appointment/dialysis/,4307,0,4277
+1701923428142,622,Appointment List-1,302,Found,Thread Group 1-191,text,true,,1576,146,6,6,https://app.niprojmidialysis.com/appointment/dialysis,622,0,0
+1701923428764,284,Appointment List-2,200,OK,Thread Group 1-191,text,true,,4560,126,6,6,https://app.niprojmidialysis.com,277,0,0
+1701923423865,5194,Appointment List,200,OK,Thread Group 1-198,text,true,,6671,419,5,5,https://app.niprojmidialysis.com,4368,0,4361
+1701923423865,4368,Appointment List-0,301,Moved Permanently,Thread Group 1-198,text,true,,535,147,5,5,https://app.niprojmidialysis.com/appointment/dialysis/,4368,0,4361
+1701923428234,541,Appointment List-1,302,Found,Thread Group 1-198,text,true,,1576,146,5,5,https://app.niprojmidialysis.com/appointment/dialysis,534,0,0
+1701923428776,283,Appointment List-2,200,OK,Thread Group 1-198,text,true,,4560,126,5,5,https://app.niprojmidialysis.com,283,0,0
+1701923423793,5266,Appointment List,200,OK,Thread Group 1-183,text,true,,6671,419,5,5,https://app.niprojmidialysis.com,4319,0,4305
+1701923423793,4319,Appointment List-0,301,Moved Permanently,Thread Group 1-183,text,true,,535,147,5,5,https://app.niprojmidialysis.com/appointment/dialysis/,4319,0,4305
+1701923428113,510,Appointment List-1,302,Found,Thread Group 1-183,text,true,,1576,146,5,5,https://app.niprojmidialysis.com/appointment/dialysis,502,0,0
+1701923428623,436,Appointment List-2,200,OK,Thread Group 1-183,text,true,,4560,126,5,5,https://app.niprojmidialysis.com,425,0,0
+1701923423820,5241,Appointment List,200,OK,Thread Group 1-188,text,true,,6671,419,3,3,https://app.niprojmidialysis.com,4290,0,4258
+1701923423820,4290,Appointment List-0,301,Moved Permanently,Thread Group 1-188,text,true,,535,147,3,3,https://app.niprojmidialysis.com/appointment/dialysis/,4290,0,4258
+1701923428111,628,Appointment List-1,302,Found,Thread Group 1-188,text,true,,1576,146,3,3,https://app.niprojmidialysis.com/appointment/dialysis,599,0,0
+1701923428739,322,Appointment List-2,200,OK,Thread Group 1-188,text,true,,4560,126,3,3,https://app.niprojmidialysis.com,322,0,0
+1701923423759,5363,Appointment List,200,OK,Thread Group 1-176,text,true,,6671,419,2,2,https://app.niprojmidialysis.com,4309,0,4284
+1701923423759,4309,Appointment List-0,301,Moved Permanently,Thread Group 1-176,text,true,,535,147,2,2,https://app.niprojmidialysis.com/appointment/dialysis/,4309,0,4284
+1701923428069,325,Appointment List-1,302,Found,Thread Group 1-176,text,true,,1576,146,2,2,https://app.niprojmidialysis.com/appointment/dialysis,299,0,0
+1701923428394,728,Appointment List-2,200,OK,Thread Group 1-176,text,true,,4560,126,2,2,https://app.niprojmidialysis.com,723,0,0
+1701923423779,5418,Appointment List,200,OK,Thread Group 1-180,text,true,,6671,419,1,1,https://app.niprojmidialysis.com,4331,0,4299
+1701923423779,4331,Appointment List-0,301,Moved Permanently,Thread Group 1-180,text,true,,535,147,1,1,https://app.niprojmidialysis.com/appointment/dialysis/,4331,0,4299
+1701923428111,587,Appointment List-1,302,Found,Thread Group 1-180,text,true,,1576,146,1,1,https://app.niprojmidialysis.com/appointment/dialysis,566,0,0
+1701923428698,499,Appointment List-2,200,OK,Thread Group 1-180,text,true,,4560,126,1,1,https://app.niprojmidialysis.com,495,0,0
