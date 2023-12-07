@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701915070622,629,HTTP Request,200,OK,Thread Group 1-10,text,true,,6671,419,138,138,https://app.niprojmidialysis.com,317,0,300
+1701915070890,361,HTTP Request,200,OK,Thread Group 1-66,text,true,,6671,419,138,138,https://app.niprojmidialysis.com,50,0,35
+1701915070622,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,535,147,138,138,https://app.niprojmidialysis.com/appointment/dialysis/,317,0,300
+1701915070890,53,HTTP Request-0,301,Moved Permanently,Thread Group 1-66,text,true,,535,147,138,138,https://app.niprojmidialysis.com/appointment/dialysis/,50,0,35
+1701915070944,144,HTTP Request-1,302,Found,Thread Group 1-10,text,true,,1576,146,138,138,https://app.niprojmidialysis.com/appointment/dialysis,142,0,0
+1701915070944,156,HTTP Request-1,302,Found,Thread Group 1-66,text,true,,1576,146,138,138,https://app.niprojmidialysis.com/appointment/dialysis,152,0,0
+1701915071088,163,HTTP Request-2,200,OK,Thread Group 1-10,text,true,,4560,126,138,138,https://app.niprojmidialysis.com,150,0,0
+1701915071100,151,HTTP Request-2,200,OK,Thread Group 1-66,text,true,,4560,126,138,138,https://app.niprojmidialysis.com,138,0,0
+1701915070622,630,HTTP Request,200,OK,Thread Group 1-6,text,true,,6671,419,139,139,https://app.niprojmidialysis.com,317,0,300
+1701915070622,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,535,147,139,139,https://app.niprojmidialysis.com/appointment/dialysis/,317,0,300
+1701915070944,165,HTTP Request-1,302,Found,Thread Group 1-6,text,true,,1576,146,139,139,https://app.niprojmidialysis.com/appointment/dialysis,156,0,0
+1701915071109,143,HTTP Request-2,200,OK,Thread Group 1-6,text,true,,4560,126,139,139,https://app.niprojmidialysis.com,143,0,0
+1701915070803,465,HTTP Request,200,OK,Thread Group 1-49,text,true,,6671,419,139,139,https://app.niprojmidialysis.com,137,0,122
+1701915070803,140,HTTP Request-0,301,Moved Permanently,Thread Group 1-49,text,true,,535,147,139,139,https://app.niprojmidialysis.com/appointment/dialysis/,137,0,122
+1701915070944,167,HTTP Request-1,302,Found,Thread Group 1-49,text,true,,1576,146,139,139,https://app.niprojmidialysis.com/appointment/dialysis,165,0,0
+1701915071111,157,HTTP Request-2,200,OK,Thread Group 1-49,text,true,,4560,126,139,139,https://app.niprojmidialysis.com,144,0,0
+1701915070622,662,HTTP Request,200,OK,Thread Group 1-5,text,true,,6671,419,140,140,https://app.niprojmidialysis.com,317,0,299
+1701915070622,320,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,535,147,140,140,https://app.niprojmidialysis.com/appointment/dialysis/,317,0,299
+1701915070944,180,HTTP Request-1,302,Found,Thread Group 1-5,text,true,,1576,146,140,140,https://app.niprojmidialysis.com/appointment/dialysis,175,0,0
+1701915071124,160,HTTP Request-2,200,OK,Thread Group 1-5,text,true,,4560,126,140,140,https://app.niprojmidialysis.com,157,0,0
+1701915070834,740,HTTP Request,200,OK,Thread Group 1-55,text,true,,6671,419,195,195,https://app.niprojmidialysis.com,450,0,445
+1701915070834,450,HTTP Request-0,301,Moved Permanently,Thread Group 1-55,text,true,,535,147,195,195,https://app.niprojmidialysis.com/appointment/dialysis/,450,0,445
+1701915070622,953,HTTP Request,200,OK,Thread Group 1-3,text,true,,6671,419,195,195,https://app.niprojmidialysis.com,658,0,648
+1701915071284,140,HTTP Request-1,302,Found,Thread Group 1-55,text,true,,1576,146,195,195,https://app.niprojmidialysis.com/appointment/dialysis,137,0,0
+1701915070622,658,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,535,147,195,195,https://app.niprojmidialysis.com/appointment/dialysis/,658,0,648
+1701915071424,150,HTTP Request-2,200,OK,Thread Group 1-55,text,true,,4560,126,195,195,https://app.niprojmidialysis.com,150,0,0
+1701915071281,143,HTTP Request-1,302,Found,Thread Group 1-3,text,true,,1576,146,195,195,https://app.niprojmidialysis.com/appointment/dialysis,140,0,0
+1701915071424,151,HTTP Request-2,200,OK,Thread Group 1-3,text,true,,4560,126,195,195,https://app.niprojmidialysis.com,150,0,0
+1701915070724,880,HTTP Request,200,OK,Thread Group 1-33,text,true,,6671,419,193,193,https://app.niprojmidialysis.com,557,0,547
+1701915070724,557,HTTP Request-0,301,Moved Permanently,Thread Group 1-33,text,true,,535,147,193,193,https://app.niprojmidialysis.com/appointment/dialysis/,557,0,547
+1701915071281,185,HTTP Request-1,302,Found,Thread Group 1-33,text,true,,1576,146,193,193,https://app.niprojmidialysis.com/appointment/dialysis,179,0,0
+1701915071466,138,HTTP Request-2,200,OK,Thread Group 1-33,text,true,,4560,126,193,193,https://app.niprojmidialysis.com,137,0,0
+1701915070734,878,HTTP Request,200,OK,Thread Group 1-35,text,true,,6671,419,192,192,https://app.niprojmidialysis.com,569,0,558
+1701915070734,569,HTTP Request-0,301,Moved Permanently,Thread Group 1-35,text,true,,535,147,192,192,https://app.niprojmidialysis.com/appointment/dialysis/,569,0,558
+1701915071304,163,HTTP Request-1,302,Found,Thread Group 1-35,text,true,,1576,146,192,192,https://app.niprojmidialysis.com/appointment/dialysis,162,0,0
+1701915071467,145,HTTP Request-2,200,OK,Thread Group 1-35,text,true,,4560,126,192,192,https://app.niprojmidialysis.com,139,0,0
+1701915070808,1077,HTTP Request,200,OK,Thread Group 1-50,text,true,,6671,419,191,191,https://app.niprojmidialysis.com,791,0,784
+1701915070808,791,HTTP Request-0,301,Moved Permanently,Thread Group 1-50,text,true,,535,147,191,191,https://app.niprojmidialysis.com/appointment/dialysis/,791,0,784
+1701915071599,144,HTTP Request-1,302,Found,Thread Group 1-50,text,true,,1576,146,191,191,https://app.niprojmidialysis.com/appointment/dialysis,140,0,0
+1701915070622,1263,HTTP Request,200,OK,Thread Group 1-9,text,true,,6671,419,191,191,https://app.niprojmidialysis.com,976,0,969
+1701915071743,142,HTTP Request-2,200,OK,Thread Group 1-50,text,true,,4560,126,191,191,https://app.niprojmidialysis.com,139,0,0
+1701915070622,976,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,535,147,191,191,https://app.niprojmidialysis.com/appointment/dialysis/,976,0,969
+1701915071599,144,HTTP Request-1,302,Found,Thread Group 1-9,text,true,,1576,146,191,191,https://app.niprojmidialysis.com/appointment/dialysis,144,0,0
+1701915071743,142,HTTP Request-2,200,OK,Thread Group 1-9,text,true,,4560,126,191,191,https://app.niprojmidialysis.com,139,0,0
+1701915070730,1184,HTTP Request,200,OK,Thread Group 1-34,text,true,,6671,419,189,189,https://app.niprojmidialysis.com,893,0,884
+1701915070730,893,HTTP Request-0,301,Moved Permanently,Thread Group 1-34,text,true,,535,147,189,189,https://app.niprojmidialysis.com/appointment/dialysis/,893,0,884
+1701915071623,141,HTTP Request-1,302,Found,Thread Group 1-34,text,true,,1576,146,189,189,https://app.niprojmidialysis.com/appointment/dialysis,140,0,0
+1701915071764,150,HTTP Request-2,200,OK,Thread Group 1-34,text,true,,4560,126,189,189,https://app.niprojmidialysis.com,140,0,0
+1701915070679,1318,HTTP Request,200,OK,Thread Group 1-24,text,true,,6671,419,188,188,https://app.niprojmidialysis.com,952,0,945
+1701915070679,952,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,535,147,188,188,https://app.niprojmidialysis.com/appointment/dialysis/,952,0,945
+1701915071631,178,HTTP Request-1,302,Found,Thread Group 1-24,text,true,,1576,146,188,188,https://app.niprojmidialysis.com/appointment/dialysis,171,0,0
+1701915071809,188,HTTP Request-2,200,OK,Thread Group 1-24,text,true,,4560,126,188,188,https://app.niprojmidialysis.com,182,0,0
+1701915070744,1445,HTTP Request,200,OK,Thread Group 1-37,text,true,,6671,419,187,187,https://app.niprojmidialysis.com,1120,0,1106
+1701915070744,1120,HTTP Request-0,301,Moved Permanently,Thread Group 1-37,text,true,,535,147,187,187,https://app.niprojmidialysis.com/appointment/dialysis/,1120,0,1106
+1701915071864,165,HTTP Request-1,302,Found,Thread Group 1-37,text,true,,1576,146,187,187,https://app.niprojmidialysis.com/appointment/dialysis,157,0,0
+1701915072029,160,HTTP Request-2,200,OK,Thread Group 1-37,text,true,,4560,126,187,187,https://app.niprojmidialysis.com,154,0,0
+1701915070747,1446,HTTP Request,200,OK,Thread Group 1-38,text,true,,6671,419,186,186,https://app.niprojmidialysis.com,1167,0,1153
+1701915070747,1167,HTTP Request-0,301,Moved Permanently,Thread Group 1-38,text,true,,535,147,186,186,https://app.niprojmidialysis.com/appointment/dialysis/,1167,0,1153
+1701915071914,141,HTTP Request-1,302,Found,Thread Group 1-38,text,true,,1576,146,186,186,https://app.niprojmidialysis.com/appointment/dialysis,137,0,0
+1701915072055,138,HTTP Request-2,200,OK,Thread Group 1-38,text,true,,4560,126,186,186,https://app.niprojmidialysis.com,134,0,0
+1701915070710,1483,HTTP Request,200,OK,Thread Group 1-31,text,true,,6671,419,186,186,https://app.niprojmidialysis.com,1154,0,1140
+1701915070710,1154,HTTP Request-0,301,Moved Permanently,Thread Group 1-31,text,true,,535,147,186,186,https://app.niprojmidialysis.com/appointment/dialysis/,1154,0,1140
+1701915071864,187,HTTP Request-1,302,Found,Thread Group 1-31,text,true,,1576,146,186,186,https://app.niprojmidialysis.com/appointment/dialysis,178,0,0
+1701915072051,142,HTTP Request-2,200,OK,Thread Group 1-31,text,true,,4560,126,186,186,https://app.niprojmidialysis.com,140,0,0
+1701915070684,1546,HTTP Request,200,OK,Thread Group 1-25,text,true,,6671,419,184,184,https://app.niprojmidialysis.com,1251,0,1245
+1701915070684,1251,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,535,147,184,184,https://app.niprojmidialysis.com/appointment/dialysis/,1251,0,1245
+1701915071936,145,HTTP Request-1,302,Found,Thread Group 1-25,text,true,,1576,146,184,184,https://app.niprojmidialysis.com/appointment/dialysis,144,0,0
+1701915072081,149,HTTP Request-2,200,OK,Thread Group 1-25,text,true,,4560,126,184,184,https://app.niprojmidialysis.com,147,0,0
+1701915070784,1531,HTTP Request,200,OK,Thread Group 1-45,text,true,,6671,419,183,183,https://app.niprojmidialysis.com,1234,0,1224
+1701915070784,1234,HTTP Request-0,301,Moved Permanently,Thread Group 1-45,text,true,,535,147,183,183,https://app.niprojmidialysis.com/appointment/dialysis/,1234,0,1224
+1701915072018,143,HTTP Request-1,302,Found,Thread Group 1-45,text,true,,1576,146,183,183,https://app.niprojmidialysis.com/appointment/dialysis,140,0,0
+1701915072162,153,HTTP Request-2,200,OK,Thread Group 1-45,text,true,,4560,126,183,183,https://app.niprojmidialysis.com,153,0,0
+1701915070704,1801,HTTP Request,200,OK,Thread Group 1-29,text,true,,6671,419,182,182,https://app.niprojmidialysis.com,1504,0,1498
+1701915070704,1504,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,535,147,182,182,https://app.niprojmidialysis.com/appointment/dialysis/,1504,0,1498
+1701915072208,148,HTTP Request-1,302,Found,Thread Group 1-29,text,true,,1576,146,182,182,https://app.niprojmidialysis.com/appointment/dialysis,142,0,0
+1701915072357,148,HTTP Request-2,200,OK,Thread Group 1-29,text,true,,4560,126,182,182,https://app.niprojmidialysis.com,141,0,0
+1701915070799,1710,HTTP Request,200,OK,Thread Group 1-48,text,true,,6671,419,181,181,https://app.niprojmidialysis.com,1423,0,1410
+1701915070799,1423,HTTP Request-0,301,Moved Permanently,Thread Group 1-48,text,true,,535,147,181,181,https://app.niprojmidialysis.com/appointment/dialysis/,1423,0,1410
+1701915072223,140,HTTP Request-1,302,Found,Thread Group 1-48,text,true,,1576,146,181,181,https://app.niprojmidialysis.com/appointment/dialysis,138,0,0
+1701915072363,146,HTTP Request-2,200,OK,Thread Group 1-48,text,true,,4560,126,181,181,https://app.niprojmidialysis.com,145,0,0
+1701915070832,1709,HTTP Request,200,OK,Thread Group 1-54,text,true,,6671,419,180,180,https://app.niprojmidialysis.com,1390,0,1376
+1701915070832,1390,HTTP Request-0,301,Moved Permanently,Thread Group 1-54,text,true,,535,147,180,180,https://app.niprojmidialysis.com/appointment/dialysis/,1390,0,1376
+1701915072223,169,HTTP Request-1,302,Found,Thread Group 1-54,text,true,,1576,146,180,180,https://app.niprojmidialysis.com/appointment/dialysis,169,0,0
+1701915072392,149,HTTP Request-2,200,OK,Thread Group 1-54,text,true,,4560,126,180,180,https://app.niprojmidialysis.com,138,0,0
+1701915070819,1728,HTTP Request,200,OK,Thread Group 1-52,text,true,,6671,419,179,179,https://app.niprojmidialysis.com,1428,0,1421
+1701915070819,1428,HTTP Request-0,301,Moved Permanently,Thread Group 1-52,text,true,,535,147,179,179,https://app.niprojmidialysis.com/appointment/dialysis/,1428,0,1421
+1701915072248,149,HTTP Request-1,302,Found,Thread Group 1-52,text,true,,1576,146,179,179,https://app.niprojmidialysis.com/appointment/dialysis,146,0,0
+1701915072397,150,HTTP Request-2,200,OK,Thread Group 1-52,text,true,,4560,126,179,179,https://app.niprojmidialysis.com,149,0,0
+1701915070654,1960,HTTP Request,200,OK,Thread Group 1-19,text,true,,6671,419,178,178,https://app.niprojmidialysis.com,1647,0,1637
+1701915070654,1647,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,535,147,178,178,https://app.niprojmidialysis.com/appointment/dialysis/,1647,0,1637
+1701915072301,153,HTTP Request-1,302,Found,Thread Group 1-19,text,true,,1576,146,178,178,https://app.niprojmidialysis.com/appointment/dialysis,153,0,0
+1701915072454,160,HTTP Request-2,200,OK,Thread Group 1-19,text,true,,4560,126,178,178,https://app.niprojmidialysis.com,160,0,0
+1701915070880,1749,HTTP Request,200,OK,Thread Group 1-64,text,true,,6671,419,177,177,https://app.niprojmidialysis.com,1454,0,1447
+1701915070880,1455,HTTP Request-0,301,Moved Permanently,Thread Group 1-64,text,true,,535,147,177,177,https://app.niprojmidialysis.com/appointment/dialysis/,1454,0,1447
+1701915072335,144,HTTP Request-1,302,Found,Thread Group 1-64,text,true,,1576,146,177,177,https://app.niprojmidialysis.com/appointment/dialysis,143,0,0
+1701915072479,150,HTTP Request-2,200,OK,Thread Group 1-64,text,true,,4560,126,177,177,https://app.niprojmidialysis.com,150,0,0
+1701915070880,1953,HTTP Request,200,OK,Thread Group 1-65,text,true,,6671,419,176,176,https://app.niprojmidialysis.com,1650,0,1637
+1701915070880,1650,HTTP Request-0,301,Moved Permanently,Thread Group 1-65,text,true,,535,147,176,176,https://app.niprojmidialysis.com/appointment/dialysis/,1650,0,1637
+1701915072530,153,HTTP Request-1,302,Found,Thread Group 1-65,text,true,,1576,146,176,176,https://app.niprojmidialysis.com/appointment/dialysis,141,0,0
+1701915072683,150,HTTP Request-2,200,OK,Thread Group 1-65,text,true,,4560,126,176,176,https://app.niprojmidialysis.com,150,0,0
+1701915070622,2225,HTTP Request,200,OK,Thread Group 1-11,text,true,,6671,419,175,175,https://app.niprojmidialysis.com,1923,0,1910
+1701915070622,1923,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,535,147,175,175,https://app.niprojmidialysis.com/appointment/dialysis/,1923,0,1910
+1701915072546,154,HTTP Request-1,302,Found,Thread Group 1-11,text,true,,1576,146,175,175,https://app.niprojmidialysis.com/appointment/dialysis,143,0,0
+1701915072700,147,HTTP Request-2,200,OK,Thread Group 1-11,text,true,,4560,126,175,175,https://app.niprojmidialysis.com,140,0,0
+1701915070754,2108,HTTP Request,200,OK,Thread Group 1-39,text,true,,6671,419,174,174,https://app.niprojmidialysis.com,1802,0,1795
+1701915070754,1802,HTTP Request-0,301,Moved Permanently,Thread Group 1-39,text,true,,535,147,174,174,https://app.niprojmidialysis.com/appointment/dialysis/,1802,0,1795
+1701915072556,144,HTTP Request-1,302,Found,Thread Group 1-39,text,true,,1576,146,174,174,https://app.niprojmidialysis.com/appointment/dialysis,135,0,0
+1701915072700,162,HTTP Request-2,200,OK,Thread Group 1-39,text,true,,4560,126,174,174,https://app.niprojmidialysis.com,162,0,0
+1701915070824,2048,HTTP Request,200,OK,Thread Group 1-53,text,true,,6671,419,173,173,https://app.niprojmidialysis.com,1740,0,1733
+1701915070824,1740,HTTP Request-0,301,Moved Permanently,Thread Group 1-53,text,true,,535,147,173,173,https://app.niprojmidialysis.com/appointment/dialysis/,1740,0,1733
+1701915072564,159,HTTP Request-1,302,Found,Thread Group 1-53,text,true,,1576,146,173,173,https://app.niprojmidialysis.com/appointment/dialysis,154,0,0
+1701915072723,149,HTTP Request-2,200,OK,Thread Group 1-53,text,true,,4560,126,173,173,https://app.niprojmidialysis.com,148,0,0
+1701915070859,2082,HTTP Request,200,OK,Thread Group 1-60,text,true,,6671,419,172,172,https://app.niprojmidialysis.com,1776,0,1770
+1701915070859,1776,HTTP Request-0,301,Moved Permanently,Thread Group 1-60,text,true,,535,147,172,172,https://app.niprojmidialysis.com/appointment/dialysis/,1776,0,1770
+1701915072635,148,HTTP Request-1,302,Found,Thread Group 1-60,text,true,,1576,146,172,172,https://app.niprojmidialysis.com/appointment/dialysis,142,0,0
+1701915072784,157,HTTP Request-2,200,OK,Thread Group 1-60,text,true,,4560,126,172,172,https://app.niprojmidialysis.com,156,0,0
+1701915070813,2165,HTTP Request,200,OK,Thread Group 1-51,text,true,,6671,419,171,171,https://app.niprojmidialysis.com,1834,0,1825
+1701915070813,1834,HTTP Request-0,301,Moved Permanently,Thread Group 1-51,text,true,,535,147,171,171,https://app.niprojmidialysis.com/appointment/dialysis/,1834,0,1825
+1701915072647,146,HTTP Request-1,302,Found,Thread Group 1-51,text,true,,1576,146,171,171,https://app.niprojmidialysis.com/appointment/dialysis,142,0,0
+1701915072793,185,HTTP Request-2,200,OK,Thread Group 1-51,text,true,,4560,126,171,171,https://app.niprojmidialysis.com,178,0,0
+1701915070760,2704,HTTP Request,200,OK,Thread Group 1-41,text,true,,6671,419,170,170,https://app.niprojmidialysis.com,2112,0,2105
+1701915070760,2112,HTTP Request-0,301,Moved Permanently,Thread Group 1-41,text,true,,535,147,170,170,https://app.niprojmidialysis.com/appointment/dialysis/,2112,0,2105
+1701915072872,153,HTTP Request-1,302,Found,Thread Group 1-41,text,true,,1576,146,170,170,https://app.niprojmidialysis.com/appointment/dialysis,146,0,0
+1701915073025,439,HTTP Request-2,200,OK,Thread Group 1-41,text,true,,4560,126,170,170,https://app.niprojmidialysis.com,438,0,0
+1701915070851,2615,HTTP Request,200,OK,Thread Group 1-58,text,true,,6671,419,170,170,https://app.niprojmidialysis.com,2044,0,2032
+1701915070866,2600,HTTP Request,200,OK,Thread Group 1-61,text,true,,6671,419,170,170,https://app.niprojmidialysis.com,1996,0,1987
+1701915070851,2044,HTTP Request-0,301,Moved Permanently,Thread Group 1-58,text,true,,535,147,170,170,https://app.niprojmidialysis.com/appointment/dialysis/,2044,0,2032
+1701915072895,166,HTTP Request-1,302,Found,Thread Group 1-58,text,true,,1576,146,170,170,https://app.niprojmidialysis.com/appointment/dialysis,164,0,0
+1701915073062,404,HTTP Request-2,200,OK,Thread Group 1-58,text,true,,4560,126,170,170,https://app.niprojmidialysis.com,404,0,0
+1701915070866,1996,HTTP Request-0,301,Moved Permanently,Thread Group 1-61,text,true,,535,147,170,170,https://app.niprojmidialysis.com/appointment/dialysis/,1996,0,1987
+1701915072862,180,HTTP Request-1,302,Found,Thread Group 1-61,text,true,,1576,146,170,170,https://app.niprojmidialysis.com/appointment/dialysis,171,0,0
+1701915073043,423,HTTP Request-2,200,OK,Thread Group 1-61,text,true,,4560,126,170,170,https://app.niprojmidialysis.com,423,0,0
+1701915070624,2848,HTTP Request,200,OK,Thread Group 1-13,text,true,,6671,419,167,167,https://app.niprojmidialysis.com,2282,0,2272
+1701915070865,2607,HTTP Request,200,OK,Thread Group 1-62,text,true,,6671,419,167,167,https://app.niprojmidialysis.com,2016,0,2008
+1701915070624,2282,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,535,147,167,167,https://app.niprojmidialysis.com/appointment/dialysis/,2282,0,2272
+1701915070865,2016,HTTP Request-0,301,Moved Permanently,Thread Group 1-62,text,true,,535,147,167,167,https://app.niprojmidialysis.com/appointment/dialysis/,2016,0,2008
+1701915072906,160,HTTP Request-1,302,Found,Thread Group 1-13,text,true,,1576,146,167,167,https://app.niprojmidialysis.com/appointment/dialysis,155,0,0
+1701915072881,178,HTTP Request-1,302,Found,Thread Group 1-62,text,true,,1576,146,167,167,https://app.niprojmidialysis.com/appointment/dialysis,168,0,0
+1701915073066,406,HTTP Request-2,200,OK,Thread Group 1-13,text,true,,4560,126,167,167,https://app.niprojmidialysis.com,406,0,0
+1701915073059,413,HTTP Request-2,200,OK,Thread Group 1-62,text,true,,4560,126,167,167,https://app.niprojmidialysis.com,413,0,0
+1701915070623,2849,HTTP Request,200,OK,Thread Group 1-12,text,true,,6671,419,167,167,https://app.niprojmidialysis.com,2272,0,2265
+1701915070637,2835,HTTP Request,200,OK,Thread Group 1-16,text,true,,6671,419,167,167,https://app.niprojmidialysis.com,2260,0,2254
+1701915070623,2272,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,535,147,167,167,https://app.niprojmidialysis.com/appointment/dialysis/,2272,0,2265
+1701915070637,2260,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,535,147,167,167,https://app.niprojmidialysis.com/appointment/dialysis/,2260,0,2254
+1701915072896,198,HTTP Request-1,302,Found,Thread Group 1-12,text,true,,1576,146,167,167,https://app.niprojmidialysis.com/appointment/dialysis,195,0,0
+1701915072897,186,HTTP Request-1,302,Found,Thread Group 1-16,text,true,,1576,146,167,167,https://app.niprojmidialysis.com/appointment/dialysis,179,0,0
+1701915073083,389,HTTP Request-2,200,OK,Thread Group 1-16,text,true,,4560,126,167,167,https://app.niprojmidialysis.com,389,0,0
+1701915073094,378,HTTP Request-2,200,OK,Thread Group 1-12,text,true,,4560,126,167,167,https://app.niprojmidialysis.com,378,0,0
+1701915070685,2828,HTTP Request,200,OK,Thread Group 1-26,text,true,,6671,419,163,163,https://app.niprojmidialysis.com,2274,0,2267
+1701915070685,2274,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,535,147,163,163,https://app.niprojmidialysis.com/appointment/dialysis/,2274,0,2267
+1701915072959,170,HTTP Request-1,302,Found,Thread Group 1-26,text,true,,1576,146,163,163,https://app.niprojmidialysis.com/appointment/dialysis,170,0,0
+1701915073129,384,HTTP Request-2,200,OK,Thread Group 1-26,text,true,,4560,126,163,163,https://app.niprojmidialysis.com,383,0,0
+1701915070645,2868,HTTP Request,200,OK,Thread Group 1-17,text,true,,6671,419,163,163,https://app.niprojmidialysis.com,2261,0,2251
+1701915070645,2261,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,535,147,163,163,https://app.niprojmidialysis.com/appointment/dialysis/,2261,0,2251
+1701915072906,208,HTTP Request-1,302,Found,Thread Group 1-17,text,true,,1576,146,163,163,https://app.niprojmidialysis.com/appointment/dialysis,196,0,0
+1701915073114,399,HTTP Request-2,200,OK,Thread Group 1-17,text,true,,4560,126,163,163,https://app.niprojmidialysis.com,398,0,0
+1701915070622,3421,HTTP Request,200,OK,Thread Group 1-8,text,true,,6671,419,161,161,https://app.niprojmidialysis.com,2377,0,2369
+1701915070622,2377,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,535,147,161,161,https://app.niprojmidialysis.com/appointment/dialysis/,2377,0,2369
+1701915073000,464,HTTP Request-1,302,Found,Thread Group 1-8,text,true,,1576,146,161,161,https://app.niprojmidialysis.com/appointment/dialysis,463,0,0
+1701915073464,579,HTTP Request-2,200,OK,Thread Group 1-8,text,true,,4560,126,161,161,https://app.niprojmidialysis.com,579,0,0
+1701915070634,4226,HTTP Request,200,OK,Thread Group 1-15,text,true,,6671,419,160,160,https://app.niprojmidialysis.com,3110,0,2957
+1701915070634,3110,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,535,147,160,160,https://app.niprojmidialysis.com/appointment/dialysis/,3110,0,2957
+1701915073744,592,HTTP Request-1,302,Found,Thread Group 1-15,text,true,,1576,146,160,160,https://app.niprojmidialysis.com/appointment/dialysis,592,0,0
+1701915074337,523,HTTP Request-2,200,OK,Thread Group 1-15,text,true,,4560,126,160,160,https://app.niprojmidialysis.com,523,0,0
+1701915070622,4238,HTTP Request,200,OK,Thread Group 1-1,text,true,,6671,419,160,160,https://app.niprojmidialysis.com,3344,0,3001
+1701915070622,3344,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,535,147,160,160,https://app.niprojmidialysis.com/appointment/dialysis/,3344,0,3001
+1701915073967,520,HTTP Request-1,302,Found,Thread Group 1-1,text,true,,1576,146,160,160,https://app.niprojmidialysis.com/appointment/dialysis,520,0,0
+1701915074488,372,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,4560,126,160,160,https://app.niprojmidialysis.com,372,0,0
+1701915070659,4234,HTTP Request,200,OK,Thread Group 1-20,text,true,,6671,419,158,158,https://app.niprojmidialysis.com,3305,0,2937
+1701915070659,3305,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,535,147,158,158,https://app.niprojmidialysis.com/appointment/dialysis/,3305,0,2937
+1701915073964,523,HTTP Request-1,302,Found,Thread Group 1-20,text,true,,1576,146,158,158,https://app.niprojmidialysis.com/appointment/dialysis,388,0,0
+1701915074487,406,HTTP Request-2,200,OK,Thread Group 1-20,text,true,,4560,126,158,158,https://app.niprojmidialysis.com,406,0,0
+1701915070670,4224,HTTP Request,200,OK,Thread Group 1-23,text,true,,6671,419,158,158,https://app.niprojmidialysis.com,3296,0,2954
+1701915070670,3296,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,535,147,158,158,https://app.niprojmidialysis.com/appointment/dialysis/,3296,0,2954
+1701915073966,521,HTTP Request-1,302,Found,Thread Group 1-23,text,true,,1576,146,158,158,https://app.niprojmidialysis.com/appointment/dialysis,386,0,0
+1701915074487,407,HTTP Request-2,200,OK,Thread Group 1-23,text,true,,4560,126,158,158,https://app.niprojmidialysis.com,407,0,0
+1701915070645,4251,HTTP Request,200,OK,Thread Group 1-18,text,true,,6671,419,156,156,https://app.niprojmidialysis.com,3317,0,2947
+1701915070645,3317,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,535,147,156,156,https://app.niprojmidialysis.com/appointment/dialysis/,3317,0,2947
+1701915073963,524,HTTP Request-1,302,Found,Thread Group 1-18,text,true,,1576,146,156,156,https://app.niprojmidialysis.com/appointment/dialysis,524,0,0
+1701915074488,408,HTTP Request-2,200,OK,Thread Group 1-18,text,true,,4560,126,156,156,https://app.niprojmidialysis.com,407,0,0
+1701915070855,4041,HTTP Request,200,OK,Thread Group 1-59,text,true,,6671,419,155,155,https://app.niprojmidialysis.com,3110,0,2741
+1701915070766,4130,HTTP Request,200,OK,Thread Group 1-42,text,true,,6671,419,155,155,https://app.niprojmidialysis.com,3199,0,2826
+1701915070855,3110,HTTP Request-0,301,Moved Permanently,Thread Group 1-59,text,true,,535,147,155,155,https://app.niprojmidialysis.com/appointment/dialysis/,3110,0,2741
+1701915070766,3199,HTTP Request-0,301,Moved Permanently,Thread Group 1-42,text,true,,535,147,155,155,https://app.niprojmidialysis.com/appointment/dialysis/,3199,0,2826
+1701915073965,522,HTTP Request-1,302,Found,Thread Group 1-59,text,true,,1576,146,155,155,https://app.niprojmidialysis.com/appointment/dialysis,522,0,0
+1701915073965,522,HTTP Request-1,302,Found,Thread Group 1-42,text,true,,1576,146,155,155,https://app.niprojmidialysis.com/appointment/dialysis,522,0,0
+1701915074488,408,HTTP Request-2,200,OK,Thread Group 1-59,text,true,,4560,126,155,155,https://app.niprojmidialysis.com,408,0,0
+1701915074488,408,HTTP Request-2,200,OK,Thread Group 1-42,text,true,,4560,126,155,155,https://app.niprojmidialysis.com,408,0,0
+1701915070699,4197,HTTP Request,200,OK,Thread Group 1-28,text,true,,6671,419,155,155,https://app.niprojmidialysis.com,3264,0,2896
+1701915070699,3264,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,535,147,155,155,https://app.niprojmidialysis.com/appointment/dialysis/,3264,0,2896
+1701915073963,524,HTTP Request-1,302,Found,Thread Group 1-28,text,true,,1576,146,155,155,https://app.niprojmidialysis.com/appointment/dialysis,524,0,0
+1701915074487,409,HTTP Request-2,200,OK,Thread Group 1-28,text,true,,4560,126,155,155,https://app.niprojmidialysis.com,409,0,0
+1701915070760,4138,HTTP Request,200,OK,Thread Group 1-40,text,true,,6671,419,152,152,https://app.niprojmidialysis.com,3205,0,2834
+1701915070760,3205,HTTP Request-0,301,Moved Permanently,Thread Group 1-40,text,true,,535,147,152,152,https://app.niprojmidialysis.com/appointment/dialysis/,3205,0,2834
+1701915073965,522,HTTP Request-1,302,Found,Thread Group 1-40,text,true,,1576,146,152,152,https://app.niprojmidialysis.com/appointment/dialysis,522,0,0
+1701915074488,410,HTTP Request-2,200,OK,Thread Group 1-40,text,true,,4560,126,152,152,https://app.niprojmidialysis.com,410,0,0
+1701915070629,4535,HTTP Request,200,OK,Thread Group 1-14,text,true,,6671,419,151,151,https://app.niprojmidialysis.com,4108,0,3718
+1701915070629,4108,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,535,147,151,151,https://app.niprojmidialysis.com/appointment/dialysis/,4108,0,3718
+1701915074737,224,HTTP Request-1,302,Found,Thread Group 1-14,text,true,,1576,146,151,151,https://app.niprojmidialysis.com/appointment/dialysis,224,0,0
+1701915074961,203,HTTP Request-2,200,OK,Thread Group 1-14,text,true,,4560,126,151,151,https://app.niprojmidialysis.com,201,0,0
+1701915070622,4550,HTTP Request,200,OK,Thread Group 1-2,text,true,,6671,419,150,150,https://app.niprojmidialysis.com,4117,0,3730
+1701915070622,4117,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,535,147,150,150,https://app.niprojmidialysis.com/appointment/dialysis/,4117,0,3730
+1701915074740,228,HTTP Request-1,302,Found,Thread Group 1-2,text,true,,1576,146,150,150,https://app.niprojmidialysis.com/appointment/dialysis,227,0,0
+1701915074969,203,HTTP Request-2,200,OK,Thread Group 1-2,text,true,,4560,126,150,150,https://app.niprojmidialysis.com,203,0,0
+1701915070890,4293,HTTP Request,200,OK,Thread Group 1-67,text,true,,6671,419,149,149,https://app.niprojmidialysis.com,3848,0,3463
+1701915070890,3848,HTTP Request-0,301,Moved Permanently,Thread Group 1-67,text,true,,535,147,149,149,https://app.niprojmidialysis.com/appointment/dialysis/,3848,0,3463
+1701915074739,238,HTTP Request-1,302,Found,Thread Group 1-67,text,true,,1576,146,149,149,https://app.niprojmidialysis.com/appointment/dialysis,238,0,0
+1701915074977,206,HTTP Request-2,200,OK,Thread Group 1-67,text,true,,4560,126,149,149,https://app.niprojmidialysis.com,200,0,0
+1701915070775,4422,HTTP Request,200,OK,Thread Group 1-44,text,true,,6671,419,148,148,https://app.niprojmidialysis.com,3964,0,3574
+1701915070793,4404,HTTP Request,200,OK,Thread Group 1-47,text,true,,6671,419,148,148,https://app.niprojmidialysis.com,3944,0,3553
+1701915070775,3964,HTTP Request-0,301,Moved Permanently,Thread Group 1-44,text,true,,535,147,148,148,https://app.niprojmidialysis.com/appointment/dialysis/,3964,0,3574
+1701915070793,3944,HTTP Request-0,301,Moved Permanently,Thread Group 1-47,text,true,,535,147,148,148,https://app.niprojmidialysis.com/appointment/dialysis/,3944,0,3553
+1701915074739,238,HTTP Request-1,302,Found,Thread Group 1-44,text,true,,1576,146,148,148,https://app.niprojmidialysis.com/appointment/dialysis,238,0,0
+1701915074737,240,HTTP Request-1,302,Found,Thread Group 1-47,text,true,,1576,146,148,148,https://app.niprojmidialysis.com/appointment/dialysis,240,0,0
+1701915074977,220,HTTP Request-2,200,OK,Thread Group 1-44,text,true,,4560,126,148,148,https://app.niprojmidialysis.com,212,0,0
+1701915074977,220,HTTP Request-2,200,OK,Thread Group 1-47,text,true,,4560,126,148,148,https://app.niprojmidialysis.com,214,0,0
+1701915070719,4493,HTTP Request,200,OK,Thread Group 1-32,text,true,,6671,419,146,146,https://app.niprojmidialysis.com,4012,0,3621
+1701915070719,4012,HTTP Request-0,301,Moved Permanently,Thread Group 1-32,text,true,,535,147,146,146,https://app.niprojmidialysis.com/appointment/dialysis/,4012,0,3621
+1701915074731,245,HTTP Request-1,302,Found,Thread Group 1-32,text,true,,1576,146,146,146,https://app.niprojmidialysis.com/appointment/dialysis,238,0,0
+1701915074977,235,HTTP Request-2,200,OK,Thread Group 1-32,text,true,,4560,126,146,146,https://app.niprojmidialysis.com,223,0,0
+1701915070670,4542,HTTP Request,200,OK,Thread Group 1-22,text,true,,6671,419,146,146,https://app.niprojmidialysis.com,4070,0,3683
+1701915070670,4070,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,535,147,146,146,https://app.niprojmidialysis.com/appointment/dialysis/,4070,0,3683
+1701915074740,237,HTTP Request-1,302,Found,Thread Group 1-22,text,true,,1576,146,146,146,https://app.niprojmidialysis.com/appointment/dialysis,237,0,0
+1701915074977,235,HTTP Request-2,200,OK,Thread Group 1-22,text,true,,4560,126,146,146,https://app.niprojmidialysis.com,222,0,0
+1701915070623,4601,HTTP Request,200,OK,Thread Group 1-7,text,true,,6671,419,144,144,https://app.niprojmidialysis.com,4115,0,3726
+1701915070623,4115,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,535,147,144,144,https://app.niprojmidialysis.com/appointment/dialysis/,4115,0,3726
+1701915074739,238,HTTP Request-1,302,Found,Thread Group 1-7,text,true,,1576,146,144,144,https://app.niprojmidialysis.com/appointment/dialysis,238,0,0
+1701915074977,247,HTTP Request-2,200,OK,Thread Group 1-7,text,true,,4560,126,144,144,https://app.niprojmidialysis.com,240,0,0
+1701915070846,4610,HTTP Request,200,OK,Thread Group 1-57,text,true,,6671,419,143,143,https://app.niprojmidialysis.com,4152,0,4123
+1701915070846,4152,HTTP Request-0,301,Moved Permanently,Thread Group 1-57,text,true,,535,147,143,143,https://app.niprojmidialysis.com/appointment/dialysis/,4152,0,4123
+1701915074999,227,HTTP Request-1,302,Found,Thread Group 1-57,text,true,,1576,146,143,143,https://app.niprojmidialysis.com/appointment/dialysis,218,0,0
+1701915075226,230,HTTP Request-2,200,OK,Thread Group 1-57,text,true,,4560,126,143,143,https://app.niprojmidialysis.com,225,0,0
+1701915070710,4772,HTTP Request,200,OK,Thread Group 1-30,text,true,,6671,419,142,142,https://app.niprojmidialysis.com,4284,0,4253
+1701915070710,4284,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,535,147,142,142,https://app.niprojmidialysis.com/appointment/dialysis/,4284,0,4253
+1701915074994,212,HTTP Request-1,302,Found,Thread Group 1-30,text,true,,1576,146,142,142,https://app.niprojmidialysis.com/appointment/dialysis,205,0,0
+1701915075206,276,HTTP Request-2,200,OK,Thread Group 1-30,text,true,,4560,126,142,142,https://app.niprojmidialysis.com,268,0,0
+1701915070622,4879,HTTP Request,200,OK,Thread Group 1-4,text,true,,6671,419,141,141,https://app.niprojmidialysis.com,4371,0,4340
+1701915070622,4371,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,535,147,141,141,https://app.niprojmidialysis.com/appointment/dialysis/,4371,0,4340
+1701915074994,222,HTTP Request-1,302,Found,Thread Group 1-4,text,true,,1576,146,141,141,https://app.niprojmidialysis.com/appointment/dialysis,207,0,0
+1701915075216,285,HTTP Request-2,200,OK,Thread Group 1-4,text,true,,4560,126,141,141,https://app.niprojmidialysis.com,283,0,0
+1701915070739,4840,HTTP Request,200,OK,Thread Group 1-36,text,true,,6671,419,140,140,https://app.niprojmidialysis.com,4260,0,4239
+1701915070739,4260,HTTP Request-0,301,Moved Permanently,Thread Group 1-36,text,true,,535,147,140,140,https://app.niprojmidialysis.com/appointment/dialysis/,4260,0,4239
+1701915074999,235,HTTP Request-1,302,Found,Thread Group 1-36,text,true,,1576,146,140,140,https://app.niprojmidialysis.com/appointment/dialysis,222,0,0
+1701915075234,345,HTTP Request-2,200,OK,Thread Group 1-36,text,true,,4560,126,140,140,https://app.niprojmidialysis.com,345,0,0
+1701915070694,4886,HTTP Request,200,OK,Thread Group 1-27,text,true,,6671,419,139,139,https://app.niprojmidialysis.com,4300,0,4269
+1701915070694,4300,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,535,147,139,139,https://app.niprojmidialysis.com/appointment/dialysis/,4300,0,4269
+1701915074994,222,HTTP Request-1,302,Found,Thread Group 1-27,text,true,,1576,146,139,139,https://app.niprojmidialysis.com/appointment/dialysis,215,0,0
+1701915075216,364,HTTP Request-2,200,OK,Thread Group 1-27,text,true,,4560,126,139,139,https://app.niprojmidialysis.com,363,0,0
+1701915070870,4741,HTTP Request,200,OK,Thread Group 1-63,text,true,,6671,419,138,138,https://app.niprojmidialysis.com,4124,0,4093
+1701915070870,4124,HTTP Request-0,301,Moved Permanently,Thread Group 1-63,text,true,,535,147,138,138,https://app.niprojmidialysis.com/appointment/dialysis/,4124,0,4093
+1701915074995,224,HTTP Request-1,302,Found,Thread Group 1-63,text,true,,1576,146,138,138,https://app.niprojmidialysis.com/appointment/dialysis,217,0,0
+1701915075219,392,HTTP Request-2,200,OK,Thread Group 1-63,text,true,,4560,126,138,138,https://app.niprojmidialysis.com,386,0,0
+1701915070790,4827,HTTP Request,200,OK,Thread Group 1-46,text,true,,6671,419,137,137,https://app.niprojmidialysis.com,4208,0,4179
+1701915070790,4208,HTTP Request-0,301,Moved Permanently,Thread Group 1-46,text,true,,535,147,137,137,https://app.niprojmidialysis.com/appointment/dialysis/,4208,0,4179
+1701915074998,234,HTTP Request-1,302,Found,Thread Group 1-46,text,true,,1576,146,137,137,https://app.niprojmidialysis.com/appointment/dialysis,220,0,0
+1701915075232,385,HTTP Request-2,200,OK,Thread Group 1-46,text,true,,4560,126,137,137,https://app.niprojmidialysis.com,367,0,0
+1701915070836,4792,HTTP Request,200,OK,Thread Group 1-56,text,true,,6671,419,136,136,https://app.niprojmidialysis.com,4158,0,4127
+1701915070836,4158,HTTP Request-0,301,Moved Permanently,Thread Group 1-56,text,true,,535,147,136,136,https://app.niprojmidialysis.com/appointment/dialysis/,4158,0,4127
+1701915074994,238,HTTP Request-1,302,Found,Thread Group 1-56,text,true,,1576,146,136,136,https://app.niprojmidialysis.com/appointment/dialysis,225,0,0
+1701915075232,396,HTTP Request-2,200,OK,Thread Group 1-56,text,true,,4560,126,136,136,https://app.niprojmidialysis.com,376,0,0
+1701915070775,4878,HTTP Request,200,OK,Thread Group 1-43,text,true,,6671,419,135,135,https://app.niprojmidialysis.com,4223,0,4193
+1701915070775,4223,HTTP Request-0,301,Moved Permanently,Thread Group 1-43,text,true,,535,147,135,135,https://app.niprojmidialysis.com/appointment/dialysis/,4223,0,4193
+1701915074998,263,HTTP Request-1,302,Found,Thread Group 1-43,text,true,,1576,146,135,135,https://app.niprojmidialysis.com/appointment/dialysis,255,0,0
+1701915075261,392,HTTP Request-2,200,OK,Thread Group 1-43,text,true,,4560,126,135,135,https://app.niprojmidialysis.com,376,0,0
+1701915070975,4844,HTTP Request,200,OK,Thread Group 1-83,text,true,,6671,419,134,134,https://app.niprojmidialysis.com,4272,0,4258
+1701915070975,4272,HTTP Request-0,301,Moved Permanently,Thread Group 1-83,text,true,,535,147,134,134,https://app.niprojmidialysis.com/appointment/dialysis/,4272,0,4258
+1701915075247,281,HTTP Request-1,302,Found,Thread Group 1-83,text,true,,1576,146,134,134,https://app.niprojmidialysis.com/appointment/dialysis,274,0,0
+1701915075528,291,HTTP Request-2,200,OK,Thread Group 1-83,text,true,,4560,126,134,134,https://app.niprojmidialysis.com,277,0,0
+1701915070898,4921,HTTP Request,200,OK,Thread Group 1-68,text,true,,6671,419,134,134,https://app.niprojmidialysis.com,4293,0,4281
+1701915070898,4293,HTTP Request-0,301,Moved Permanently,Thread Group 1-68,text,true,,535,147,134,134,https://app.niprojmidialysis.com/appointment/dialysis/,4293,0,4281
+1701915075191,260,HTTP Request-1,302,Found,Thread Group 1-68,text,true,,1576,146,134,134,https://app.niprojmidialysis.com/appointment/dialysis,258,0,0
+1701915075451,368,HTTP Request-2,200,OK,Thread Group 1-68,text,true,,4560,126,134,134,https://app.niprojmidialysis.com,368,0,0
+1701915071004,4822,HTTP Request,200,OK,Thread Group 1-89,text,true,,6671,419,132,132,https://app.niprojmidialysis.com,4244,0,4232
+1701915071004,4244,HTTP Request-0,301,Moved Permanently,Thread Group 1-89,text,true,,535,147,132,132,https://app.niprojmidialysis.com/appointment/dialysis/,4244,0,4232
+1701915075248,287,HTTP Request-1,302,Found,Thread Group 1-89,text,true,,1576,146,132,132,https://app.niprojmidialysis.com/appointment/dialysis,280,0,0
+1701915075535,291,HTTP Request-2,200,OK,Thread Group 1-89,text,true,,4560,126,132,132,https://app.niprojmidialysis.com,284,0,0
+1701915070904,4923,HTTP Request,200,OK,Thread Group 1-69,text,true,,6671,419,132,132,https://app.niprojmidialysis.com,4296,0,4288
+1701915070904,4296,HTTP Request-0,301,Moved Permanently,Thread Group 1-69,text,true,,535,147,132,132,https://app.niprojmidialysis.com/appointment/dialysis/,4296,0,4288
+1701915075200,301,HTTP Request-1,302,Found,Thread Group 1-69,text,true,,1576,146,132,132,https://app.niprojmidialysis.com/appointment/dialysis,279,0,0
+1701915075501,326,HTTP Request-2,200,OK,Thread Group 1-69,text,true,,4560,126,132,132,https://app.niprojmidialysis.com,326,0,0
+1701915070909,4920,HTTP Request,200,OK,Thread Group 1-70,text,true,,6671,419,130,130,https://app.niprojmidialysis.com,4307,0,4293
+1701915070909,4307,HTTP Request-0,301,Moved Permanently,Thread Group 1-70,text,true,,535,147,130,130,https://app.niprojmidialysis.com/appointment/dialysis/,4307,0,4293
+1701915075216,341,HTTP Request-1,302,Found,Thread Group 1-70,text,true,,1576,146,130,130,https://app.niprojmidialysis.com/appointment/dialysis,335,0,0
+1701915075557,272,HTTP Request-2,200,OK,Thread Group 1-70,text,true,,4560,126,130,130,https://app.niprojmidialysis.com,270,0,0
+1701915070919,4921,HTTP Request,200,OK,Thread Group 1-72,text,true,,6671,419,129,129,https://app.niprojmidialysis.com,4307,0,4294
+1701915070919,4307,HTTP Request-0,301,Moved Permanently,Thread Group 1-72,text,true,,535,147,129,129,https://app.niprojmidialysis.com/appointment/dialysis/,4307,0,4294
+1701915075226,287,HTTP Request-1,302,Found,Thread Group 1-72,text,true,,1576,146,129,129,https://app.niprojmidialysis.com/appointment/dialysis,257,0,0
+1701915075513,327,HTTP Request-2,200,OK,Thread Group 1-72,text,true,,4560,126,129,129,https://app.niprojmidialysis.com,317,0,0
+1701915070914,4929,HTTP Request,200,OK,Thread Group 1-71,text,true,,6671,419,128,128,https://app.niprojmidialysis.com,4298,0,4285
+1701915070914,4298,HTTP Request-0,301,Moved Permanently,Thread Group 1-71,text,true,,535,147,128,128,https://app.niprojmidialysis.com/appointment/dialysis/,4298,0,4285
+1701915075212,303,HTTP Request-1,302,Found,Thread Group 1-71,text,true,,1576,146,128,128,https://app.niprojmidialysis.com/appointment/dialysis,301,0,0
+1701915075515,328,HTTP Request-2,200,OK,Thread Group 1-71,text,true,,4560,126,128,128,https://app.niprojmidialysis.com,325,0,0
+1701915070949,4902,HTTP Request,200,OK,Thread Group 1-78,text,true,,6671,419,127,127,https://app.niprojmidialysis.com,4285,0,4271
+1701915070949,4285,HTTP Request-0,301,Moved Permanently,Thread Group 1-78,text,true,,535,147,127,127,https://app.niprojmidialysis.com/appointment/dialysis/,4285,0,4271
+1701915075234,317,HTTP Request-1,302,Found,Thread Group 1-78,text,true,,1576,146,127,127,https://app.niprojmidialysis.com/appointment/dialysis,298,0,0
+1701915075551,300,HTTP Request-2,200,OK,Thread Group 1-78,text,true,,4560,126,127,127,https://app.niprojmidialysis.com,293,0,0
+1701915070935,4947,HTTP Request,200,OK,Thread Group 1-75,text,true,,6671,419,126,126,https://app.niprojmidialysis.com,4297,0,4278
+1701915070935,4297,HTTP Request-0,301,Moved Permanently,Thread Group 1-75,text,true,,535,147,126,126,https://app.niprojmidialysis.com/appointment/dialysis/,4297,0,4278
+1701915075232,326,HTTP Request-1,302,Found,Thread Group 1-75,text,true,,1576,146,126,126,https://app.niprojmidialysis.com/appointment/dialysis,322,0,0
+1701915075558,324,HTTP Request-2,200,OK,Thread Group 1-75,text,true,,4560,126,126,126,https://app.niprojmidialysis.com,318,0,0
+1701915070994,4892,HTTP Request,200,OK,Thread Group 1-87,text,true,,6671,419,125,125,https://app.niprojmidialysis.com,4254,0,4240
+1701915070994,4254,HTTP Request-0,301,Moved Permanently,Thread Group 1-87,text,true,,535,147,125,125,https://app.niprojmidialysis.com/appointment/dialysis/,4254,0,4240
+1701915075248,274,HTTP Request-1,302,Found,Thread Group 1-87,text,true,,1576,146,125,125,https://app.niprojmidialysis.com/appointment/dialysis,267,0,0
+1701915075523,363,HTTP Request-2,200,OK,Thread Group 1-87,text,true,,4560,126,125,125,https://app.niprojmidialysis.com,353,0,0
+1701915070961,4932,HTTP Request,200,OK,Thread Group 1-81,text,true,,6671,419,124,124,https://app.niprojmidialysis.com,4284,0,4266
+1701915070961,4284,HTTP Request-0,301,Moved Permanently,Thread Group 1-81,text,true,,535,147,124,124,https://app.niprojmidialysis.com/appointment/dialysis/,4284,0,4266
+1701915075245,334,HTTP Request-1,302,Found,Thread Group 1-81,text,true,,1576,146,124,124,https://app.niprojmidialysis.com/appointment/dialysis,334,0,0
+1701915075579,314,HTTP Request-2,200,OK,Thread Group 1-81,text,true,,4560,126,124,124,https://app.niprojmidialysis.com,307,0,0
+1701915070999,4894,HTTP Request,200,OK,Thread Group 1-88,text,true,,6671,419,124,124,https://app.niprojmidialysis.com,4249,0,4236
+1701915070999,4249,HTTP Request-0,301,Moved Permanently,Thread Group 1-88,text,true,,535,147,124,124,https://app.niprojmidialysis.com/appointment/dialysis/,4249,0,4236
+1701915075248,294,HTTP Request-1,302,Found,Thread Group 1-88,text,true,,1576,146,124,124,https://app.niprojmidialysis.com/appointment/dialysis,284,0,0
+1701915075542,351,HTTP Request-2,200,OK,Thread Group 1-88,text,true,,4560,126,124,124,https://app.niprojmidialysis.com,344,0,0
+1701915070925,4983,HTTP Request,200,OK,Thread Group 1-74,text,true,,6671,419,122,122,https://app.niprojmidialysis.com,4307,0,4288
+1701915070925,4307,HTTP Request-0,301,Moved Permanently,Thread Group 1-74,text,true,,535,147,122,122,https://app.niprojmidialysis.com/appointment/dialysis/,4307,0,4288
+1701915075232,310,HTTP Request-1,302,Found,Thread Group 1-74,text,true,,1576,146,122,122,https://app.niprojmidialysis.com/appointment/dialysis,299,0,0
+1701915075542,366,HTTP Request-2,200,OK,Thread Group 1-74,text,true,,4560,126,122,122,https://app.niprojmidialysis.com,349,0,0
+1701915070970,4951,HTTP Request,200,OK,Thread Group 1-82,text,true,,6671,419,121,121,https://app.niprojmidialysis.com,4277,0,4261
+1701915070970,4277,HTTP Request-0,301,Moved Permanently,Thread Group 1-82,text,true,,535,147,121,121,https://app.niprojmidialysis.com/appointment/dialysis/,4277,0,4261
+1701915075247,332,HTTP Request-1,302,Found,Thread Group 1-82,text,true,,1576,146,121,121,https://app.niprojmidialysis.com/appointment/dialysis,328,0,0
+1701915075579,342,HTTP Request-2,200,OK,Thread Group 1-82,text,true,,4560,126,121,121,https://app.niprojmidialysis.com,337,0,0
+1701915070924,5003,HTTP Request,200,OK,Thread Group 1-73,text,true,,6671,419,120,120,https://app.niprojmidialysis.com,4307,0,4289
+1701915070924,4307,HTTP Request-0,301,Moved Permanently,Thread Group 1-73,text,true,,535,147,120,120,https://app.niprojmidialysis.com/appointment/dialysis/,4307,0,4289
+1701915075231,348,HTTP Request-1,302,Found,Thread Group 1-73,text,true,,1576,146,120,120,https://app.niprojmidialysis.com/appointment/dialysis,326,0,0
+1701915075579,348,HTTP Request-2,200,OK,Thread Group 1-73,text,true,,4560,126,120,120,https://app.niprojmidialysis.com,337,0,0
+1701915070664,5268,HTTP Request,200,OK,Thread Group 1-21,text,true,,6671,419,119,119,https://app.niprojmidialysis.com,4519,0,4511
+1701915070664,4519,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,535,147,119,119,https://app.niprojmidialysis.com/appointment/dialysis/,4519,0,4511
+1701915075183,346,HTTP Request-1,302,Found,Thread Group 1-21,text,true,,1576,146,119,119,https://app.niprojmidialysis.com/appointment/dialysis,330,0,0
+1701915075529,403,HTTP Request-2,200,OK,Thread Group 1-21,text,true,,4560,126,119,119,https://app.niprojmidialysis.com,392,0,0
+1701915070979,4980,HTTP Request,200,OK,Thread Group 1-84,text,true,,6671,419,118,118,https://app.niprojmidialysis.com,4266,0,4248
+1701915070979,4266,HTTP Request-0,301,Moved Permanently,Thread Group 1-84,text,true,,535,147,118,118,https://app.niprojmidialysis.com/appointment/dialysis/,4266,0,4248
+1701915075245,383,HTTP Request-1,302,Found,Thread Group 1-84,text,true,,1576,146,118,118,https://app.niprojmidialysis.com/appointment/dialysis,373,0,0
+1701915075628,331,HTTP Request-2,200,OK,Thread Group 1-84,text,true,,4560,126,118,118,https://app.niprojmidialysis.com,308,0,0
+1701915070959,5005,HTTP Request,200,OK,Thread Group 1-80,text,true,,6671,419,117,117,https://app.niprojmidialysis.com,4275,0,4261
+1701915070959,4275,HTTP Request-0,301,Moved Permanently,Thread Group 1-80,text,true,,535,147,117,117,https://app.niprojmidialysis.com/appointment/dialysis/,4275,0,4261
+1701915075234,346,HTTP Request-1,302,Found,Thread Group 1-80,text,true,,1576,146,117,117,https://app.niprojmidialysis.com/appointment/dialysis,345,0,0
+1701915075580,384,HTTP Request-2,200,OK,Thread Group 1-80,text,true,,4560,126,117,117,https://app.niprojmidialysis.com,369,0,0
+1701915070979,4992,HTTP Request,200,OK,Thread Group 1-85,text,true,,6671,419,116,116,https://app.niprojmidialysis.com,4266,0,4248
+1701915070979,4266,HTTP Request-0,301,Moved Permanently,Thread Group 1-85,text,true,,535,147,116,116,https://app.niprojmidialysis.com/appointment/dialysis/,4266,0,4248
+1701915075245,372,HTTP Request-1,302,Found,Thread Group 1-85,text,true,,1576,146,116,116,https://app.niprojmidialysis.com/appointment/dialysis,363,0,0
+1701915075617,354,HTTP Request-2,200,OK,Thread Group 1-85,text,true,,4560,126,116,116,https://app.niprojmidialysis.com,343,0,0
+1701915070986,4990,HTTP Request,200,OK,Thread Group 1-86,text,true,,6671,419,115,115,https://app.niprojmidialysis.com,4261,0,4247
+1701915070986,4262,HTTP Request-0,301,Moved Permanently,Thread Group 1-86,text,true,,535,147,115,115,https://app.niprojmidialysis.com/appointment/dialysis/,4261,0,4247
+1701915075248,340,HTTP Request-1,302,Found,Thread Group 1-86,text,true,,1576,146,115,115,https://app.niprojmidialysis.com/appointment/dialysis,333,0,0
+1701915075588,388,HTTP Request-2,200,OK,Thread Group 1-86,text,true,,4560,126,115,115,https://app.niprojmidialysis.com,376,0,0
+1701915070944,5064,HTTP Request,200,OK,Thread Group 1-77,text,true,,6671,419,114,114,https://app.niprojmidialysis.com,4288,0,4273
+1701915070944,4288,HTTP Request-0,301,Moved Permanently,Thread Group 1-77,text,true,,535,147,114,114,https://app.niprojmidialysis.com/appointment/dialysis/,4288,0,4273
+1701915075232,366,HTTP Request-1,302,Found,Thread Group 1-77,text,true,,1576,146,114,114,https://app.niprojmidialysis.com/appointment/dialysis,355,0,0
+1701915075598,410,HTTP Request-2,200,OK,Thread Group 1-77,text,true,,4560,126,114,114,https://app.niprojmidialysis.com,398,0,0
+1701915070950,5114,HTTP Request,200,OK,Thread Group 1-79,text,true,,6671,419,113,113,https://app.niprojmidialysis.com,4284,0,4269
+1701915070950,4284,HTTP Request-0,301,Moved Permanently,Thread Group 1-79,text,true,,535,147,113,113,https://app.niprojmidialysis.com/appointment/dialysis/,4284,0,4269
+1701915075234,404,HTTP Request-1,302,Found,Thread Group 1-79,text,true,,1576,146,113,113,https://app.niprojmidialysis.com/appointment/dialysis,394,0,0
+1701915075638,426,HTTP Request-2,200,OK,Thread Group 1-79,text,true,,4560,126,113,113,https://app.niprojmidialysis.com,414,0,0
+1701915070935,5153,HTTP Request,200,OK,Thread Group 1-76,text,true,,6671,419,112,112,https://app.niprojmidialysis.com,4297,0,4281
+1701915070935,4297,HTTP Request-0,301,Moved Permanently,Thread Group 1-76,text,true,,535,147,112,112,https://app.niprojmidialysis.com/appointment/dialysis/,4297,0,4281
+1701915075232,380,HTTP Request-1,302,Found,Thread Group 1-76,text,true,,1576,146,112,112,https://app.niprojmidialysis.com/appointment/dialysis,373,0,0
+1701915075612,476,HTTP Request-2,200,OK,Thread Group 1-76,text,true,,4560,126,112,112,https://app.niprojmidialysis.com,457,0,0
+1701915071019,5113,HTTP Request,200,OK,Thread Group 1-92,text,true,,6671,419,111,111,https://app.niprojmidialysis.com,4505,0,4496
+1701915071019,4505,HTTP Request-0,301,Moved Permanently,Thread Group 1-92,text,true,,535,147,111,111,https://app.niprojmidialysis.com/appointment/dialysis/,4505,0,4496
+1701915075524,305,HTTP Request-1,302,Found,Thread Group 1-92,text,true,,1576,146,111,111,https://app.niprojmidialysis.com/appointment/dialysis,303,0,0
+1701915075829,303,HTTP Request-2,200,OK,Thread Group 1-92,text,true,,4560,126,111,111,https://app.niprojmidialysis.com,298,0,0
+1701915071009,5181,HTTP Request,200,OK,Thread Group 1-90,text,true,,6671,419,110,110,https://app.niprojmidialysis.com,4467,0,4460
+1701915071009,4467,HTTP Request-0,301,Moved Permanently,Thread Group 1-90,text,true,,535,147,110,110,https://app.niprojmidialysis.com/appointment/dialysis/,4467,0,4460
+1701915075477,261,HTTP Request-1,302,Found,Thread Group 1-90,text,true,,1576,146,110,110,https://app.niprojmidialysis.com/appointment/dialysis,254,0,0
+1701915075738,452,HTTP Request-2,200,OK,Thread Group 1-90,text,true,,4560,126,110,110,https://app.niprojmidialysis.com,438,0,0
+1701915071015,5218,HTTP Request,200,OK,Thread Group 1-91,text,true,,6671,419,109,109,https://app.niprojmidialysis.com,4487,0,4476
+1701915071015,4487,HTTP Request-0,301,Moved Permanently,Thread Group 1-91,text,true,,535,147,109,109,https://app.niprojmidialysis.com/appointment/dialysis/,4487,0,4476
+1701915075503,355,HTTP Request-1,302,Found,Thread Group 1-91,text,true,,1576,146,109,109,https://app.niprojmidialysis.com/appointment/dialysis,346,0,0
+1701915075858,375,HTTP Request-2,200,OK,Thread Group 1-91,text,true,,4560,126,109,109,https://app.niprojmidialysis.com,370,0,0
+1701915071040,5225,HTTP Request,200,OK,Thread Group 1-96,text,true,,6671,419,108,108,https://app.niprojmidialysis.com,4597,0,4583
+1701915071040,4598,HTTP Request-0,301,Moved Permanently,Thread Group 1-96,text,true,,535,147,108,108,https://app.niprojmidialysis.com/appointment/dialysis/,4597,0,4583
+1701915075638,333,HTTP Request-1,302,Found,Thread Group 1-96,text,true,,1576,146,108,108,https://app.niprojmidialysis.com/appointment/dialysis,321,0,0
+1701915075971,294,HTTP Request-2,200,OK,Thread Group 1-96,text,true,,4560,126,108,108,https://app.niprojmidialysis.com,289,0,0
+1701915071029,5245,HTTP Request,200,OK,Thread Group 1-94,text,true,,6671,419,107,107,https://app.niprojmidialysis.com,4570,0,4560
+1701915071029,4570,HTTP Request-0,301,Moved Permanently,Thread Group 1-94,text,true,,535,147,107,107,https://app.niprojmidialysis.com/appointment/dialysis/,4570,0,4560
+1701915075599,309,HTTP Request-1,302,Found,Thread Group 1-94,text,true,,1576,146,107,107,https://app.niprojmidialysis.com/appointment/dialysis,300,0,0
+1701915075908,366,HTTP Request-2,200,OK,Thread Group 1-94,text,true,,4560,126,107,107,https://app.niprojmidialysis.com,357,0,0
+1701915071034,5333,HTTP Request,200,OK,Thread Group 1-95,text,true,,6671,419,106,106,https://app.niprojmidialysis.com,4605,0,4597
+1701915071034,4605,HTTP Request-0,301,Moved Permanently,Thread Group 1-95,text,true,,535,147,106,106,https://app.niprojmidialysis.com/appointment/dialysis/,4605,0,4597
+1701915075639,444,HTTP Request-1,302,Found,Thread Group 1-95,text,true,,1576,146,106,106,https://app.niprojmidialysis.com/appointment/dialysis,425,0,0
+1701915076083,284,HTTP Request-2,200,OK,Thread Group 1-95,text,true,,4560,126,106,106,https://app.niprojmidialysis.com,277,0,0
+1701915071019,5357,HTTP Request,200,OK,Thread Group 1-93,text,true,,6671,419,105,105,https://app.niprojmidialysis.com,4580,0,4570
+1701915071019,4580,HTTP Request-0,301,Moved Permanently,Thread Group 1-93,text,true,,535,147,105,105,https://app.niprojmidialysis.com/appointment/dialysis/,4580,0,4570
+1701915075599,344,HTTP Request-1,302,Found,Thread Group 1-93,text,true,,1576,146,105,105,https://app.niprojmidialysis.com/appointment/dialysis,328,0,0
+1701915075944,432,HTTP Request-2,200,OK,Thread Group 1-93,text,true,,4560,126,105,105,https://app.niprojmidialysis.com,410,0,0
+1701915071050,5339,HTTP Request,200,OK,Thread Group 1-98,text,true,,6671,419,104,104,https://app.niprojmidialysis.com,4625,0,4619
+1701915071050,4625,HTTP Request-0,301,Moved Permanently,Thread Group 1-98,text,true,,535,147,104,104,https://app.niprojmidialysis.com/appointment/dialysis/,4625,0,4619
+1701915075675,333,HTTP Request-1,302,Found,Thread Group 1-98,text,true,,1576,146,104,104,https://app.niprojmidialysis.com/appointment/dialysis,323,0,0
+1701915076008,381,HTTP Request-2,200,OK,Thread Group 1-98,text,true,,4560,126,104,104,https://app.niprojmidialysis.com,381,0,0
+1701915071042,5408,HTTP Request,200,OK,Thread Group 1-97,text,true,,6671,419,103,103,https://app.niprojmidialysis.com,4615,0,4598
+1701915071042,4615,HTTP Request-0,301,Moved Permanently,Thread Group 1-97,text,true,,535,147,103,103,https://app.niprojmidialysis.com/appointment/dialysis/,4615,0,4598
+1701915075657,286,HTTP Request-1,302,Found,Thread Group 1-97,text,true,,1576,146,103,103,https://app.niprojmidialysis.com/appointment/dialysis,279,0,0
+1701915075944,506,HTTP Request-2,200,OK,Thread Group 1-97,text,true,,4560,126,103,103,https://app.niprojmidialysis.com,493,0,0
+1701915071054,5484,HTTP Request,200,OK,Thread Group 1-99,text,true,,6671,419,102,102,https://app.niprojmidialysis.com,4788,0,4779
+1701915071054,4788,HTTP Request-0,301,Moved Permanently,Thread Group 1-99,text,true,,535,147,102,102,https://app.niprojmidialysis.com/appointment/dialysis/,4788,0,4779
+1701915075842,351,HTTP Request-1,302,Found,Thread Group 1-99,text,true,,1576,146,102,102,https://app.niprojmidialysis.com/appointment/dialysis,332,0,0
+1701915076194,344,HTTP Request-2,200,OK,Thread Group 1-99,text,true,,4560,126,102,102,https://app.niprojmidialysis.com,339,0,0
+1701915071060,5493,HTTP Request,200,OK,Thread Group 1-100,text,true,,6671,419,101,101,https://app.niprojmidialysis.com,4783,0,4773
+1701915071060,4783,HTTP Request-0,301,Moved Permanently,Thread Group 1-100,text,true,,535,147,101,101,https://app.niprojmidialysis.com/appointment/dialysis/,4783,0,4773
+1701915075843,333,HTTP Request-1,302,Found,Thread Group 1-100,text,true,,1576,146,101,101,https://app.niprojmidialysis.com/appointment/dialysis,320,0,0
+1701915076176,377,HTTP Request-2,200,OK,Thread Group 1-100,text,true,,4560,126,101,101,https://app.niprojmidialysis.com,364,0,0
+1701915071084,5514,HTTP Request,200,OK,Thread Group 1-105,text,true,,6671,419,100,100,https://app.niprojmidialysis.com,4778,0,4767
+1701915071064,5534,HTTP Request,200,OK,Thread Group 1-101,text,true,,6671,419,100,100,https://app.niprojmidialysis.com,4785,0,4777
+1701915071064,4785,HTTP Request-0,301,Moved Permanently,Thread Group 1-101,text,true,,535,147,100,100,https://app.niprojmidialysis.com/appointment/dialysis/,4785,0,4777
+1701915075849,341,HTTP Request-1,302,Found,Thread Group 1-101,text,true,,1576,146,100,100,https://app.niprojmidialysis.com/appointment/dialysis,327,0,0
+1701915071084,4778,HTTP Request-0,301,Moved Permanently,Thread Group 1-105,text,true,,535,147,100,100,https://app.niprojmidialysis.com/appointment/dialysis/,4778,0,4767
+1701915076190,408,HTTP Request-2,200,OK,Thread Group 1-101,text,true,,4560,126,100,100,https://app.niprojmidialysis.com,408,0,0
+1701915075862,387,HTTP Request-1,302,Found,Thread Group 1-105,text,true,,1576,146,100,100,https://app.niprojmidialysis.com/appointment/dialysis,381,0,0
+1701915076249,349,HTTP Request-2,200,OK,Thread Group 1-105,text,true,,4560,126,100,100,https://app.niprojmidialysis.com,348,0,0
+1701915071074,5545,HTTP Request,200,OK,Thread Group 1-103,text,true,,6671,419,98,98,https://app.niprojmidialysis.com,4775,0,4767
+1701915071074,4775,HTTP Request-0,301,Moved Permanently,Thread Group 1-103,text,true,,535,147,98,98,https://app.niprojmidialysis.com/appointment/dialysis/,4775,0,4767
+1701915075849,399,HTTP Request-1,302,Found,Thread Group 1-103,text,true,,1576,146,98,98,https://app.niprojmidialysis.com/appointment/dialysis,399,0,0
+1701915076248,371,HTTP Request-2,200,OK,Thread Group 1-103,text,true,,4560,126,98,98,https://app.niprojmidialysis.com,351,0,0
+1701915071119,5508,HTTP Request,200,OK,Thread Group 1-112,text,true,,6671,419,97,97,https://app.niprojmidialysis.com,4817,0,4808
+1701915071119,4817,HTTP Request-0,301,Moved Permanently,Thread Group 1-112,text,true,,535,147,97,97,https://app.niprojmidialysis.com/appointment/dialysis/,4817,0,4808
+1701915075936,349,HTTP Request-1,302,Found,Thread Group 1-112,text,true,,1576,146,97,97,https://app.niprojmidialysis.com/appointment/dialysis,334,0,0
+1701915076285,342,HTTP Request-2,200,OK,Thread Group 1-112,text,true,,4560,126,97,97,https://app.niprojmidialysis.com,318,0,0
+1701915071133,5499,HTTP Request,200,OK,Thread Group 1-115,text,true,,6671,419,96,96,https://app.niprojmidialysis.com,4816,0,4810
+1701915071133,4816,HTTP Request-0,301,Moved Permanently,Thread Group 1-115,text,true,,535,147,96,96,https://app.niprojmidialysis.com/appointment/dialysis/,4816,0,4810
+1701915075949,336,HTTP Request-1,302,Found,Thread Group 1-115,text,true,,1576,146,96,96,https://app.niprojmidialysis.com/appointment/dialysis,308,0,0
+1701915076285,347,HTTP Request-2,200,OK,Thread Group 1-115,text,true,,4560,126,96,96,https://app.niprojmidialysis.com,342,0,0
+1701915071069,5563,HTTP Request,200,OK,Thread Group 1-102,text,true,,6671,419,95,95,https://app.niprojmidialysis.com,4780,0,4772
+1701915071069,4780,HTTP Request-0,301,Moved Permanently,Thread Group 1-102,text,true,,535,147,95,95,https://app.niprojmidialysis.com/appointment/dialysis/,4780,0,4772
+1701915075849,363,HTTP Request-1,302,Found,Thread Group 1-102,text,true,,1576,146,95,95,https://app.niprojmidialysis.com/appointment/dialysis,345,0,0
+1701915076212,420,HTTP Request-2,200,OK,Thread Group 1-102,text,true,,4560,126,95,95,https://app.niprojmidialysis.com,417,0,0
+1701915071095,5594,HTTP Request,200,OK,Thread Group 1-107,text,true,,6671,419,94,94,https://app.niprojmidialysis.com,4813,0,4796
+1701915071095,4813,HTTP Request-0,301,Moved Permanently,Thread Group 1-107,text,true,,535,147,94,94,https://app.niprojmidialysis.com/appointment/dialysis/,4813,0,4796
+1701915075908,402,HTTP Request-1,302,Found,Thread Group 1-107,text,true,,1576,146,94,94,https://app.niprojmidialysis.com/appointment/dialysis,402,0,0
+1701915076310,379,HTTP Request-2,200,OK,Thread Group 1-107,text,true,,4560,126,94,94,https://app.niprojmidialysis.com,326,0,0
+1701915071098,5591,HTTP Request,200,OK,Thread Group 1-108,text,true,,6671,419,94,94,https://app.niprojmidialysis.com,4810,0,4797
+1701915071098,4810,HTTP Request-0,301,Moved Permanently,Thread Group 1-108,text,true,,535,147,94,94,https://app.niprojmidialysis.com/appointment/dialysis/,4810,0,4797
+1701915075908,483,HTTP Request-1,302,Found,Thread Group 1-108,text,true,,1576,146,94,94,https://app.niprojmidialysis.com/appointment/dialysis,462,0,0
+1701915076391,298,HTTP Request-2,200,OK,Thread Group 1-108,text,true,,4560,126,94,94,https://app.niprojmidialysis.com,298,0,0
+1701915071114,5592,HTTP Request,200,OK,Thread Group 1-111,text,true,,6671,419,92,92,https://app.niprojmidialysis.com,4818,0,4808
+1701915071114,4818,HTTP Request-0,301,Moved Permanently,Thread Group 1-111,text,true,,535,147,92,92,https://app.niprojmidialysis.com/appointment/dialysis/,4818,0,4808
+1701915075932,378,HTTP Request-1,302,Found,Thread Group 1-111,text,true,,1576,146,92,92,https://app.niprojmidialysis.com/appointment/dialysis,361,0,0
+1701915076310,396,HTTP Request-2,200,OK,Thread Group 1-111,text,true,,4560,126,92,92,https://app.niprojmidialysis.com,396,0,0
+1701915071125,5595,HTTP Request,200,OK,Thread Group 1-114,text,true,,6671,419,91,91,https://app.niprojmidialysis.com,4819,0,4811
+1701915071125,4819,HTTP Request-0,301,Moved Permanently,Thread Group 1-114,text,true,,535,147,91,91,https://app.niprojmidialysis.com/appointment/dialysis/,4819,0,4811
+1701915075944,268,HTTP Request-1,302,Found,Thread Group 1-114,text,true,,1576,146,91,91,https://app.niprojmidialysis.com/appointment/dialysis,260,0,0
+1701915076212,508,HTTP Request-2,200,OK,Thread Group 1-114,text,true,,4560,126,91,91,https://app.niprojmidialysis.com,494,0,0
+1701915071123,5623,HTTP Request,200,OK,Thread Group 1-113,text,true,,6671,419,90,90,https://app.niprojmidialysis.com,4819,0,4809
+1701915071123,4819,HTTP Request-0,301,Moved Permanently,Thread Group 1-113,text,true,,535,147,90,90,https://app.niprojmidialysis.com/appointment/dialysis/,4819,0,4809
+1701915075942,425,HTTP Request-1,302,Found,Thread Group 1-113,text,true,,1576,146,90,90,https://app.niprojmidialysis.com/appointment/dialysis,401,0,0
+1701915076367,379,HTTP Request-2,200,OK,Thread Group 1-113,text,true,,4560,126,90,90,https://app.niprojmidialysis.com,377,0,0
+1701915071104,5642,HTTP Request,200,OK,Thread Group 1-109,text,true,,6671,419,90,90,https://app.niprojmidialysis.com,4822,0,4805
+1701915071104,4822,HTTP Request-0,301,Moved Permanently,Thread Group 1-109,text,true,,535,147,90,90,https://app.niprojmidialysis.com/appointment/dialysis/,4822,0,4805
+1701915075926,480,HTTP Request-1,302,Found,Thread Group 1-109,text,true,,1576,146,90,90,https://app.niprojmidialysis.com/appointment/dialysis,462,0,0
+1701915076406,340,HTTP Request-2,200,OK,Thread Group 1-109,text,true,,4560,126,90,90,https://app.niprojmidialysis.com,338,0,0
+1701915071104,5644,HTTP Request,200,OK,Thread Group 1-110,text,true,,6671,419,88,88,https://app.niprojmidialysis.com,4822,0,4805
+1701915071104,4822,HTTP Request-0,301,Moved Permanently,Thread Group 1-110,text,true,,535,147,88,88,https://app.niprojmidialysis.com/appointment/dialysis/,4822,0,4805
+1701915075926,464,HTTP Request-1,302,Found,Thread Group 1-110,text,true,,1576,146,88,88,https://app.niprojmidialysis.com/appointment/dialysis,461,0,0
+1701915076390,358,HTTP Request-2,200,OK,Thread Group 1-110,text,true,,4560,126,88,88,https://app.niprojmidialysis.com,355,0,0
+1701915071088,5671,HTTP Request,200,OK,Thread Group 1-106,text,true,,6671,419,87,87,https://app.niprojmidialysis.com,4786,0,4774
+1701915071088,4786,HTTP Request-0,301,Moved Permanently,Thread Group 1-106,text,true,,535,147,87,87,https://app.niprojmidialysis.com/appointment/dialysis/,4786,0,4774
+1701915075874,411,HTTP Request-1,302,Found,Thread Group 1-106,text,true,,1576,146,87,87,https://app.niprojmidialysis.com/appointment/dialysis,391,0,0
+1701915076285,474,HTTP Request-2,200,OK,Thread Group 1-106,text,true,,4560,126,87,87,https://app.niprojmidialysis.com,463,0,0
+1701915071146,5622,HTTP Request,200,OK,Thread Group 1-117,text,true,,6671,419,86,86,https://app.niprojmidialysis.com,4834,0,4827
+1701915071146,4834,HTTP Request-0,301,Moved Permanently,Thread Group 1-117,text,true,,535,147,86,86,https://app.niprojmidialysis.com/appointment/dialysis/,4834,0,4827
+1701915075980,360,HTTP Request-1,302,Found,Thread Group 1-117,text,true,,1576,146,86,86,https://app.niprojmidialysis.com/appointment/dialysis,350,0,0
+1701915076341,427,HTTP Request-2,200,OK,Thread Group 1-117,text,true,,4560,126,86,86,https://app.niprojmidialysis.com,418,0,0
+1701915071139,5716,HTTP Request,200,OK,Thread Group 1-116,text,true,,6671,419,85,85,https://app.niprojmidialysis.com,4848,0,4833
+1701915071139,4848,HTTP Request-0,301,Moved Permanently,Thread Group 1-116,text,true,,535,147,85,85,https://app.niprojmidialysis.com/appointment/dialysis/,4848,0,4833
+1701915075987,463,HTTP Request-1,302,Found,Thread Group 1-116,text,true,,1576,146,85,85,https://app.niprojmidialysis.com/appointment/dialysis,438,0,0
+1701915076450,405,HTTP Request-2,200,OK,Thread Group 1-116,text,true,,4560,126,85,85,https://app.niprojmidialysis.com,360,0,0
+1701915071155,5710,HTTP Request,200,OK,Thread Group 1-120,text,true,,6671,419,84,84,https://app.niprojmidialysis.com,4843,0,4832
+1701915071155,4843,HTTP Request-0,301,Moved Permanently,Thread Group 1-120,text,true,,535,147,84,84,https://app.niprojmidialysis.com/appointment/dialysis/,4843,0,4832
+1701915075998,456,HTTP Request-1,302,Found,Thread Group 1-120,text,true,,1576,146,84,84,https://app.niprojmidialysis.com/appointment/dialysis,452,0,0
+1701915076454,411,HTTP Request-2,200,OK,Thread Group 1-120,text,true,,4560,126,84,84,https://app.niprojmidialysis.com,411,0,0
+1701915071155,5727,HTTP Request,200,OK,Thread Group 1-119,text,true,,6671,419,83,83,https://app.niprojmidialysis.com,4874,0,4861
+1701915071155,4874,HTTP Request-0,301,Moved Permanently,Thread Group 1-119,text,true,,535,147,83,83,https://app.niprojmidialysis.com/appointment/dialysis/,4874,0,4861
+1701915076029,382,HTTP Request-1,302,Found,Thread Group 1-119,text,true,,1576,146,83,83,https://app.niprojmidialysis.com/appointment/dialysis,362,0,0
+1701915076411,471,HTTP Request-2,200,OK,Thread Group 1-119,text,true,,4560,126,83,83,https://app.niprojmidialysis.com,471,0,0
+1701915071164,5729,HTTP Request,200,OK,Thread Group 1-121,text,true,,6671,419,82,82,https://app.niprojmidialysis.com,4924,0,4916
+1701915071164,4924,HTTP Request-0,301,Moved Permanently,Thread Group 1-121,text,true,,535,147,82,82,https://app.niprojmidialysis.com/appointment/dialysis/,4924,0,4916
+1701915076088,450,HTTP Request-1,302,Found,Thread Group 1-121,text,true,,1576,146,82,82,https://app.niprojmidialysis.com/appointment/dialysis,433,0,0
+1701915076538,355,HTTP Request-2,200,OK,Thread Group 1-121,text,true,,4560,126,82,82,https://app.niprojmidialysis.com,355,0,0
+1701915071170,5748,HTTP Request,200,OK,Thread Group 1-123,text,true,,6671,419,81,81,https://app.niprojmidialysis.com,4980,0,4972
+1701915071170,4980,HTTP Request-0,301,Moved Permanently,Thread Group 1-123,text,true,,535,147,81,81,https://app.niprojmidialysis.com/appointment/dialysis/,4980,0,4972
+1701915076150,342,HTTP Request-1,302,Found,Thread Group 1-123,text,true,,1576,146,81,81,https://app.niprojmidialysis.com/appointment/dialysis,325,0,0
+1701915076493,425,HTTP Request-2,200,OK,Thread Group 1-123,text,true,,4560,126,81,81,https://app.niprojmidialysis.com,400,0,0
+1701915071150,5788,HTTP Request,200,OK,Thread Group 1-118,text,true,,6671,419,80,80,https://app.niprojmidialysis.com,4841,0,4834
+1701915071150,4841,HTTP Request-0,301,Moved Permanently,Thread Group 1-118,text,true,,535,147,80,80,https://app.niprojmidialysis.com/appointment/dialysis/,4841,0,4834
+1701915075991,428,HTTP Request-1,302,Found,Thread Group 1-118,text,true,,1576,146,80,80,https://app.niprojmidialysis.com/appointment/dialysis,421,0,0
+1701915076419,519,HTTP Request-2,200,OK,Thread Group 1-118,text,true,,4560,126,80,80,https://app.niprojmidialysis.com,498,0,0
+1701915071079,5893,HTTP Request,200,OK,Thread Group 1-104,text,true,,6671,419,79,79,https://app.niprojmidialysis.com,4783,0,4772
+1701915071079,4783,HTTP Request-0,301,Moved Permanently,Thread Group 1-104,text,true,,535,147,79,79,https://app.niprojmidialysis.com/appointment/dialysis/,4783,0,4772
+1701915075862,423,HTTP Request-1,302,Found,Thread Group 1-104,text,true,,1576,146,79,79,https://app.niprojmidialysis.com/appointment/dialysis,391,0,0
+1701915076285,687,HTTP Request-2,200,OK,Thread Group 1-104,text,true,,4560,126,79,79,https://app.niprojmidialysis.com,684,0,0
+1701915071184,5848,HTTP Request,200,OK,Thread Group 1-125,text,true,,6671,419,78,78,https://app.niprojmidialysis.com,5044,0,5036
+1701915071184,5044,HTTP Request-0,301,Moved Permanently,Thread Group 1-125,text,true,,535,147,78,78,https://app.niprojmidialysis.com/appointment/dialysis/,5044,0,5036
+1701915076228,347,HTTP Request-1,302,Found,Thread Group 1-125,text,true,,1576,146,78,78,https://app.niprojmidialysis.com/appointment/dialysis,327,0,0
+1701915076575,457,HTTP Request-2,200,OK,Thread Group 1-125,text,true,,4560,126,78,78,https://app.niprojmidialysis.com,446,0,0
+1701915071169,5917,HTTP Request,200,OK,Thread Group 1-122,text,true,,6671,419,77,77,https://app.niprojmidialysis.com,4937,0,4929
+1701915071169,4937,HTTP Request-0,301,Moved Permanently,Thread Group 1-122,text,true,,535,147,77,77,https://app.niprojmidialysis.com/appointment/dialysis/,4937,0,4929
+1701915076106,469,HTTP Request-1,302,Found,Thread Group 1-122,text,true,,1576,146,77,77,https://app.niprojmidialysis.com/appointment/dialysis,435,0,0
+1701915076575,511,HTTP Request-2,200,OK,Thread Group 1-122,text,true,,4560,126,77,77,https://app.niprojmidialysis.com,500,0,0
+1701915071199,5909,HTTP Request,200,OK,Thread Group 1-128,text,true,,6671,419,76,76,https://app.niprojmidialysis.com,5095,0,5087
+1701915071179,5929,HTTP Request,200,OK,Thread Group 1-124,text,true,,6671,419,76,76,https://app.niprojmidialysis.com,5040,0,5030
+1701915071199,5095,HTTP Request-0,301,Moved Permanently,Thread Group 1-128,text,true,,535,147,76,76,https://app.niprojmidialysis.com/appointment/dialysis/,5095,0,5087
+1701915071179,5040,HTTP Request-0,301,Moved Permanently,Thread Group 1-124,text,true,,535,147,76,76,https://app.niprojmidialysis.com/appointment/dialysis/,5040,0,5030
+1701915076294,304,HTTP Request-1,302,Found,Thread Group 1-128,text,true,,1576,146,76,76,https://app.niprojmidialysis.com/appointment/dialysis,303,0,0
+1701915076219,341,HTTP Request-1,302,Found,Thread Group 1-124,text,true,,1576,146,76,76,https://app.niprojmidialysis.com/appointment/dialysis,334,0,0
+1701915076598,510,HTTP Request-2,200,OK,Thread Group 1-128,text,true,,4560,126,76,76,https://app.niprojmidialysis.com,506,0,0
+1701915076560,548,HTTP Request-2,200,OK,Thread Group 1-124,text,true,,4560,126,76,76,https://app.niprojmidialysis.com,544,0,0
+1701915071194,6035,HTTP Request,200,OK,Thread Group 1-127,text,true,,6671,419,74,74,https://app.niprojmidialysis.com,5058,0,5050
+1701915071194,5058,HTTP Request-0,301,Moved Permanently,Thread Group 1-127,text,true,,535,147,74,74,https://app.niprojmidialysis.com/appointment/dialysis/,5058,0,5050
+1701915076252,469,HTTP Request-1,302,Found,Thread Group 1-127,text,true,,1576,146,74,74,https://app.niprojmidialysis.com/appointment/dialysis,467,0,0
+1701915076721,508,HTTP Request-2,200,OK,Thread Group 1-127,text,true,,4560,126,74,74,https://app.niprojmidialysis.com,492,0,0
+1701915071209,6058,HTTP Request,200,OK,Thread Group 1-130,text,true,,6671,419,73,73,https://app.niprojmidialysis.com,5180,0,5168
+1701915071209,5180,HTTP Request-0,301,Moved Permanently,Thread Group 1-130,text,true,,535,147,73,73,https://app.niprojmidialysis.com/appointment/dialysis/,5180,0,5168
+1701915076389,392,HTTP Request-1,302,Found,Thread Group 1-130,text,true,,1576,146,73,73,https://app.niprojmidialysis.com/appointment/dialysis,383,0,0
+1701915076781,486,HTTP Request-2,200,OK,Thread Group 1-130,text,true,,4560,126,73,73,https://app.niprojmidialysis.com,467,0,0
+1701915071190,6127,HTTP Request,200,OK,Thread Group 1-126,text,true,,6671,419,72,72,https://app.niprojmidialysis.com,5108,0,5096
+1701915071190,5108,HTTP Request-0,301,Moved Permanently,Thread Group 1-126,text,true,,535,147,72,72,https://app.niprojmidialysis.com/appointment/dialysis/,5108,0,5096
+1701915076298,483,HTTP Request-1,302,Found,Thread Group 1-126,text,true,,1576,146,72,72,https://app.niprojmidialysis.com/appointment/dialysis,467,0,0
+1701915076781,536,HTTP Request-2,200,OK,Thread Group 1-126,text,true,,4560,126,72,72,https://app.niprojmidialysis.com,503,0,0
+1701915071214,6214,HTTP Request,200,OK,Thread Group 1-131,text,true,,6671,419,71,71,https://app.niprojmidialysis.com,5182,0,5175
+1701915071214,5182,HTTP Request-0,301,Moved Permanently,Thread Group 1-131,text,true,,535,147,71,71,https://app.niprojmidialysis.com/appointment/dialysis/,5182,0,5175
+1701915076397,453,HTTP Request-1,302,Found,Thread Group 1-131,text,true,,1576,146,71,71,https://app.niprojmidialysis.com/appointment/dialysis,450,0,0
+1701915076850,578,HTTP Request-2,200,OK,Thread Group 1-131,text,true,,4560,126,71,71,https://app.niprojmidialysis.com,557,0,0
+1701915071204,6225,HTTP Request,200,OK,Thread Group 1-129,text,true,,6671,419,71,71,https://app.niprojmidialysis.com,5106,0,5093
+1701915071204,5106,HTTP Request-0,301,Moved Permanently,Thread Group 1-129,text,true,,535,147,71,71,https://app.niprojmidialysis.com/appointment/dialysis/,5106,0,5093
+1701915076310,499,HTTP Request-1,302,Found,Thread Group 1-129,text,true,,1576,146,71,71,https://app.niprojmidialysis.com/appointment/dialysis,493,0,0
+1701915076810,619,HTTP Request-2,200,OK,Thread Group 1-129,text,true,,4560,126,71,71,https://app.niprojmidialysis.com,605,0,0
+1701915071219,6263,HTTP Request,200,OK,Thread Group 1-132,text,true,,6671,419,69,69,https://app.niprojmidialysis.com,5256,0,5242
+1701915071219,5256,HTTP Request-0,301,Moved Permanently,Thread Group 1-132,text,true,,535,147,69,69,https://app.niprojmidialysis.com/appointment/dialysis/,5256,0,5242
+1701915076475,407,HTTP Request-1,302,Found,Thread Group 1-132,text,true,,1576,146,69,69,https://app.niprojmidialysis.com/appointment/dialysis,406,0,0
+1701915076882,600,HTTP Request-2,200,OK,Thread Group 1-132,text,true,,4560,126,69,69,https://app.niprojmidialysis.com,579,0,0
+1701915071221,6295,HTTP Request,200,OK,Thread Group 1-133,text,true,,6671,419,68,68,https://app.niprojmidialysis.com,5185,0,5180
+1701915071221,5185,HTTP Request-0,301,Moved Permanently,Thread Group 1-133,text,true,,535,147,68,68,https://app.niprojmidialysis.com/appointment/dialysis/,5185,0,5180
+1701915076406,475,HTTP Request-1,302,Found,Thread Group 1-133,text,true,,1576,146,68,68,https://app.niprojmidialysis.com/appointment/dialysis,459,0,0
+1701915076882,634,HTTP Request-2,200,OK,Thread Group 1-133,text,true,,4560,126,68,68,https://app.niprojmidialysis.com,600,0,0
+1701915071266,6404,HTTP Request,200,OK,Thread Group 1-141,text,true,,6671,419,67,67,https://app.niprojmidialysis.com,5332,0,5310
+1701915071266,5332,HTTP Request-0,301,Moved Permanently,Thread Group 1-141,text,true,,535,147,67,67,https://app.niprojmidialysis.com/appointment/dialysis/,5332,0,5310
+1701915076598,390,HTTP Request-1,302,Found,Thread Group 1-141,text,true,,1576,146,67,67,https://app.niprojmidialysis.com/appointment/dialysis,380,0,0
+1701915076988,682,HTTP Request-2,200,OK,Thread Group 1-141,text,true,,4560,126,67,67,https://app.niprojmidialysis.com,665,0,0
+1701915071229,6489,HTTP Request,200,OK,Thread Group 1-134,text,true,,6671,419,66,66,https://app.niprojmidialysis.com,5270,0,5262
+1701915071229,5270,HTTP Request-0,301,Moved Permanently,Thread Group 1-134,text,true,,535,147,66,66,https://app.niprojmidialysis.com/appointment/dialysis/,5270,0,5262
+1701915076500,586,HTTP Request-1,302,Found,Thread Group 1-134,text,true,,1576,146,66,66,https://app.niprojmidialysis.com/appointment/dialysis,532,0,0
+1701915077086,632,HTTP Request-2,200,OK,Thread Group 1-134,text,true,,4560,126,66,66,https://app.niprojmidialysis.com,590,0,0
+1701915071267,6452,HTTP Request,200,OK,Thread Group 1-142,text,true,,6671,419,65,65,https://app.niprojmidialysis.com,5352,0,5343
+1701915071267,5352,HTTP Request-0,301,Moved Permanently,Thread Group 1-142,text,true,,535,147,65,65,https://app.niprojmidialysis.com/appointment/dialysis/,5352,0,5343
+1701915076619,402,HTTP Request-1,302,Found,Thread Group 1-142,text,true,,1576,146,65,65,https://app.niprojmidialysis.com/appointment/dialysis,369,0,0
+1701915077021,698,HTTP Request-2,200,OK,Thread Group 1-142,text,true,,4560,126,65,65,https://app.niprojmidialysis.com,683,0,0
+1701915071298,6433,HTTP Request,200,OK,Thread Group 1-148,text,true,,6671,419,64,64,https://app.niprojmidialysis.com,5481,0,5451
+1701915071298,5481,HTTP Request-0,301,Moved Permanently,Thread Group 1-148,text,true,,535,147,64,64,https://app.niprojmidialysis.com/appointment/dialysis/,5481,0,5451
+1701915076779,468,HTTP Request-1,302,Found,Thread Group 1-148,text,true,,1576,146,64,64,https://app.niprojmidialysis.com/appointment/dialysis,434,0,0
+1701915077247,484,HTTP Request-2,200,OK,Thread Group 1-148,text,true,,4560,126,64,64,https://app.niprojmidialysis.com,446,0,0
+1701915071284,6467,HTTP Request,200,OK,Thread Group 1-145,text,true,,6671,419,63,63,https://app.niprojmidialysis.com,5335,0,5327
+1701915071284,5335,HTTP Request-0,301,Moved Permanently,Thread Group 1-145,text,true,,535,147,63,63,https://app.niprojmidialysis.com/appointment/dialysis/,5335,0,5327
+1701915076619,468,HTTP Request-1,302,Found,Thread Group 1-145,text,true,,1576,146,63,63,https://app.niprojmidialysis.com/appointment/dialysis,467,0,0
+1701915077087,664,HTTP Request-2,200,OK,Thread Group 1-145,text,true,,4560,126,63,63,https://app.niprojmidialysis.com,645,0,0
+1701915071230,6554,HTTP Request,200,OK,Thread Group 1-135,text,true,,6671,419,62,62,https://app.niprojmidialysis.com,5458,0,5406
+1701915071230,5458,HTTP Request-0,301,Moved Permanently,Thread Group 1-135,text,true,,535,147,62,62,https://app.niprojmidialysis.com/appointment/dialysis/,5458,0,5406
+1701915076688,442,HTTP Request-1,302,Found,Thread Group 1-135,text,true,,1576,146,62,62,https://app.niprojmidialysis.com/appointment/dialysis,420,0,0
+1701915077130,654,HTTP Request-2,200,OK,Thread Group 1-135,text,true,,4560,126,62,62,https://app.niprojmidialysis.com,625,0,0
+1701915071259,6597,HTTP Request,200,OK,Thread Group 1-140,text,true,,6671,419,61,61,https://app.niprojmidialysis.com,5302,0,5295
+1701915071259,5302,HTTP Request-0,301,Moved Permanently,Thread Group 1-140,text,true,,535,147,61,61,https://app.niprojmidialysis.com/appointment/dialysis/,5302,0,5295
+1701915076561,514,HTTP Request-1,302,Found,Thread Group 1-140,text,true,,1576,146,61,61,https://app.niprojmidialysis.com/appointment/dialysis,471,0,0
+1701915077075,781,HTTP Request-2,200,OK,Thread Group 1-140,text,true,,4560,126,61,61,https://app.niprojmidialysis.com,746,0,0
+1701915071239,6628,HTTP Request,200,OK,Thread Group 1-136,text,true,,6671,419,60,60,https://app.niprojmidialysis.com,5449,0,5398
+1701915071239,5449,HTTP Request-0,301,Moved Permanently,Thread Group 1-136,text,true,,535,147,60,60,https://app.niprojmidialysis.com/appointment/dialysis/,5449,0,5398
+1701915076688,579,HTTP Request-1,302,Found,Thread Group 1-136,text,true,,1576,146,60,60,https://app.niprojmidialysis.com/appointment/dialysis,560,0,0
+1701915077267,600,HTTP Request-2,200,OK,Thread Group 1-136,text,true,,4560,126,60,60,https://app.niprojmidialysis.com,574,0,0
+1701915071251,6658,HTTP Request,200,OK,Thread Group 1-139,text,true,,6671,419,59,59,https://app.niprojmidialysis.com,5504,0,5469
+1701915071251,5504,HTTP Request-0,301,Moved Permanently,Thread Group 1-139,text,true,,535,147,59,59,https://app.niprojmidialysis.com/appointment/dialysis/,5504,0,5469
+1701915076755,468,HTTP Request-1,302,Found,Thread Group 1-139,text,true,,1576,146,59,59,https://app.niprojmidialysis.com/appointment/dialysis,458,0,0
+1701915077223,686,HTTP Request-2,200,OK,Thread Group 1-139,text,true,,4560,126,59,59,https://app.niprojmidialysis.com,648,0,0
+1701915071511,6419,HTTP Request,200,OK,Thread Group 1-191,text,true,,6671,419,58,58,https://app.niprojmidialysis.com,5344,0,5275
+1701915071511,5344,HTTP Request-0,301,Moved Permanently,Thread Group 1-191,text,true,,535,147,58,58,https://app.niprojmidialysis.com/appointment/dialysis/,5344,0,5275
+1701915076855,537,HTTP Request-1,302,Found,Thread Group 1-191,text,true,,1576,146,58,58,https://app.niprojmidialysis.com/appointment/dialysis,523,0,0
+1701915077392,538,HTTP Request-2,200,OK,Thread Group 1-191,text,true,,4560,126,58,58,https://app.niprojmidialysis.com,518,0,0
+1701915071244,6686,HTTP Request,200,OK,Thread Group 1-138,text,true,,6671,419,58,58,https://app.niprojmidialysis.com,5511,0,5476
+1701915071244,5511,HTTP Request-0,301,Moved Permanently,Thread Group 1-138,text,true,,535,147,58,58,https://app.niprojmidialysis.com/appointment/dialysis/,5511,0,5476
+1701915076755,493,HTTP Request-1,302,Found,Thread Group 1-138,text,true,,1576,146,58,58,https://app.niprojmidialysis.com/appointment/dialysis,471,0,0
+1701915077248,682,HTTP Request-2,200,OK,Thread Group 1-138,text,true,,4560,126,58,58,https://app.niprojmidialysis.com,663,0,0
+1701915071309,6635,HTTP Request,200,OK,Thread Group 1-151,text,true,,6671,419,56,56,https://app.niprojmidialysis.com,5476,0,5447
+1701915071309,5476,HTTP Request-0,301,Moved Permanently,Thread Group 1-151,text,true,,535,147,56,56,https://app.niprojmidialysis.com/appointment/dialysis/,5476,0,5447
+1701915076785,572,HTTP Request-1,302,Found,Thread Group 1-151,text,true,,1576,146,56,56,https://app.niprojmidialysis.com/appointment/dialysis,545,0,0
+1701915077357,587,HTTP Request-2,200,OK,Thread Group 1-151,text,true,,4560,126,56,56,https://app.niprojmidialysis.com,573,0,0
+1701915071244,6703,HTTP Request,200,OK,Thread Group 1-137,text,true,,6671,419,55,55,https://app.niprojmidialysis.com,5475,0,5445
+1701915071244,5475,HTTP Request-0,301,Moved Permanently,Thread Group 1-137,text,true,,535,147,55,55,https://app.niprojmidialysis.com/appointment/dialysis/,5475,0,5445
+1701915076719,440,HTTP Request-1,302,Found,Thread Group 1-137,text,true,,1576,146,55,55,https://app.niprojmidialysis.com/appointment/dialysis,433,0,0
+1701915077159,788,HTTP Request-2,200,OK,Thread Group 1-137,text,true,,4560,126,55,55,https://app.niprojmidialysis.com,771,0,0
+1701915071304,6651,HTTP Request,200,OK,Thread Group 1-149,text,true,,6671,419,54,54,https://app.niprojmidialysis.com,5482,0,5456
+1701915071304,5482,HTTP Request-0,301,Moved Permanently,Thread Group 1-149,text,true,,535,147,54,54,https://app.niprojmidialysis.com/appointment/dialysis/,5482,0,5456
+1701915076786,544,HTTP Request-1,302,Found,Thread Group 1-149,text,true,,1576,146,54,54,https://app.niprojmidialysis.com/appointment/dialysis,507,0,0
+1701915077330,625,HTTP Request-2,200,OK,Thread Group 1-149,text,true,,4560,126,54,54,https://app.niprojmidialysis.com,608,0,0
+1701915071550,6465,HTTP Request,200,OK,Thread Group 1-199,text,true,,6671,419,53,53,https://app.niprojmidialysis.com,5254,0,5222
+1701915071550,5254,HTTP Request-0,301,Moved Permanently,Thread Group 1-199,text,true,,535,147,53,53,https://app.niprojmidialysis.com/appointment/dialysis/,5254,0,5222
+1701915076804,358,HTTP Request-1,302,Found,Thread Group 1-199,text,true,,1576,146,53,53,https://app.niprojmidialysis.com/appointment/dialysis,348,0,0
+1701915077162,853,HTTP Request-2,200,OK,Thread Group 1-199,text,true,,4560,126,53,53,https://app.niprojmidialysis.com,830,0,0
+1701915071530,6496,HTTP Request,200,OK,Thread Group 1-195,text,true,,6671,419,52,52,https://app.niprojmidialysis.com,5280,0,5242
+1701915071530,5280,HTTP Request-0,301,Moved Permanently,Thread Group 1-195,text,true,,535,147,52,52,https://app.niprojmidialysis.com/appointment/dialysis/,5280,0,5242
+1701915076810,618,HTTP Request-1,302,Found,Thread Group 1-195,text,true,,1576,146,52,52,https://app.niprojmidialysis.com/appointment/dialysis,605,0,0
+1701915077429,597,HTTP Request-2,200,OK,Thread Group 1-195,text,true,,4560,126,52,52,https://app.niprojmidialysis.com,570,0,0
+1701915071292,6754,HTTP Request,200,OK,Thread Group 1-147,text,true,,6671,419,51,51,https://app.niprojmidialysis.com,5487,0,5456
+1701915071506,6540,HTTP Request,200,OK,Thread Group 1-189,text,true,,6671,419,51,51,https://app.niprojmidialysis.com,5298,0,5260
+1701915071292,5487,HTTP Request-0,301,Moved Permanently,Thread Group 1-147,text,true,,535,147,51,51,https://app.niprojmidialysis.com/appointment/dialysis/,5487,0,5456
+1701915071506,5298,HTTP Request-0,301,Moved Permanently,Thread Group 1-189,text,true,,535,147,51,51,https://app.niprojmidialysis.com/appointment/dialysis/,5298,0,5260
+1701915076779,636,HTTP Request-1,302,Found,Thread Group 1-147,text,true,,1576,146,51,51,https://app.niprojmidialysis.com/appointment/dialysis,613,0,0
+1701915076804,743,HTTP Request-1,302,Found,Thread Group 1-189,text,true,,1576,146,51,51,https://app.niprojmidialysis.com/appointment/dialysis,717,0,0
+1701915077415,631,HTTP Request-2,200,OK,Thread Group 1-147,text,true,,4560,126,51,51,https://app.niprojmidialysis.com,610,0,0
+1701915077547,499,HTTP Request-2,200,OK,Thread Group 1-189,text,true,,4560,126,51,51,https://app.niprojmidialysis.com,486,0,0
+1701915071288,6758,HTTP Request,200,OK,Thread Group 1-146,text,true,,6671,419,51,51,https://app.niprojmidialysis.com,5491,0,5460
+1701915071288,5491,HTTP Request-0,301,Moved Permanently,Thread Group 1-146,text,true,,535,147,51,51,https://app.niprojmidialysis.com/appointment/dialysis/,5491,0,5460
+1701915076779,555,HTTP Request-1,302,Found,Thread Group 1-146,text,true,,1576,146,51,51,https://app.niprojmidialysis.com/appointment/dialysis,538,0,0
+1701915077334,712,HTTP Request-2,200,OK,Thread Group 1-146,text,true,,4560,126,51,51,https://app.niprojmidialysis.com,685,0,0
+1701915071355,6708,HTTP Request,200,OK,Thread Group 1-160,text,true,,6671,419,48,48,https://app.niprojmidialysis.com,5607,0,5496
+1701915071355,5607,HTTP Request-0,301,Moved Permanently,Thread Group 1-160,text,true,,535,147,48,48,https://app.niprojmidialysis.com/appointment/dialysis/,5607,0,5496
+1701915076962,668,HTTP Request-1,302,Found,Thread Group 1-160,text,true,,1576,146,48,48,https://app.niprojmidialysis.com/appointment/dialysis,643,0,0
+1701915077630,433,HTTP Request-2,200,OK,Thread Group 1-160,text,true,,4560,126,48,48,https://app.niprojmidialysis.com,433,0,0
+1701915071273,6792,HTTP Request,200,OK,Thread Group 1-143,text,true,,6671,419,47,47,https://app.niprojmidialysis.com,5499,0,5471
+1701915071273,5499,HTTP Request-0,301,Moved Permanently,Thread Group 1-143,text,true,,535,147,47,47,https://app.niprojmidialysis.com/appointment/dialysis/,5499,0,5471
+1701915076772,620,HTTP Request-1,302,Found,Thread Group 1-143,text,true,,1576,146,47,47,https://app.niprojmidialysis.com/appointment/dialysis,606,0,0
+1701915077392,673,HTTP Request-2,200,OK,Thread Group 1-143,text,true,,4560,126,47,47,https://app.niprojmidialysis.com,654,0,0
+1701915071319,6760,HTTP Request,200,OK,Thread Group 1-152,text,true,,6671,419,46,46,https://app.niprojmidialysis.com,5536,0,5472
+1701915071319,5536,HTTP Request-0,301,Moved Permanently,Thread Group 1-152,text,true,,535,147,46,46,https://app.niprojmidialysis.com/appointment/dialysis/,5536,0,5472
+1701915076855,565,HTTP Request-1,302,Found,Thread Group 1-152,text,true,,1576,146,46,46,https://app.niprojmidialysis.com/appointment/dialysis,540,0,0
+1701915077420,659,HTTP Request-2,200,OK,Thread Group 1-152,text,true,,4560,126,46,46,https://app.niprojmidialysis.com,655,0,0
+1701915071520,6589,HTTP Request,200,OK,Thread Group 1-193,text,true,,6671,419,45,45,https://app.niprojmidialysis.com,5329,0,5262
+1701915071520,5330,HTTP Request-0,301,Moved Permanently,Thread Group 1-193,text,true,,535,147,45,45,https://app.niprojmidialysis.com/appointment/dialysis/,5329,0,5262
+1701915076850,601,HTTP Request-1,302,Found,Thread Group 1-193,text,true,,1576,146,45,45,https://app.niprojmidialysis.com/appointment/dialysis,565,0,0
+1701915077451,658,HTTP Request-2,200,OK,Thread Group 1-193,text,true,,4560,126,45,45,https://app.niprojmidialysis.com,635,0,0
+1701915071519,6601,HTTP Request,200,OK,Thread Group 1-192,text,true,,6671,419,44,44,https://app.niprojmidialysis.com,5291,0,5260
+1701915071519,5291,HTTP Request-0,301,Moved Permanently,Thread Group 1-192,text,true,,535,147,44,44,https://app.niprojmidialysis.com/appointment/dialysis/,5291,0,5260
+1701915076810,705,HTTP Request-1,302,Found,Thread Group 1-192,text,true,,1576,146,44,44,https://app.niprojmidialysis.com/appointment/dialysis,664,0,0
+1701915077515,605,HTTP Request-2,200,OK,Thread Group 1-192,text,true,,4560,126,44,44,https://app.niprojmidialysis.com,577,0,0
+1701915071329,6794,HTTP Request,200,OK,Thread Group 1-154,text,true,,6671,419,43,43,https://app.niprojmidialysis.com,5643,0,5527
+1701915071329,5643,HTTP Request-0,301,Moved Permanently,Thread Group 1-154,text,true,,535,147,43,43,https://app.niprojmidialysis.com/appointment/dialysis/,5643,0,5527
+1701915076972,544,HTTP Request-1,302,Found,Thread Group 1-154,text,true,,1576,146,43,43,https://app.niprojmidialysis.com/appointment/dialysis,502,0,0
+1701915077516,607,HTTP Request-2,200,OK,Thread Group 1-154,text,true,,4560,126,43,43,https://app.niprojmidialysis.com,605,0,0
+1701915071344,6788,HTTP Request,200,OK,Thread Group 1-157,text,true,,6671,419,42,42,https://app.niprojmidialysis.com,5628,0,5512
+1701915071344,5628,HTTP Request-0,301,Moved Permanently,Thread Group 1-157,text,true,,535,147,42,42,https://app.niprojmidialysis.com/appointment/dialysis/,5628,0,5512
+1701915076972,633,HTTP Request-1,302,Found,Thread Group 1-157,text,true,,1576,146,42,42,https://app.niprojmidialysis.com/appointment/dialysis,632,0,0
+1701915077605,527,HTTP Request-2,200,OK,Thread Group 1-157,text,true,,4560,126,42,42,https://app.niprojmidialysis.com,504,0,0
+1701915071279,6862,HTTP Request,200,OK,Thread Group 1-144,text,true,,6671,419,41,41,https://app.niprojmidialysis.com,5493,0,5467
+1701915071279,5493,HTTP Request-0,301,Moved Permanently,Thread Group 1-144,text,true,,535,147,41,41,https://app.niprojmidialysis.com/appointment/dialysis/,5493,0,5467
+1701915076772,507,HTTP Request-1,302,Found,Thread Group 1-144,text,true,,1576,146,41,41,https://app.niprojmidialysis.com/appointment/dialysis,495,0,0
+1701915077279,862,HTTP Request-2,200,OK,Thread Group 1-144,text,true,,4560,126,41,41,https://app.niprojmidialysis.com,856,0,0
+1701915071399,6764,HTTP Request,200,OK,Thread Group 1-168,text,true,,6671,419,40,40,https://app.niprojmidialysis.com,5579,0,5484
+1701915071399,5579,HTTP Request-0,301,Moved Permanently,Thread Group 1-168,text,true,,535,147,40,40,https://app.niprojmidialysis.com/appointment/dialysis/,5579,0,5484
+1701915076978,637,HTTP Request-1,302,Found,Thread Group 1-168,text,true,,1576,146,40,40,https://app.niprojmidialysis.com/appointment/dialysis,610,0,0
+1701915077615,548,HTTP Request-2,200,OK,Thread Group 1-168,text,true,,4560,126,40,40,https://app.niprojmidialysis.com,548,0,0
+1701915071321,6850,HTTP Request,200,OK,Thread Group 1-153,text,true,,6671,419,39,39,https://app.niprojmidialysis.com,5482,0,5445
+1701915071549,6622,HTTP Request,200,OK,Thread Group 1-198,text,true,,6671,419,39,39,https://app.niprojmidialysis.com,5300,0,5233
+1701915071321,5482,HTTP Request-0,301,Moved Permanently,Thread Group 1-153,text,true,,535,147,39,39,https://app.niprojmidialysis.com/appointment/dialysis/,5482,0,5445
+1701915071549,5301,HTTP Request-0,301,Moved Permanently,Thread Group 1-198,text,true,,535,147,39,39,https://app.niprojmidialysis.com/appointment/dialysis/,5300,0,5233
+1701915076803,538,HTTP Request-1,302,Found,Thread Group 1-153,text,true,,1576,146,39,39,https://app.niprojmidialysis.com/appointment/dialysis,514,0,0
+1701915076850,754,HTTP Request-1,302,Found,Thread Group 1-198,text,true,,1576,146,39,39,https://app.niprojmidialysis.com/appointment/dialysis,732,0,0
+1701915077341,830,HTTP Request-2,200,OK,Thread Group 1-153,text,true,,4560,126,39,39,https://app.niprojmidialysis.com,830,0,0
+1701915077604,567,HTTP Request-2,200,OK,Thread Group 1-198,text,true,,4560,126,39,39,https://app.niprojmidialysis.com,528,0,0
+1701915071429,6750,HTTP Request,200,OK,Thread Group 1-174,text,true,,6671,419,37,37,https://app.niprojmidialysis.com,5559,0,5465
+1701915071429,5559,HTTP Request-0,301,Moved Permanently,Thread Group 1-174,text,true,,535,147,37,37,https://app.niprojmidialysis.com/appointment/dialysis/,5559,0,5465
+1701915076988,616,HTTP Request-1,302,Found,Thread Group 1-174,text,true,,1576,146,37,37,https://app.niprojmidialysis.com/appointment/dialysis,594,0,0
+1701915077604,575,HTTP Request-2,200,OK,Thread Group 1-174,text,true,,4560,126,37,37,https://app.niprojmidialysis.com,566,0,0
+1701915071539,6649,HTTP Request,200,OK,Thread Group 1-197,text,true,,6671,419,36,36,https://app.niprojmidialysis.com,5548,0,5439
+1701915071309,6879,HTTP Request,200,OK,Thread Group 1-150,text,true,,6671,419,36,36,https://app.niprojmidialysis.com,5541,0,5476
+1701915071539,5548,HTTP Request-0,301,Moved Permanently,Thread Group 1-197,text,true,,535,147,36,36,https://app.niprojmidialysis.com/appointment/dialysis/,5548,0,5439
+1701915071309,5541,HTTP Request-0,301,Moved Permanently,Thread Group 1-150,text,true,,535,147,36,36,https://app.niprojmidialysis.com/appointment/dialysis/,5541,0,5476
+1701915077087,548,HTTP Request-1,302,Found,Thread Group 1-197,text,true,,1576,146,36,36,https://app.niprojmidialysis.com/appointment/dialysis,518,0,0
+1701915076850,542,HTTP Request-1,302,Found,Thread Group 1-150,text,true,,1576,146,36,36,https://app.niprojmidialysis.com/appointment/dialysis,528,0,0
+1701915077635,553,HTTP Request-2,200,OK,Thread Group 1-197,text,true,,4560,126,36,36,https://app.niprojmidialysis.com,546,0,0
+1701915077392,796,HTTP Request-2,200,OK,Thread Group 1-150,text,true,,4560,126,36,36,https://app.niprojmidialysis.com,789,0,0
+1701915071404,6784,HTTP Request,200,OK,Thread Group 1-169,text,true,,6671,419,36,36,https://app.niprojmidialysis.com,5574,0,5479
+1701915071404,5574,HTTP Request-0,301,Moved Permanently,Thread Group 1-169,text,true,,535,147,36,36,https://app.niprojmidialysis.com/appointment/dialysis/,5574,0,5479
+1701915076978,646,HTTP Request-1,302,Found,Thread Group 1-169,text,true,,1576,146,36,36,https://app.niprojmidialysis.com/appointment/dialysis,637,0,0
+1701915077624,564,HTTP Request-2,200,OK,Thread Group 1-169,text,true,,4560,126,36,36,https://app.niprojmidialysis.com,557,0,0
+1701915071511,6677,HTTP Request,200,OK,Thread Group 1-190,text,true,,6671,419,36,36,https://app.niprojmidialysis.com,5293,0,5256
+1701915071511,5293,HTTP Request-0,301,Moved Permanently,Thread Group 1-190,text,true,,535,147,36,36,https://app.niprojmidialysis.com/appointment/dialysis/,5293,0,5256
+1701915076804,580,HTTP Request-1,302,Found,Thread Group 1-190,text,true,,1576,146,36,36,https://app.niprojmidialysis.com/appointment/dialysis,526,0,0
+1701915077384,804,HTTP Request-2,200,OK,Thread Group 1-190,text,true,,4560,126,36,36,https://app.niprojmidialysis.com,795,0,0
+1701915071345,6853,HTTP Request,200,OK,Thread Group 1-158,text,true,,6671,419,32,32,https://app.niprojmidialysis.com,5520,0,5459
+1701915071345,5520,HTTP Request-0,301,Moved Permanently,Thread Group 1-158,text,true,,535,147,32,32,https://app.niprojmidialysis.com/appointment/dialysis/,5520,0,5459
+1701915076865,566,HTTP Request-1,302,Found,Thread Group 1-158,text,true,,1576,146,32,32,https://app.niprojmidialysis.com/appointment/dialysis,542,0,0
+1701915077431,767,HTTP Request-2,200,OK,Thread Group 1-158,text,true,,4560,126,32,32,https://app.niprojmidialysis.com,762,0,0
+1701915071379,6857,HTTP Request,200,OK,Thread Group 1-164,text,true,,6671,419,31,31,https://app.niprojmidialysis.com,5707,0,5590
+1701915071379,5707,HTTP Request-0,301,Moved Permanently,Thread Group 1-164,text,true,,535,147,31,31,https://app.niprojmidialysis.com/appointment/dialysis/,5707,0,5590
+1701915077086,607,HTTP Request-1,302,Found,Thread Group 1-164,text,true,,1576,146,31,31,https://app.niprojmidialysis.com/appointment/dialysis,590,0,0
+1701915077693,543,HTTP Request-2,200,OK,Thread Group 1-164,text,true,,4560,126,31,31,https://app.niprojmidialysis.com,536,0,0
+1701915071389,6858,HTTP Request,200,OK,Thread Group 1-167,text,true,,6671,419,30,30,https://app.niprojmidialysis.com,5695,0,5573
+1701915071389,5695,HTTP Request-0,301,Moved Permanently,Thread Group 1-167,text,true,,535,147,30,30,https://app.niprojmidialysis.com/appointment/dialysis/,5695,0,5573
+1701915077085,667,HTTP Request-1,302,Found,Thread Group 1-167,text,true,,1576,146,30,30,https://app.niprojmidialysis.com/appointment/dialysis,658,0,0
+1701915077752,495,HTTP Request-2,200,OK,Thread Group 1-167,text,true,,4560,126,30,30,https://app.niprojmidialysis.com,484,0,0
+1701915071354,6916,HTTP Request,200,OK,Thread Group 1-159,text,true,,6671,419,29,29,https://app.niprojmidialysis.com,5623,0,5528
+1701915071410,6860,HTTP Request,200,OK,Thread Group 1-171,text,true,,6671,419,29,29,https://app.niprojmidialysis.com,5644,0,5528
+1701915071354,5623,HTTP Request-0,301,Moved Permanently,Thread Group 1-159,text,true,,535,147,29,29,https://app.niprojmidialysis.com/appointment/dialysis/,5623,0,5528
+1701915071410,5644,HTTP Request-0,301,Moved Permanently,Thread Group 1-171,text,true,,535,147,29,29,https://app.niprojmidialysis.com/appointment/dialysis/,5644,0,5528
+1701915077054,624,HTTP Request-1,302,Found,Thread Group 1-171,text,true,,1576,146,29,29,https://app.niprojmidialysis.com/appointment/dialysis,599,0,0
+1701915077678,592,HTTP Request-2,200,OK,Thread Group 1-171,text,true,,4560,126,29,29,https://app.niprojmidialysis.com,558,0,0
+1701915076978,755,HTTP Request-1,302,Found,Thread Group 1-159,text,true,,1576,146,29,29,https://app.niprojmidialysis.com/appointment/dialysis,740,0,0
+1701915077733,537,HTTP Request-2,200,OK,Thread Group 1-159,text,true,,4560,126,29,29,https://app.niprojmidialysis.com,533,0,0
+1701915071474,6807,HTTP Request,200,OK,Thread Group 1-183,text,true,,6671,419,27,27,https://app.niprojmidialysis.com,5808,0,5802
+1701915071474,5808,HTTP Request-0,301,Moved Permanently,Thread Group 1-183,text,true,,535,147,27,27,https://app.niprojmidialysis.com/appointment/dialysis/,5808,0,5802
+1701915077282,627,HTTP Request-1,302,Found,Thread Group 1-183,text,true,,1576,146,27,27,https://app.niprojmidialysis.com/appointment/dialysis,596,0,0
+1701915077909,372,HTTP Request-2,200,OK,Thread Group 1-183,text,true,,4560,126,27,27,https://app.niprojmidialysis.com,364,0,0
+1701915071445,6843,HTTP Request,200,OK,Thread Group 1-178,text,true,,6671,419,26,26,https://app.niprojmidialysis.com,5609,0,5494
+1701915071445,5609,HTTP Request-0,301,Moved Permanently,Thread Group 1-178,text,true,,535,147,26,26,https://app.niprojmidialysis.com/appointment/dialysis/,5609,0,5494
+1701915077054,690,HTTP Request-1,302,Found,Thread Group 1-178,text,true,,1576,146,26,26,https://app.niprojmidialysis.com/appointment/dialysis,665,0,0
+1701915077744,544,HTTP Request-2,200,OK,Thread Group 1-178,text,true,,4560,126,26,26,https://app.niprojmidialysis.com,537,0,0
+1701915071424,6867,HTTP Request,200,OK,Thread Group 1-173,text,true,,6671,419,25,25,https://app.niprojmidialysis.com,5608,0,5494
+1701915071424,5608,HTTP Request-0,301,Moved Permanently,Thread Group 1-173,text,true,,535,147,25,25,https://app.niprojmidialysis.com/appointment/dialysis/,5608,0,5494
+1701915077032,719,HTTP Request-1,302,Found,Thread Group 1-173,text,true,,1576,146,25,25,https://app.niprojmidialysis.com/appointment/dialysis,687,0,0
+1701915077751,540,HTTP Request-2,200,OK,Thread Group 1-173,text,true,,4560,126,25,25,https://app.niprojmidialysis.com,533,0,0
+1701915071369,6928,HTTP Request,200,OK,Thread Group 1-163,text,true,,6671,419,24,24,https://app.niprojmidialysis.com,5685,0,5569
+1701915071369,5685,HTTP Request-0,301,Moved Permanently,Thread Group 1-163,text,true,,535,147,24,24,https://app.niprojmidialysis.com/appointment/dialysis/,5685,0,5569
+1701915077054,632,HTTP Request-1,302,Found,Thread Group 1-163,text,true,,1576,146,24,24,https://app.niprojmidialysis.com/appointment/dialysis,614,0,0
+1701915077686,611,HTTP Request-2,200,OK,Thread Group 1-163,text,true,,4560,126,24,24,https://app.niprojmidialysis.com,580,0,0
+1701915071439,6860,HTTP Request,200,OK,Thread Group 1-176,text,true,,6671,419,23,23,https://app.niprojmidialysis.com,5646,0,5526
+1701915071439,5646,HTTP Request-0,301,Moved Permanently,Thread Group 1-176,text,true,,535,147,23,23,https://app.niprojmidialysis.com/appointment/dialysis/,5646,0,5526
+1701915077086,676,HTTP Request-1,302,Found,Thread Group 1-176,text,true,,1576,146,23,23,https://app.niprojmidialysis.com/appointment/dialysis,672,0,0
+1701915077763,536,HTTP Request-2,200,OK,Thread Group 1-176,text,true,,4560,126,23,23,https://app.niprojmidialysis.com,528,0,0
+1701915071331,6982,HTTP Request,200,OK,Thread Group 1-155,text,true,,6671,419,22,22,https://app.niprojmidialysis.com,5631,0,5519
+1701915071331,5631,HTTP Request-0,301,Moved Permanently,Thread Group 1-155,text,true,,535,147,22,22,https://app.niprojmidialysis.com/appointment/dialysis/,5631,0,5519
+1701915076962,801,HTTP Request-1,302,Found,Thread Group 1-155,text,true,,1576,146,22,22,https://app.niprojmidialysis.com/appointment/dialysis,777,0,0
+1701915077763,550,HTTP Request-2,200,OK,Thread Group 1-155,text,true,,4560,126,22,22,https://app.niprojmidialysis.com,546,0,0
+1701915071499,6819,HTTP Request,200,OK,Thread Group 1-188,text,true,,6671,419,21,21,https://app.niprojmidialysis.com,5631,0,5534
+1701915071499,5631,HTTP Request-0,301,Moved Permanently,Thread Group 1-188,text,true,,535,147,21,21,https://app.niprojmidialysis.com/appointment/dialysis/,5631,0,5534
+1701915077130,632,HTTP Request-1,302,Found,Thread Group 1-188,text,true,,1576,146,21,21,https://app.niprojmidialysis.com/appointment/dialysis,603,0,0
+1701915077763,555,HTTP Request-2,200,OK,Thread Group 1-188,text,true,,4560,126,21,21,https://app.niprojmidialysis.com,550,0,0
+1701915071494,6825,HTTP Request,200,OK,Thread Group 1-187,text,true,,6671,419,20,20,https://app.niprojmidialysis.com,5665,0,5593
+1701915071494,5665,HTTP Request-0,301,Moved Permanently,Thread Group 1-187,text,true,,535,147,20,20,https://app.niprojmidialysis.com/appointment/dialysis/,5665,0,5593
+1701915077159,663,HTTP Request-1,302,Found,Thread Group 1-187,text,true,,1576,146,20,20,https://app.niprojmidialysis.com/appointment/dialysis,638,0,0
+1701915077822,497,HTTP Request-2,200,OK,Thread Group 1-187,text,true,,4560,126,20,20,https://app.niprojmidialysis.com,477,0,0
+1701915071389,6937,HTTP Request,200,OK,Thread Group 1-166,text,true,,6671,419,19,19,https://app.niprojmidialysis.com,5697,0,5574
+1701915071389,5697,HTTP Request-0,301,Moved Permanently,Thread Group 1-166,text,true,,535,147,19,19,https://app.niprojmidialysis.com/appointment/dialysis/,5697,0,5574
+1701915077086,929,HTTP Request-1,302,Found,Thread Group 1-166,text,true,,1576,146,19,19,https://app.niprojmidialysis.com/appointment/dialysis,906,0,0
+1701915078015,311,HTTP Request-2,200,OK,Thread Group 1-166,text,true,,4560,126,19,19,https://app.niprojmidialysis.com,304,0,0
+1701915071339,6999,HTTP Request,200,OK,Thread Group 1-156,text,true,,6671,419,18,18,https://app.niprojmidialysis.com,5638,0,5543
+1701915071339,5638,HTTP Request-0,301,Moved Permanently,Thread Group 1-156,text,true,,535,147,18,18,https://app.niprojmidialysis.com/appointment/dialysis/,5638,0,5543
+1701915076977,741,HTTP Request-1,302,Found,Thread Group 1-156,text,true,,1576,146,18,18,https://app.niprojmidialysis.com/appointment/dialysis,709,0,0
+1701915077719,619,HTTP Request-2,200,OK,Thread Group 1-156,text,true,,4560,126,18,18,https://app.niprojmidialysis.com,619,0,0
+1701915071530,6808,HTTP Request,200,OK,Thread Group 1-194,text,true,,6671,419,17,17,https://app.niprojmidialysis.com,5622,0,5525
+1701915071530,5622,HTTP Request-0,301,Moved Permanently,Thread Group 1-194,text,true,,535,147,17,17,https://app.niprojmidialysis.com/appointment/dialysis/,5622,0,5525
+1701915077152,669,HTTP Request-1,302,Found,Thread Group 1-194,text,true,,1576,146,17,17,https://app.niprojmidialysis.com/appointment/dialysis,645,0,0
+1701915077821,517,HTTP Request-2,200,OK,Thread Group 1-194,text,true,,4560,126,17,17,https://app.niprojmidialysis.com,514,0,0
+1701915071369,6969,HTTP Request,200,OK,Thread Group 1-162,text,true,,6671,419,16,16,https://app.niprojmidialysis.com,5717,0,5604
+1701915071369,5717,HTTP Request-0,301,Moved Permanently,Thread Group 1-162,text,true,,535,147,16,16,https://app.niprojmidialysis.com/appointment/dialysis/,5717,0,5604
+1701915077086,735,HTTP Request-1,302,Found,Thread Group 1-162,text,true,,1576,146,16,16,https://app.niprojmidialysis.com/appointment/dialysis,727,0,0
+1701915077821,517,HTTP Request-2,200,OK,Thread Group 1-162,text,true,,4560,126,16,16,https://app.niprojmidialysis.com,517,0,0
+1701915071534,6807,HTTP Request,200,OK,Thread Group 1-196,text,true,,6671,419,15,15,https://app.niprojmidialysis.com,5574,0,5475
+1701915071534,5574,HTTP Request-0,301,Moved Permanently,Thread Group 1-196,text,true,,535,147,15,15,https://app.niprojmidialysis.com/appointment/dialysis/,5574,0,5475
+1701915077108,760,HTTP Request-1,302,Found,Thread Group 1-196,text,true,,1576,146,15,15,https://app.niprojmidialysis.com/appointment/dialysis,733,0,0
+1701915077868,473,HTTP Request-2,200,OK,Thread Group 1-196,text,true,,4560,126,15,15,https://app.niprojmidialysis.com,470,0,0
+1701915071455,6897,HTTP Request,200,OK,Thread Group 1-179,text,true,,6671,419,14,14,https://app.niprojmidialysis.com,6019,0,6005
+1701915071455,6019,HTTP Request-0,301,Moved Permanently,Thread Group 1-179,text,true,,535,147,14,14,https://app.niprojmidialysis.com/appointment/dialysis/,6019,0,6005
+1701915077474,484,HTTP Request-1,302,Found,Thread Group 1-179,text,true,,1576,146,14,14,https://app.niprojmidialysis.com/appointment/dialysis,462,0,0
+1701915077958,394,HTTP Request-2,200,OK,Thread Group 1-179,text,true,,4560,126,14,14,https://app.niprojmidialysis.com,382,0,0
+1701915071430,6924,HTTP Request,200,OK,Thread Group 1-175,text,true,,6671,419,13,13,https://app.niprojmidialysis.com,5741,0,5701
+1701915071430,5741,HTTP Request-0,301,Moved Permanently,Thread Group 1-175,text,true,,535,147,13,13,https://app.niprojmidialysis.com/appointment/dialysis/,5741,0,5701
+1701915077171,670,HTTP Request-1,302,Found,Thread Group 1-175,text,true,,1576,146,13,13,https://app.niprojmidialysis.com/appointment/dialysis,649,0,0
+1701915077841,513,HTTP Request-2,200,OK,Thread Group 1-175,text,true,,4560,126,13,13,https://app.niprojmidialysis.com,511,0,0
+1701915071479,6875,HTTP Request,200,OK,Thread Group 1-184,text,true,,6671,419,12,12,https://app.niprojmidialysis.com,5734,0,5692
+1701915071479,5734,HTTP Request-0,301,Moved Permanently,Thread Group 1-184,text,true,,535,147,12,12,https://app.niprojmidialysis.com/appointment/dialysis/,5734,0,5692
+1701915077213,674,HTTP Request-1,302,Found,Thread Group 1-184,text,true,,1576,146,12,12,https://app.niprojmidialysis.com/appointment/dialysis,654,0,0
+1701915077887,467,HTTP Request-2,200,OK,Thread Group 1-184,text,true,,4560,126,12,12,https://app.niprojmidialysis.com,459,0,0
+1701915071484,6881,HTTP Request,200,OK,Thread Group 1-185,text,true,,6671,419,11,11,https://app.niprojmidialysis.com,5729,0,5678
+1701915071484,5729,HTTP Request-0,301,Moved Permanently,Thread Group 1-185,text,true,,535,147,11,11,https://app.niprojmidialysis.com/appointment/dialysis/,5729,0,5678
+1701915071464,6901,HTTP Request,200,OK,Thread Group 1-182,text,true,,6671,419,11,11,https://app.niprojmidialysis.com,5806,0,5784
+1701915077213,661,HTTP Request-1,302,Found,Thread Group 1-185,text,true,,1576,146,11,11,https://app.niprojmidialysis.com/appointment/dialysis,654,0,0
+1701915071464,5806,HTTP Request-0,301,Moved Permanently,Thread Group 1-182,text,true,,535,147,11,11,https://app.niprojmidialysis.com/appointment/dialysis/,5806,0,5784
+1701915077874,491,HTTP Request-2,200,OK,Thread Group 1-185,text,true,,4560,126,11,11,https://app.niprojmidialysis.com,485,0,0
+1701915077270,822,HTTP Request-1,302,Found,Thread Group 1-182,text,true,,1576,146,11,11,https://app.niprojmidialysis.com/appointment/dialysis,793,0,0
+1701915078092,273,HTTP Request-2,200,OK,Thread Group 1-182,text,true,,4560,126,11,11,https://app.niprojmidialysis.com,262,0,0
+1701915071364,7024,HTTP Request,200,OK,Thread Group 1-161,text,true,,6671,419,9,9,https://app.niprojmidialysis.com,5613,0,5518
+1701915071364,5613,HTTP Request-0,301,Moved Permanently,Thread Group 1-161,text,true,,535,147,9,9,https://app.niprojmidialysis.com/appointment/dialysis/,5613,0,5518
+1701915071379,7009,HTTP Request,200,OK,Thread Group 1-165,text,true,,6671,419,9,9,https://app.niprojmidialysis.com,5675,0,5558
+1701915071484,6904,HTTP Request,200,OK,Thread Group 1-186,text,true,,6671,419,9,9,https://app.niprojmidialysis.com,5713,0,5675
+1701915076977,1124,HTTP Request-1,302,Found,Thread Group 1-161,text,true,,1576,146,9,9,https://app.niprojmidialysis.com/appointment/dialysis,1115,0,0
+1701915071379,5675,HTTP Request-0,301,Moved Permanently,Thread Group 1-165,text,true,,535,147,9,9,https://app.niprojmidialysis.com/appointment/dialysis/,5675,0,5558
+1701915078101,287,HTTP Request-2,200,OK,Thread Group 1-161,text,true,,4560,126,9,9,https://app.niprojmidialysis.com,273,0,0
+1701915071484,5713,HTTP Request-0,301,Moved Permanently,Thread Group 1-186,text,true,,535,147,9,9,https://app.niprojmidialysis.com/appointment/dialysis/,5713,0,5675
+1701915077197,713,HTTP Request-1,302,Found,Thread Group 1-186,text,true,,1576,146,9,9,https://app.niprojmidialysis.com/appointment/dialysis,675,0,0
+1701915077910,478,HTTP Request-2,200,OK,Thread Group 1-186,text,true,,4560,126,9,9,https://app.niprojmidialysis.com,478,0,0
+1701915077054,945,HTTP Request-1,302,Found,Thread Group 1-165,text,true,,1576,146,9,9,https://app.niprojmidialysis.com/appointment/dialysis,938,0,0
+1701915077999,389,HTTP Request-2,200,OK,Thread Group 1-165,text,true,,4560,126,9,9,https://app.niprojmidialysis.com,373,0,0
+1701915071444,6960,HTTP Request,200,OK,Thread Group 1-177,text,true,,6671,419,6,6,https://app.niprojmidialysis.com,6090,0,6083
+1701915071419,6985,HTTP Request,200,OK,Thread Group 1-172,text,true,,6671,419,6,6,https://app.niprojmidialysis.com,5929,0,5923
+1701915071419,5929,HTTP Request-0,301,Moved Permanently,Thread Group 1-172,text,true,,535,147,6,6,https://app.niprojmidialysis.com/appointment/dialysis/,5929,0,5923
+1701915077348,726,HTTP Request-1,302,Found,Thread Group 1-172,text,true,,1576,146,6,6,https://app.niprojmidialysis.com/appointment/dialysis,715,0,0
+1701915078075,329,HTTP Request-2,200,OK,Thread Group 1-172,text,true,,4560,126,6,6,https://app.niprojmidialysis.com,318,0,0
+1701915071444,6090,HTTP Request-0,301,Moved Permanently,Thread Group 1-177,text,true,,535,147,6,6,https://app.niprojmidialysis.com/appointment/dialysis/,6090,0,6083
+1701915077534,607,HTTP Request-1,302,Found,Thread Group 1-177,text,true,,1576,146,6,6,https://app.niprojmidialysis.com/appointment/dialysis,601,0,0
+1701915078142,262,HTTP Request-2,200,OK,Thread Group 1-177,text,true,,4560,126,6,6,https://app.niprojmidialysis.com,249,0,0
+1701915071464,6955,HTTP Request,200,OK,Thread Group 1-181,text,true,,6671,419,4,4,https://app.niprojmidialysis.com,5749,0,5707
+1701915071464,5749,HTTP Request-0,301,Moved Permanently,Thread Group 1-181,text,true,,535,147,4,4,https://app.niprojmidialysis.com/appointment/dialysis/,5749,0,5707
+1701915077213,958,HTTP Request-1,302,Found,Thread Group 1-181,text,true,,1576,146,4,4,https://app.niprojmidialysis.com/appointment/dialysis,958,0,0
+1701915078171,248,HTTP Request-2,200,OK,Thread Group 1-181,text,true,,4560,126,4,4,https://app.niprojmidialysis.com,248,0,0
+1701915071455,6979,HTTP Request,200,OK,Thread Group 1-180,text,true,,6671,419,3,3,https://app.niprojmidialysis.com,6018,0,5997
+1701915071455,6018,HTTP Request-0,301,Moved Permanently,Thread Group 1-180,text,true,,535,147,3,3,https://app.niprojmidialysis.com/appointment/dialysis/,6018,0,5997
+1701915077473,620,HTTP Request-1,302,Found,Thread Group 1-180,text,true,,1576,146,3,3,https://app.niprojmidialysis.com/appointment/dialysis,613,0,0
+1701915078094,340,HTTP Request-2,200,OK,Thread Group 1-180,text,true,,4560,126,3,3,https://app.niprojmidialysis.com,331,0,0
+1701915071409,7064,HTTP Request,200,OK,Thread Group 1-170,text,true,,6671,419,2,2,https://app.niprojmidialysis.com,6107,0,6087
+1701915071409,6107,HTTP Request-0,301,Moved Permanently,Thread Group 1-170,text,true,,535,147,2,2,https://app.niprojmidialysis.com/appointment/dialysis/,6107,0,6087
+1701915077516,750,HTTP Request-1,302,Found,Thread Group 1-170,text,true,,1576,146,2,2,https://app.niprojmidialysis.com/appointment/dialysis,713,0,0
+1701915078266,207,HTTP Request-2,200,OK,Thread Group 1-170,text,true,,4560,126,2,2,https://app.niprojmidialysis.com,204,0,0
+1701915071558,6954,HTTP Request,200,OK,Thread Group 1-200,text,true,,6671,419,1,1,https://app.niprojmidialysis.com,6135,0,6127
+1701915071558,6135,HTTP Request-0,301,Moved Permanently,Thread Group 1-200,text,true,,535,147,1,1,https://app.niprojmidialysis.com/appointment/dialysis/,6135,0,6127
+1701915077693,588,HTTP Request-1,302,Found,Thread Group 1-200,text,true,,1576,146,1,1,https://app.niprojmidialysis.com/appointment/dialysis,573,0,0
+1701915078281,231,HTTP Request-2,200,OK,Thread Group 1-200,text,true,,4560,126,1,1,https://app.niprojmidialysis.com,231,0,0
