@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701923307103,3781,Appointment List,200,OK,Thread Group 1-1,text,true,,6671,419,1,1,https://app.niprojmidialysis.com,3482,0,3471
+1701923307103,3485,Appointment List-0,301,Moved Permanently,Thread Group 1-1,text,true,,535,147,1,1,https://app.niprojmidialysis.com/appointment/dialysis/,3482,0,3471
+1701923310589,152,Appointment List-1,302,Found,Thread Group 1-1,text,true,,1576,146,1,1,https://app.niprojmidialysis.com/appointment/dialysis,150,0,0
+1701923310742,142,Appointment List-2,200,OK,Thread Group 1-1,text,true,,4560,126,1,1,https://app.niprojmidialysis.com,141,0,0
